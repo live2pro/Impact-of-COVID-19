@@ -1,0 +1,6343 @@
+,Timeline,Covid-19 impact,Country
+0,1/22/20,1,Mainland China
+1,1/23/20,9,Mainland China
+2,1/24/20,15,Mainland China
+3,1/25/20,39,Mainland China
+4,1/26/20,60,Mainland China
+5,1/27/20,70,Mainland China
+6,1/28/20,106,Mainland China
+7,1/29/20,152,Mainland China
+8,1/30/20,200,Mainland China
+9,1/31/20,237,Mainland China
+10,2/1/20,297,Mainland China
+11,2/2/20,340,Mainland China
+12,2/3/20,408,Mainland China
+13,2/4/20,480,Mainland China
+14,2/5/20,530,Mainland China
+15,2/6/20,591,Mainland China
+16,2/7/20,665,Mainland China
+17,2/8/20,733,Mainland China
+18,2/9/20,779,Mainland China
+19,2/10/20,830,Mainland China
+20,2/11/20,860,Mainland China
+21,2/12/20,889,Mainland China
+22,2/13/20,910,Mainland China
+23,2/14/20,934,Mainland China
+24,2/15/20,950,Mainland China
+25,2/16/20,962,Mainland China
+26,2/17/20,973,Mainland China
+27,2/18/20,982,Mainland China
+28,2/19/20,986,Mainland China
+29,2/20/20,987,Mainland China
+30,2/21/20,988,Mainland China
+31,2/22/20,989,Mainland China
+32,2/23/20,989,Mainland China
+33,2/24/20,989,Mainland China
+34,2/25/20,989,Mainland China
+35,2/26/20,989,Mainland China
+36,2/27/20,989,Mainland China
+37,2/28/20,990,Mainland China
+38,2/29/20,990,Mainland China
+39,3/1/20,990,Mainland China
+40,3/2/20,990,Mainland China
+41,3/3/20,990,Mainland China
+42,1/22/20,14,Mainland China
+43,1/23/20,22,Mainland China
+44,1/24/20,36,Mainland China
+45,1/25/20,41,Mainland China
+46,1/26/20,68,Mainland China
+47,1/27/20,80,Mainland China
+48,1/28/20,91,Mainland China
+49,1/29/20,111,Mainland China
+50,1/30/20,114,Mainland China
+51,1/31/20,139,Mainland China
+52,2/1/20,168,Mainland China
+53,2/2/20,191,Mainland China
+54,2/3/20,212,Mainland China
+55,2/4/20,228,Mainland China
+56,2/5/20,253,Mainland China
+57,2/6/20,274,Mainland China
+58,2/7/20,297,Mainland China
+59,2/8/20,315,Mainland China
+60,2/9/20,326,Mainland China
+61,2/10/20,337,Mainland China
+62,2/11/20,342,Mainland China
+63,2/12/20,352,Mainland China
+64,2/13/20,366,Mainland China
+65,2/14/20,372,Mainland China
+66,2/15/20,375,Mainland China
+67,2/16/20,380,Mainland China
+68,2/17/20,381,Mainland China
+69,2/18/20,387,Mainland China
+70,2/19/20,393,Mainland China
+71,2/20/20,395,Mainland China
+72,2/21/20,396,Mainland China
+73,2/22/20,399,Mainland China
+74,2/23/20,399,Mainland China
+75,2/24/20,399,Mainland China
+76,2/25/20,400,Mainland China
+77,2/26/20,400,Mainland China
+78,2/27/20,410,Mainland China
+79,2/28/20,410,Mainland China
+80,2/29/20,411,Mainland China
+81,3/1/20,413,Mainland China
+82,3/2/20,414,Mainland China
+83,3/3/20,414,Mainland China
+84,1/22/20,6,Mainland China
+85,1/23/20,9,Mainland China
+86,1/24/20,27,Mainland China
+87,1/25/20,57,Mainland China
+88,1/26/20,75,Mainland China
+89,1/27/20,110,Mainland China
+90,1/28/20,132,Mainland China
+91,1/29/20,147,Mainland China
+92,1/30/20,182,Mainland China
+93,1/31/20,211,Mainland China
+94,2/1/20,247,Mainland China
+95,2/2/20,300,Mainland China
+96,2/3/20,337,Mainland China
+97,2/4/20,366,Mainland China
+98,2/5/20,389,Mainland China
+99,2/6/20,411,Mainland China
+100,2/7/20,426,Mainland China
+101,2/8/20,428,Mainland China
+102,2/9/20,468,Mainland China
+103,2/10/20,486,Mainland China
+104,2/11/20,505,Mainland China
+105,2/12/20,518,Mainland China
+106,2/13/20,529,Mainland China
+107,2/14/20,537,Mainland China
+108,2/15/20,544,Mainland China
+109,2/16/20,551,Mainland China
+110,2/17/20,553,Mainland China
+111,2/18/20,555,Mainland China
+112,2/19/20,560,Mainland China
+113,2/20/20,567,Mainland China
+114,2/21/20,572,Mainland China
+115,2/22/20,573,Mainland China
+116,2/23/20,575,Mainland China
+117,2/24/20,576,Mainland China
+118,2/25/20,576,Mainland China
+119,2/26/20,576,Mainland China
+120,2/27/20,576,Mainland China
+121,2/28/20,576,Mainland China
+122,2/29/20,576,Mainland China
+123,3/1/20,576,Mainland China
+124,3/2/20,576,Mainland China
+125,3/3/20,576,Mainland China
+126,1/22/20,1,Mainland China
+127,1/23/20,5,Mainland China
+128,1/24/20,10,Mainland China
+129,1/25/20,18,Mainland China
+130,1/26/20,35,Mainland China
+131,1/27/20,59,Mainland China
+132,1/28/20,80,Mainland China
+133,1/29/20,84,Mainland China
+134,1/30/20,101,Mainland China
+135,1/31/20,120,Mainland China
+136,2/1/20,144,Mainland China
+137,2/2/20,159,Mainland China
+138,2/3/20,179,Mainland China
+139,2/4/20,194,Mainland China
+140,2/5/20,205,Mainland China
+141,2/6/20,215,Mainland China
+142,2/7/20,224,Mainland China
+143,2/8/20,239,Mainland China
+144,2/9/20,250,Mainland China
+145,2/10/20,261,Mainland China
+146,2/11/20,267,Mainland China
+147,2/12/20,272,Mainland China
+148,2/13/20,279,Mainland China
+149,2/14/20,281,Mainland China
+150,2/15/20,285,Mainland China
+151,2/16/20,287,Mainland China
+152,2/17/20,290,Mainland China
+153,2/18/20,292,Mainland China
+154,2/19/20,293,Mainland China
+155,2/20/20,293,Mainland China
+156,2/21/20,293,Mainland China
+157,2/22/20,293,Mainland China
+158,2/23/20,293,Mainland China
+159,2/24/20,293,Mainland China
+160,2/25/20,294,Mainland China
+161,2/26/20,294,Mainland China
+162,2/27/20,296,Mainland China
+163,2/28/20,296,Mainland China
+164,2/29/20,296,Mainland China
+165,3/1/20,296,Mainland China
+166,3/2/20,296,Mainland China
+167,3/3/20,296,Mainland China
+168,1/22/20,0,Mainland China
+169,1/23/20,2,Mainland China
+170,1/24/20,2,Mainland China
+171,1/25/20,4,Mainland China
+172,1/26/20,7,Mainland China
+173,1/27/20,14,Mainland China
+174,1/28/20,19,Mainland China
+175,1/29/20,24,Mainland China
+176,1/30/20,26,Mainland China
+177,1/31/20,29,Mainland China
+178,2/1/20,40,Mainland China
+179,2/2/20,51,Mainland China
+180,2/3/20,55,Mainland China
+181,2/4/20,57,Mainland China
+182,2/5/20,62,Mainland China
+183,2/6/20,62,Mainland China
+184,2/7/20,67,Mainland China
+185,2/8/20,79,Mainland China
+186,2/9/20,83,Mainland China
+187,2/10/20,83,Mainland China
+188,2/11/20,86,Mainland China
+189,2/12/20,87,Mainland China
+190,2/13/20,90,Mainland China
+191,2/14/20,90,Mainland China
+192,2/15/20,90,Mainland China
+193,2/16/20,90,Mainland China
+194,2/17/20,91,Mainland China
+195,2/18/20,91,Mainland China
+196,2/19/20,91,Mainland China
+197,2/20/20,91,Mainland China
+198,2/21/20,91,Mainland China
+199,2/22/20,91,Mainland China
+200,2/23/20,91,Mainland China
+201,2/24/20,91,Mainland China
+202,2/25/20,91,Mainland China
+203,2/26/20,91,Mainland China
+204,2/27/20,91,Mainland China
+205,2/28/20,91,Mainland China
+206,2/29/20,91,Mainland China
+207,3/1/20,91,Mainland China
+208,3/2/20,91,Mainland China
+209,3/3/20,91,Mainland China
+210,1/22/20,26,Mainland China
+211,1/23/20,32,Mainland China
+212,1/24/20,53,Mainland China
+213,1/25/20,78,Mainland China
+214,1/26/20,111,Mainland China
+215,1/27/20,151,Mainland China
+216,1/28/20,207,Mainland China
+217,1/29/20,277,Mainland China
+218,1/30/20,354,Mainland China
+219,1/31/20,436,Mainland China
+220,2/1/20,535,Mainland China
+221,2/2/20,632,Mainland China
+222,2/3/20,725,Mainland China
+223,2/4/20,813,Mainland China
+224,2/5/20,895,Mainland China
+225,2/6/20,970,Mainland China
+226,2/7/20,1034,Mainland China
+227,2/8/20,1095,Mainland China
+228,2/9/20,1131,Mainland China
+229,2/10/20,1159,Mainland China
+230,2/11/20,1177,Mainland China
+231,2/12/20,1219,Mainland China
+232,2/13/20,1241,Mainland China
+233,2/14/20,1261,Mainland China
+234,2/15/20,1294,Mainland China
+235,2/16/20,1316,Mainland China
+236,2/17/20,1322,Mainland China
+237,2/18/20,1328,Mainland China
+238,2/19/20,1331,Mainland China
+239,2/20/20,1332,Mainland China
+240,2/21/20,1333,Mainland China
+241,2/22/20,1339,Mainland China
+242,2/23/20,1342,Mainland China
+243,2/24/20,1345,Mainland China
+244,2/25/20,1347,Mainland China
+245,2/26/20,1347,Mainland China
+246,2/27/20,1347,Mainland China
+247,2/28/20,1348,Mainland China
+248,2/29/20,1349,Mainland China
+249,3/1/20,1349,Mainland China
+250,3/2/20,1350,Mainland China
+251,3/3/20,1350,Mainland China
+252,1/22/20,2,Mainland China
+253,1/23/20,5,Mainland China
+254,1/24/20,23,Mainland China
+255,1/25/20,23,Mainland China
+256,1/26/20,36,Mainland China
+257,1/27/20,46,Mainland China
+258,1/28/20,51,Mainland China
+259,1/29/20,58,Mainland China
+260,1/30/20,78,Mainland China
+261,1/31/20,87,Mainland China
+262,2/1/20,100,Mainland China
+263,2/2/20,111,Mainland China
+264,2/3/20,127,Mainland China
+265,2/4/20,139,Mainland China
+266,2/5/20,150,Mainland China
+267,2/6/20,168,Mainland China
+268,2/7/20,172,Mainland China
+269,2/8/20,183,Mainland China
+270,2/9/20,195,Mainland China
+271,2/10/20,210,Mainland China
+272,2/11/20,215,Mainland China
+273,2/12/20,222,Mainland China
+274,2/13/20,222,Mainland China
+275,2/14/20,226,Mainland China
+276,2/15/20,235,Mainland China
+277,2/16/20,237,Mainland China
+278,2/17/20,238,Mainland China
+279,2/18/20,242,Mainland China
+280,2/19/20,244,Mainland China
+281,2/20/20,245,Mainland China
+282,2/21/20,246,Mainland China
+283,2/22/20,249,Mainland China
+284,2/23/20,249,Mainland China
+285,2/24/20,251,Mainland China
+286,2/25/20,252,Mainland China
+287,2/26/20,252,Mainland China
+288,2/27/20,252,Mainland China
+289,2/28/20,252,Mainland China
+290,2/29/20,252,Mainland China
+291,3/1/20,252,Mainland China
+292,3/2/20,252,Mainland China
+293,3/3/20,252,Mainland China
+294,1/22/20,1,Mainland China
+295,1/23/20,3,Mainland China
+296,1/24/20,3,Mainland China
+297,1/25/20,4,Mainland China
+298,1/26/20,5,Mainland China
+299,1/27/20,7,Mainland China
+300,1/28/20,9,Mainland China
+301,1/29/20,9,Mainland China
+302,1/30/20,12,Mainland China
+303,1/31/20,29,Mainland China
+304,2/1/20,29,Mainland China
+305,2/2/20,38,Mainland China
+306,2/3/20,46,Mainland China
+307,2/4/20,58,Mainland China
+308,2/5/20,64,Mainland China
+309,2/6/20,71,Mainland China
+310,2/7/20,81,Mainland China
+311,2/8/20,89,Mainland China
+312,2/9/20,99,Mainland China
+313,2/10/20,109,Mainland China
+314,2/11/20,127,Mainland China
+315,2/12/20,133,Mainland China
+316,2/13/20,135,Mainland China
+317,2/14/20,140,Mainland China
+318,2/15/20,143,Mainland China
+319,2/16/20,144,Mainland China
+320,2/17/20,146,Mainland China
+321,2/18/20,146,Mainland China
+322,2/19/20,146,Mainland China
+323,2/20/20,146,Mainland China
+324,2/21/20,146,Mainland China
+325,2/22/20,146,Mainland China
+326,2/23/20,146,Mainland China
+327,2/24/20,146,Mainland China
+328,2/25/20,146,Mainland China
+329,2/26/20,146,Mainland China
+330,2/27/20,146,Mainland China
+331,2/28/20,146,Mainland China
+332,2/29/20,146,Mainland China
+333,3/1/20,146,Mainland China
+334,3/2/20,146,Mainland China
+335,3/3/20,146,Mainland China
+336,1/22/20,4,Mainland China
+337,1/23/20,5,Mainland China
+338,1/24/20,8,Mainland China
+339,1/25/20,19,Mainland China
+340,1/26/20,22,Mainland China
+341,1/27/20,33,Mainland China
+342,1/28/20,40,Mainland China
+343,1/29/20,43,Mainland China
+344,1/30/20,46,Mainland China
+345,1/31/20,52,Mainland China
+346,2/1/20,62,Mainland China
+347,2/2/20,64,Mainland China
+348,2/3/20,72,Mainland China
+349,2/4/20,80,Mainland China
+350,2/5/20,99,Mainland China
+351,2/6/20,106,Mainland China
+352,2/7/20,117,Mainland China
+353,2/8/20,124,Mainland China
+354,2/9/20,131,Mainland China
+355,2/10/20,138,Mainland China
+356,2/11/20,144,Mainland China
+357,2/12/20,157,Mainland China
+358,2/13/20,157,Mainland China
+359,2/14/20,159,Mainland China
+360,2/15/20,162,Mainland China
+361,2/16/20,162,Mainland China
+362,2/17/20,163,Mainland China
+363,2/18/20,163,Mainland China
+364,2/19/20,168,Mainland China
+365,2/20/20,168,Mainland China
+366,2/21/20,168,Mainland China
+367,2/22/20,168,Mainland China
+368,2/23/20,168,Mainland China
+369,2/24/20,168,Mainland China
+370,2/25/20,168,Mainland China
+371,2/26/20,168,Mainland China
+372,2/27/20,168,Mainland China
+373,2/28/20,168,Mainland China
+374,2/29/20,168,Mainland China
+375,3/1/20,168,Mainland China
+376,3/2/20,168,Mainland China
+377,3/3/20,168,Mainland China
+378,1/22/20,1,Mainland China
+379,1/23/20,1,Mainland China
+380,1/24/20,2,Mainland China
+381,1/25/20,8,Mainland China
+382,1/26/20,13,Mainland China
+383,1/27/20,18,Mainland China
+384,1/28/20,33,Mainland China
+385,1/29/20,48,Mainland China
+386,1/30/20,65,Mainland China
+387,1/31/20,82,Mainland China
+388,2/1/20,96,Mainland China
+389,2/2/20,104,Mainland China
+390,2/3/20,113,Mainland China
+391,2/4/20,126,Mainland China
+392,2/5/20,135,Mainland China
+393,2/6/20,157,Mainland China
+394,2/7/20,172,Mainland China
+395,2/8/20,195,Mainland China
+396,2/9/20,206,Mainland China
+397,2/10/20,218,Mainland China
+398,2/11/20,239,Mainland China
+399,2/12/20,251,Mainland China
+400,2/13/20,265,Mainland China
+401,2/14/20,283,Mainland China
+402,2/15/20,291,Mainland China
+403,2/16/20,300,Mainland China
+404,2/17/20,301,Mainland China
+405,2/18/20,306,Mainland China
+406,2/19/20,306,Mainland China
+407,2/20/20,307,Mainland China
+408,2/21/20,308,Mainland China
+409,2/22/20,309,Mainland China
+410,2/23/20,311,Mainland China
+411,2/24/20,311,Mainland China
+412,2/25/20,311,Mainland China
+413,2/26/20,312,Mainland China
+414,2/27/20,317,Mainland China
+415,2/28/20,318,Mainland China
+416,2/29/20,318,Mainland China
+417,3/1/20,318,Mainland China
+418,3/2/20,318,Mainland China
+419,3/3/20,318,Mainland China
+420,1/22/20,0,Mainland China
+421,1/23/20,2,Mainland China
+422,1/24/20,4,Mainland China
+423,1/25/20,9,Mainland China
+424,1/26/20,15,Mainland China
+425,1/27/20,21,Mainland China
+426,1/28/20,33,Mainland China
+427,1/29/20,38,Mainland China
+428,1/30/20,44,Mainland China
+429,1/31/20,59,Mainland China
+430,2/1/20,80,Mainland China
+431,2/2/20,95,Mainland China
+432,2/3/20,121,Mainland China
+433,2/4/20,155,Mainland China
+434,2/5/20,190,Mainland China
+435,2/6/20,227,Mainland China
+436,2/7/20,277,Mainland China
+437,2/8/20,295,Mainland China
+438,2/9/20,307,Mainland China
+439,2/10/20,331,Mainland China
+440,2/11/20,360,Mainland China
+441,2/12/20,378,Mainland China
+442,2/13/20,395,Mainland China
+443,2/14/20,419,Mainland China
+444,2/15/20,425,Mainland China
+445,2/16/20,445,Mainland China
+446,2/17/20,457,Mainland China
+447,2/18/20,464,Mainland China
+448,2/19/20,470,Mainland China
+449,2/20/20,476,Mainland China
+450,2/21/20,479,Mainland China
+451,2/22/20,479,Mainland China
+452,2/23/20,480,Mainland China
+453,2/24/20,480,Mainland China
+454,2/25/20,480,Mainland China
+455,2/26/20,480,Mainland China
+456,2/27/20,480,Mainland China
+457,2/28/20,480,Mainland China
+458,2/29/20,480,Mainland China
+459,3/1/20,480,Mainland China
+460,3/2/20,480,Mainland China
+461,3/3/20,480,Mainland China
+462,1/22/20,5,Mainland China
+463,1/23/20,5,Mainland China
+464,1/24/20,9,Mainland China
+465,1/25/20,32,Mainland China
+466,1/26/20,83,Mainland China
+467,1/27/20,128,Mainland China
+468,1/28/20,168,Mainland China
+469,1/29/20,206,Mainland China
+470,1/30/20,278,Mainland China
+471,1/31/20,352,Mainland China
+472,2/1/20,422,Mainland China
+473,2/2/20,493,Mainland China
+474,2/3/20,566,Mainland China
+475,2/4/20,675,Mainland China
+476,2/5/20,764,Mainland China
+477,2/6/20,851,Mainland China
+478,2/7/20,914,Mainland China
+479,2/8/20,981,Mainland China
+480,2/9/20,1033,Mainland China
+481,2/10/20,1073,Mainland China
+482,2/11/20,1105,Mainland China
+483,2/12/20,1135,Mainland China
+484,2/13/20,1169,Mainland China
+485,2/14/20,1184,Mainland China
+486,2/15/20,1212,Mainland China
+487,2/16/20,1231,Mainland China
+488,2/17/20,1246,Mainland China
+489,2/18/20,1257,Mainland China
+490,2/19/20,1262,Mainland China
+491,2/20/20,1265,Mainland China
+492,2/21/20,1267,Mainland China
+493,2/22/20,1270,Mainland China
+494,2/23/20,1271,Mainland China
+495,2/24/20,1271,Mainland China
+496,2/25/20,1271,Mainland China
+497,2/26/20,1271,Mainland China
+498,2/27/20,1272,Mainland China
+499,2/28/20,1272,Mainland China
+500,2/29/20,1272,Mainland China
+501,3/1/20,1272,Mainland China
+502,3/2/20,1272,Mainland China
+503,3/3/20,1272,Mainland China
+504,1/22/20,444,Mainland China
+505,1/23/20,444,Mainland China
+506,1/24/20,549,Mainland China
+507,1/25/20,761,Mainland China
+508,1/26/20,1058,Mainland China
+509,1/27/20,1423,Mainland China
+510,1/28/20,3554,Mainland China
+511,1/29/20,3554,Mainland China
+512,1/30/20,4903,Mainland China
+513,1/31/20,5806,Mainland China
+514,2/1/20,7153,Mainland China
+515,2/2/20,11177,Mainland China
+516,2/3/20,13522,Mainland China
+517,2/4/20,16678,Mainland China
+518,2/5/20,19665,Mainland China
+519,2/6/20,22112,Mainland China
+520,2/7/20,24953,Mainland China
+521,2/8/20,27100,Mainland China
+522,2/9/20,29631,Mainland China
+523,2/10/20,31728,Mainland China
+524,2/11/20,33366,Mainland China
+525,2/12/20,33366,Mainland China
+526,2/13/20,48206,Mainland China
+527,2/14/20,54406,Mainland China
+528,2/15/20,56249,Mainland China
+529,2/16/20,58182,Mainland China
+530,2/17/20,59989,Mainland China
+531,2/18/20,61682,Mainland China
+532,2/19/20,62031,Mainland China
+533,2/20/20,62442,Mainland China
+534,2/21/20,62662,Mainland China
+535,2/22/20,64084,Mainland China
+536,2/23/20,64084,Mainland China
+537,2/24/20,64287,Mainland China
+538,2/25/20,64786,Mainland China
+539,2/26/20,65187,Mainland China
+540,2/27/20,65596,Mainland China
+541,2/28/20,65914,Mainland China
+542,2/29/20,66337,Mainland China
+543,3/1/20,66907,Mainland China
+544,3/2/20,67103,Mainland China
+545,3/3/20,67217,Mainland China
+546,1/22/20,4,Mainland China
+547,1/23/20,9,Mainland China
+548,1/24/20,24,Mainland China
+549,1/25/20,43,Mainland China
+550,1/26/20,69,Mainland China
+551,1/27/20,100,Mainland China
+552,1/28/20,143,Mainland China
+553,1/29/20,221,Mainland China
+554,1/30/20,277,Mainland China
+555,1/31/20,332,Mainland China
+556,2/1/20,389,Mainland China
+557,2/2/20,463,Mainland China
+558,2/3/20,521,Mainland China
+559,2/4/20,593,Mainland China
+560,2/5/20,661,Mainland China
+561,2/6/20,711,Mainland China
+562,2/7/20,772,Mainland China
+563,2/8/20,803,Mainland China
+564,2/9/20,838,Mainland China
+565,2/10/20,879,Mainland China
+566,2/11/20,912,Mainland China
+567,2/12/20,946,Mainland China
+568,2/13/20,968,Mainland China
+569,2/14/20,988,Mainland China
+570,2/15/20,1001,Mainland China
+571,2/16/20,1004,Mainland China
+572,2/17/20,1006,Mainland China
+573,2/18/20,1007,Mainland China
+574,2/19/20,1008,Mainland China
+575,2/20/20,1010,Mainland China
+576,2/21/20,1011,Mainland China
+577,2/22/20,1013,Mainland China
+578,2/23/20,1016,Mainland China
+579,2/24/20,1016,Mainland China
+580,2/25/20,1016,Mainland China
+581,2/26/20,1016,Mainland China
+582,2/27/20,1017,Mainland China
+583,2/28/20,1017,Mainland China
+584,2/29/20,1018,Mainland China
+585,3/1/20,1018,Mainland China
+586,3/2/20,1018,Mainland China
+587,3/3/20,1018,Mainland China
+588,1/22/20,0,Mainland China
+589,1/23/20,0,Mainland China
+590,1/24/20,1,Mainland China
+591,1/25/20,7,Mainland China
+592,1/26/20,7,Mainland China
+593,1/27/20,11,Mainland China
+594,1/28/20,15,Mainland China
+595,1/29/20,16,Mainland China
+596,1/30/20,19,Mainland China
+597,1/31/20,20,Mainland China
+598,2/1/20,23,Mainland China
+599,2/2/20,27,Mainland China
+600,2/3/20,34,Mainland China
+601,2/4/20,35,Mainland China
+602,2/5/20,42,Mainland China
+603,2/6/20,46,Mainland China
+604,2/7/20,50,Mainland China
+605,2/8/20,52,Mainland China
+606,2/9/20,54,Mainland China
+607,2/10/20,58,Mainland China
+608,2/11/20,58,Mainland China
+609,2/12/20,60,Mainland China
+610,2/13/20,61,Mainland China
+611,2/14/20,65,Mainland China
+612,2/15/20,68,Mainland China
+613,2/16/20,70,Mainland China
+614,2/17/20,72,Mainland China
+615,2/18/20,73,Mainland China
+616,2/19/20,75,Mainland China
+617,2/20/20,75,Mainland China
+618,2/21/20,75,Mainland China
+619,2/22/20,75,Mainland China
+620,2/23/20,75,Mainland China
+621,2/24/20,75,Mainland China
+622,2/25/20,75,Mainland China
+623,2/26/20,75,Mainland China
+624,2/27/20,75,Mainland China
+625,2/28/20,75,Mainland China
+626,2/29/20,75,Mainland China
+627,3/1/20,75,Mainland China
+628,3/2/20,75,Mainland China
+629,3/3/20,75,Mainland China
+630,1/22/20,1,Mainland China
+631,1/23/20,5,Mainland China
+632,1/24/20,9,Mainland China
+633,1/25/20,18,Mainland China
+634,1/26/20,33,Mainland China
+635,1/27/20,47,Mainland China
+636,1/28/20,70,Mainland China
+637,1/29/20,99,Mainland China
+638,1/30/20,129,Mainland China
+639,1/31/20,168,Mainland China
+640,2/1/20,202,Mainland China
+641,2/2/20,236,Mainland China
+642,2/3/20,271,Mainland China
+643,2/4/20,308,Mainland China
+644,2/5/20,341,Mainland China
+645,2/6/20,373,Mainland China
+646,2/7/20,408,Mainland China
+647,2/8/20,439,Mainland China
+648,2/9/20,468,Mainland China
+649,2/10/20,492,Mainland China
+650,2/11/20,515,Mainland China
+651,2/12/20,543,Mainland China
+652,2/13/20,570,Mainland China
+653,2/14/20,593,Mainland China
+654,2/15/20,604,Mainland China
+655,2/16/20,617,Mainland China
+656,2/17/20,626,Mainland China
+657,2/18/20,629,Mainland China
+658,2/19/20,631,Mainland China
+659,2/20/20,631,Mainland China
+660,2/21/20,631,Mainland China
+661,2/22/20,631,Mainland China
+662,2/23/20,631,Mainland China
+663,2/24/20,631,Mainland China
+664,2/25/20,631,Mainland China
+665,2/26/20,631,Mainland China
+666,2/27/20,631,Mainland China
+667,2/28/20,631,Mainland China
+668,2/29/20,631,Mainland China
+669,3/1/20,631,Mainland China
+670,3/2/20,631,Mainland China
+671,3/3/20,631,Mainland China
+672,1/22/20,2,Mainland China
+673,1/23/20,7,Mainland China
+674,1/24/20,18,Mainland China
+675,1/25/20,18,Mainland China
+676,1/26/20,36,Mainland China
+677,1/27/20,72,Mainland China
+678,1/28/20,109,Mainland China
+679,1/29/20,109,Mainland China
+680,1/30/20,162,Mainland China
+681,1/31/20,240,Mainland China
+682,2/1/20,286,Mainland China
+683,2/2/20,333,Mainland China
+684,2/3/20,391,Mainland China
+685,2/4/20,476,Mainland China
+686,2/5/20,548,Mainland China
+687,2/6/20,600,Mainland China
+688,2/7/20,661,Mainland China
+689,2/8/20,698,Mainland China
+690,2/9/20,740,Mainland China
+691,2/10/20,771,Mainland China
+692,2/11/20,804,Mainland China
+693,2/12/20,844,Mainland China
+694,2/13/20,872,Mainland China
+695,2/14/20,900,Mainland China
+696,2/15/20,913,Mainland China
+697,2/16/20,925,Mainland China
+698,2/17/20,930,Mainland China
+699,2/18/20,933,Mainland China
+700,2/19/20,934,Mainland China
+701,2/20/20,934,Mainland China
+702,2/21/20,934,Mainland China
+703,2/22/20,934,Mainland China
+704,2/23/20,934,Mainland China
+705,2/24/20,934,Mainland China
+706,2/25/20,934,Mainland China
+707,2/26/20,934,Mainland China
+708,2/27/20,934,Mainland China
+709,2/28/20,935,Mainland China
+710,2/29/20,935,Mainland China
+711,3/1/20,935,Mainland China
+712,3/2/20,935,Mainland China
+713,3/3/20,935,Mainland China
+714,1/22/20,0,Mainland China
+715,1/23/20,1,Mainland China
+716,1/24/20,3,Mainland China
+717,1/25/20,4,Mainland China
+718,1/26/20,4,Mainland China
+719,1/27/20,6,Mainland China
+720,1/28/20,8,Mainland China
+721,1/29/20,9,Mainland China
+722,1/30/20,14,Mainland China
+723,1/31/20,14,Mainland China
+724,2/1/20,17,Mainland China
+725,2/2/20,23,Mainland China
+726,2/3/20,31,Mainland China
+727,2/4/20,42,Mainland China
+728,2/5/20,54,Mainland China
+729,2/6/20,59,Mainland China
+730,2/7/20,65,Mainland China
+731,2/8/20,69,Mainland China
+732,2/9/20,78,Mainland China
+733,2/10/20,80,Mainland China
+734,2/11/20,81,Mainland China
+735,2/12/20,83,Mainland China
+736,2/13/20,84,Mainland China
+737,2/14/20,86,Mainland China
+738,2/15/20,88,Mainland China
+739,2/16/20,89,Mainland China
+740,2/17/20,89,Mainland China
+741,2/18/20,89,Mainland China
+742,2/19/20,90,Mainland China
+743,2/20/20,91,Mainland China
+744,2/21/20,91,Mainland China
+745,2/22/20,91,Mainland China
+746,2/23/20,91,Mainland China
+747,2/24/20,93,Mainland China
+748,2/25/20,93,Mainland China
+749,2/26/20,93,Mainland China
+750,2/27/20,93,Mainland China
+751,2/28/20,93,Mainland China
+752,2/29/20,93,Mainland China
+753,3/1/20,93,Mainland China
+754,3/2/20,93,Mainland China
+755,3/3/20,93,Mainland China
+756,1/22/20,2,Mainland China
+757,1/23/20,3,Mainland China
+758,1/24/20,4,Mainland China
+759,1/25/20,17,Mainland China
+760,1/26/20,21,Mainland China
+761,1/27/20,27,Mainland China
+762,1/28/20,34,Mainland China
+763,1/29/20,39,Mainland China
+764,1/30/20,41,Mainland China
+765,1/31/20,48,Mainland China
+766,2/1/20,64,Mainland China
+767,2/2/20,70,Mainland China
+768,2/3/20,74,Mainland China
+769,2/4/20,81,Mainland China
+770,2/5/20,89,Mainland China
+771,2/6/20,94,Mainland China
+772,2/7/20,99,Mainland China
+773,2/8/20,105,Mainland China
+774,2/9/20,107,Mainland China
+775,2/10/20,108,Mainland China
+776,2/11/20,111,Mainland China
+777,2/12/20,116,Mainland China
+778,2/13/20,117,Mainland China
+779,2/14/20,119,Mainland China
+780,2/15/20,119,Mainland China
+781,2/16/20,121,Mainland China
+782,2/17/20,121,Mainland China
+783,2/18/20,121,Mainland China
+784,2/19/20,121,Mainland China
+785,2/20/20,121,Mainland China
+786,2/21/20,121,Mainland China
+787,2/22/20,121,Mainland China
+788,2/23/20,121,Mainland China
+789,2/24/20,121,Mainland China
+790,2/25/20,121,Mainland China
+791,2/26/20,121,Mainland China
+792,2/27/20,121,Mainland China
+793,2/28/20,121,Mainland China
+794,2/29/20,121,Mainland China
+795,3/1/20,122,Mainland China
+796,3/2/20,122,Mainland China
+797,3/3/20,125,Mainland China
+798,1/22/20,1,Mainland China
+799,1/23/20,1,Mainland China
+800,1/24/20,2,Mainland China
+801,1/25/20,3,Mainland China
+802,1/26/20,4,Mainland China
+803,1/27/20,7,Mainland China
+804,1/28/20,11,Mainland China
+805,1/29/20,12,Mainland China
+806,1/30/20,17,Mainland China
+807,1/31/20,21,Mainland China
+808,2/1/20,26,Mainland China
+809,2/2/20,28,Mainland China
+810,2/3/20,31,Mainland China
+811,2/4/20,34,Mainland China
+812,2/5/20,34,Mainland China
+813,2/6/20,40,Mainland China
+814,2/7/20,43,Mainland China
+815,2/8/20,45,Mainland China
+816,2/9/20,45,Mainland China
+817,2/10/20,49,Mainland China
+818,2/11/20,53,Mainland China
+819,2/12/20,58,Mainland China
+820,2/13/20,64,Mainland China
+821,2/14/20,67,Mainland China
+822,2/15/20,70,Mainland China
+823,2/16/20,70,Mainland China
+824,2/17/20,70,Mainland China
+825,2/18/20,70,Mainland China
+826,2/19/20,71,Mainland China
+827,2/20/20,71,Mainland China
+828,2/21/20,71,Mainland China
+829,2/22/20,71,Mainland China
+830,2/23/20,71,Mainland China
+831,2/24/20,71,Mainland China
+832,2/25/20,71,Mainland China
+833,2/26/20,71,Mainland China
+834,2/27/20,72,Mainland China
+835,2/28/20,72,Mainland China
+836,2/29/20,73,Mainland China
+837,3/1/20,73,Mainland China
+838,3/2/20,74,Mainland China
+839,3/3/20,74,Mainland China
+840,1/22/20,0,Mainland China
+841,1/23/20,0,Mainland China
+842,1/24/20,0,Mainland China
+843,1/25/20,1,Mainland China
+844,1/26/20,1,Mainland China
+845,1/27/20,6,Mainland China
+846,1/28/20,6,Mainland China
+847,1/29/20,6,Mainland China
+848,1/30/20,8,Mainland China
+849,1/31/20,8,Mainland China
+850,2/1/20,9,Mainland China
+851,2/2/20,11,Mainland China
+852,2/3/20,13,Mainland China
+853,2/4/20,15,Mainland China
+854,2/5/20,17,Mainland China
+855,2/6/20,18,Mainland China
+856,2/7/20,18,Mainland China
+857,2/8/20,18,Mainland China
+858,2/9/20,18,Mainland China
+859,2/10/20,18,Mainland China
+860,2/11/20,18,Mainland China
+861,2/12/20,18,Mainland China
+862,2/13/20,18,Mainland China
+863,2/14/20,18,Mainland China
+864,2/15/20,18,Mainland China
+865,2/16/20,18,Mainland China
+866,2/17/20,18,Mainland China
+867,2/18/20,18,Mainland China
+868,2/19/20,18,Mainland China
+869,2/20/20,18,Mainland China
+870,2/21/20,18,Mainland China
+871,2/22/20,18,Mainland China
+872,2/23/20,18,Mainland China
+873,2/24/20,18,Mainland China
+874,2/25/20,18,Mainland China
+875,2/26/20,18,Mainland China
+876,2/27/20,18,Mainland China
+877,2/28/20,18,Mainland China
+878,2/29/20,18,Mainland China
+879,3/1/20,18,Mainland China
+880,3/2/20,18,Mainland China
+881,3/3/20,18,Mainland China
+882,1/22/20,0,Mainland China
+883,1/23/20,3,Mainland China
+884,1/24/20,5,Mainland China
+885,1/25/20,15,Mainland China
+886,1/26/20,22,Mainland China
+887,1/27/20,35,Mainland China
+888,1/28/20,46,Mainland China
+889,1/29/20,56,Mainland China
+890,1/30/20,63,Mainland China
+891,1/31/20,87,Mainland China
+892,2/1/20,101,Mainland China
+893,2/2/20,116,Mainland China
+894,2/3/20,128,Mainland China
+895,2/4/20,142,Mainland China
+896,2/5/20,165,Mainland China
+897,2/6/20,173,Mainland China
+898,2/7/20,184,Mainland China
+899,2/8/20,195,Mainland China
+900,2/9/20,208,Mainland China
+901,2/10/20,213,Mainland China
+902,2/11/20,219,Mainland China
+903,2/12/20,225,Mainland China
+904,2/13/20,229,Mainland China
+905,2/14/20,230,Mainland China
+906,2/15/20,232,Mainland China
+907,2/16/20,236,Mainland China
+908,2/17/20,240,Mainland China
+909,2/18/20,240,Mainland China
+910,2/19/20,242,Mainland China
+911,2/20/20,245,Mainland China
+912,2/21/20,245,Mainland China
+913,2/22/20,245,Mainland China
+914,2/23/20,245,Mainland China
+915,2/24/20,245,Mainland China
+916,2/25/20,245,Mainland China
+917,2/26/20,245,Mainland China
+918,2/27/20,245,Mainland China
+919,2/28/20,245,Mainland China
+920,2/29/20,245,Mainland China
+921,3/1/20,245,Mainland China
+922,3/2/20,245,Mainland China
+923,3/3/20,245,Mainland China
+924,1/22/20,2,Mainland China
+925,1/23/20,6,Mainland China
+926,1/24/20,15,Mainland China
+927,1/25/20,27,Mainland China
+928,1/26/20,46,Mainland China
+929,1/27/20,75,Mainland China
+930,1/28/20,95,Mainland China
+931,1/29/20,130,Mainland China
+932,1/30/20,158,Mainland China
+933,1/31/20,184,Mainland China
+934,2/1/20,206,Mainland China
+935,2/2/20,230,Mainland China
+936,2/3/20,259,Mainland China
+937,2/4/20,275,Mainland China
+938,2/5/20,307,Mainland China
+939,2/6/20,347,Mainland China
+940,2/7/20,386,Mainland China
+941,2/8/20,416,Mainland China
+942,2/9/20,444,Mainland China
+943,2/10/20,466,Mainland China
+944,2/11/20,487,Mainland China
+945,2/12/20,497,Mainland China
+946,2/13/20,509,Mainland China
+947,2/14/20,523,Mainland China
+948,2/15/20,532,Mainland China
+949,2/16/20,537,Mainland China
+950,2/17/20,541,Mainland China
+951,2/18/20,543,Mainland China
+952,2/19/20,544,Mainland China
+953,2/20/20,546,Mainland China
+954,2/21/20,749,Mainland China
+955,2/22/20,750,Mainland China
+956,2/23/20,754,Mainland China
+957,2/24/20,755,Mainland China
+958,2/25/20,756,Mainland China
+959,2/26/20,756,Mainland China
+960,2/27/20,756,Mainland China
+961,2/28/20,756,Mainland China
+962,2/29/20,756,Mainland China
+963,3/1/20,758,Mainland China
+964,3/2/20,758,Mainland China
+965,3/3/20,758,Mainland China
+966,1/22/20,9,Mainland China
+967,1/23/20,16,Mainland China
+968,1/24/20,20,Mainland China
+969,1/25/20,33,Mainland China
+970,1/26/20,40,Mainland China
+971,1/27/20,53,Mainland China
+972,1/28/20,66,Mainland China
+973,1/29/20,96,Mainland China
+974,1/30/20,112,Mainland China
+975,1/31/20,135,Mainland China
+976,2/1/20,169,Mainland China
+977,2/2/20,182,Mainland China
+978,2/3/20,203,Mainland China
+979,2/4/20,219,Mainland China
+980,2/5/20,243,Mainland China
+981,2/6/20,257,Mainland China
+982,2/7/20,277,Mainland China
+983,2/8/20,286,Mainland China
+984,2/9/20,293,Mainland China
+985,2/10/20,299,Mainland China
+986,2/11/20,303,Mainland China
+987,2/12/20,311,Mainland China
+988,2/13/20,315,Mainland China
+989,2/14/20,318,Mainland China
+990,2/15/20,326,Mainland China
+991,2/16/20,328,Mainland China
+992,2/17/20,333,Mainland China
+993,2/18/20,333,Mainland China
+994,2/19/20,333,Mainland China
+995,2/20/20,334,Mainland China
+996,2/21/20,334,Mainland China
+997,2/22/20,335,Mainland China
+998,2/23/20,335,Mainland China
+999,2/24/20,335,Mainland China
+1000,2/25/20,336,Mainland China
+1001,2/26/20,337,Mainland China
+1002,2/27/20,337,Mainland China
+1003,2/28/20,337,Mainland China
+1004,2/29/20,337,Mainland China
+1005,3/1/20,337,Mainland China
+1006,3/2/20,337,Mainland China
+1007,3/3/20,338,Mainland China
+1008,1/22/20,1,Mainland China
+1009,1/23/20,1,Mainland China
+1010,1/24/20,1,Mainland China
+1011,1/25/20,6,Mainland China
+1012,1/26/20,9,Mainland China
+1013,1/27/20,13,Mainland China
+1014,1/28/20,27,Mainland China
+1015,1/29/20,27,Mainland China
+1016,1/30/20,35,Mainland China
+1017,1/31/20,39,Mainland China
+1018,2/1/20,47,Mainland China
+1019,2/2/20,66,Mainland China
+1020,2/3/20,74,Mainland China
+1021,2/4/20,81,Mainland China
+1022,2/5/20,81,Mainland China
+1023,2/6/20,96,Mainland China
+1024,2/7/20,104,Mainland China
+1025,2/8/20,115,Mainland China
+1026,2/9/20,119,Mainland China
+1027,2/10/20,119,Mainland China
+1028,2/11/20,124,Mainland China
+1029,2/12/20,126,Mainland China
+1030,2/13/20,126,Mainland China
+1031,2/14/20,127,Mainland China
+1032,2/15/20,128,Mainland China
+1033,2/16/20,129,Mainland China
+1034,2/17/20,130,Mainland China
+1035,2/18/20,131,Mainland China
+1036,2/19/20,131,Mainland China
+1037,2/20/20,132,Mainland China
+1038,2/21/20,132,Mainland China
+1039,2/22/20,132,Mainland China
+1040,2/23/20,132,Mainland China
+1041,2/24/20,133,Mainland China
+1042,2/25/20,133,Mainland China
+1043,2/26/20,133,Mainland China
+1044,2/27/20,133,Mainland China
+1045,2/28/20,133,Mainland China
+1046,2/29/20,133,Mainland China
+1047,3/1/20,133,Mainland China
+1048,3/2/20,133,Mainland China
+1049,3/3/20,133,Mainland China
+1050,1/22/20,5,Mainland China
+1051,1/23/20,8,Mainland China
+1052,1/24/20,15,Mainland China
+1053,1/25/20,28,Mainland China
+1054,1/26/20,44,Mainland China
+1055,1/27/20,69,Mainland China
+1056,1/28/20,90,Mainland China
+1057,1/29/20,108,Mainland China
+1058,1/30/20,142,Mainland China
+1059,1/31/20,177,Mainland China
+1060,2/1/20,207,Mainland China
+1061,2/2/20,231,Mainland China
+1062,2/3/20,254,Mainland China
+1063,2/4/20,282,Mainland China
+1064,2/5/20,301,Mainland China
+1065,2/6/20,321,Mainland China
+1066,2/7/20,344,Mainland China
+1067,2/8/20,364,Mainland China
+1068,2/9/20,386,Mainland China
+1069,2/10/20,405,Mainland China
+1070,2/11/20,417,Mainland China
+1071,2/12/20,436,Mainland China
+1072,2/13/20,451,Mainland China
+1073,2/14/20,463,Mainland China
+1074,2/15/20,470,Mainland China
+1075,2/16/20,481,Mainland China
+1076,2/17/20,495,Mainland China
+1077,2/18/20,508,Mainland China
+1078,2/19/20,514,Mainland China
+1079,2/20/20,520,Mainland China
+1080,2/21/20,525,Mainland China
+1081,2/22/20,526,Mainland China
+1082,2/23/20,526,Mainland China
+1083,2/24/20,527,Mainland China
+1084,2/25/20,529,Mainland China
+1085,2/26/20,531,Mainland China
+1086,2/27/20,534,Mainland China
+1087,2/28/20,538,Mainland China
+1088,2/29/20,538,Mainland China
+1089,3/1/20,538,Mainland China
+1090,3/2/20,538,Mainland China
+1091,3/3/20,538,Mainland China
+1092,1/22/20,4,Mainland China
+1093,1/23/20,4,Mainland China
+1094,1/24/20,8,Mainland China
+1095,1/25/20,10,Mainland China
+1096,1/26/20,14,Mainland China
+1097,1/27/20,23,Mainland China
+1098,1/28/20,24,Mainland China
+1099,1/29/20,27,Mainland China
+1100,1/30/20,31,Mainland China
+1101,1/31/20,32,Mainland China
+1102,2/1/20,41,Mainland China
+1103,2/2/20,48,Mainland China
+1104,2/3/20,60,Mainland China
+1105,2/4/20,67,Mainland China
+1106,2/5/20,69,Mainland China
+1107,2/6/20,79,Mainland China
+1108,2/7/20,81,Mainland China
+1109,2/8/20,88,Mainland China
+1110,2/9/20,91,Mainland China
+1111,2/10/20,95,Mainland China
+1112,2/11/20,106,Mainland China
+1113,2/12/20,112,Mainland China
+1114,2/13/20,119,Mainland China
+1115,2/14/20,120,Mainland China
+1116,2/15/20,122,Mainland China
+1117,2/16/20,124,Mainland China
+1118,2/17/20,125,Mainland China
+1119,2/18/20,128,Mainland China
+1120,2/19/20,130,Mainland China
+1121,2/20/20,131,Mainland China
+1122,2/21/20,132,Mainland China
+1123,2/22/20,135,Mainland China
+1124,2/23/20,135,Mainland China
+1125,2/24/20,135,Mainland China
+1126,2/25/20,135,Mainland China
+1127,2/26/20,135,Mainland China
+1128,2/27/20,136,Mainland China
+1129,2/28/20,136,Mainland China
+1130,2/29/20,136,Mainland China
+1131,3/1/20,136,Mainland China
+1132,3/2/20,136,Mainland China
+1133,3/3/20,136,Mainland China
+1134,1/22/20,0,Mainland China
+1135,1/23/20,0,Mainland China
+1136,1/24/20,0,Mainland China
+1137,1/25/20,0,Mainland China
+1138,1/26/20,0,Mainland China
+1139,1/27/20,0,Mainland China
+1140,1/28/20,0,Mainland China
+1141,1/29/20,0,Mainland China
+1142,1/30/20,1,Mainland China
+1143,1/31/20,1,Mainland China
+1144,2/1/20,1,Mainland China
+1145,2/2/20,1,Mainland China
+1146,2/3/20,1,Mainland China
+1147,2/4/20,1,Mainland China
+1148,2/5/20,1,Mainland China
+1149,2/6/20,1,Mainland China
+1150,2/7/20,1,Mainland China
+1151,2/8/20,1,Mainland China
+1152,2/9/20,1,Mainland China
+1153,2/10/20,1,Mainland China
+1154,2/11/20,1,Mainland China
+1155,2/12/20,1,Mainland China
+1156,2/13/20,1,Mainland China
+1157,2/14/20,1,Mainland China
+1158,2/15/20,1,Mainland China
+1159,2/16/20,1,Mainland China
+1160,2/17/20,1,Mainland China
+1161,2/18/20,1,Mainland China
+1162,2/19/20,1,Mainland China
+1163,2/20/20,1,Mainland China
+1164,2/21/20,1,Mainland China
+1165,2/22/20,1,Mainland China
+1166,2/23/20,1,Mainland China
+1167,2/24/20,1,Mainland China
+1168,2/25/20,1,Mainland China
+1169,2/26/20,1,Mainland China
+1170,2/27/20,1,Mainland China
+1171,2/28/20,1,Mainland China
+1172,2/29/20,1,Mainland China
+1173,3/1/20,1,Mainland China
+1174,3/2/20,1,Mainland China
+1175,3/3/20,1,Mainland China
+1176,1/22/20,0,Mainland China
+1177,1/23/20,2,Mainland China
+1178,1/24/20,2,Mainland China
+1179,1/25/20,3,Mainland China
+1180,1/26/20,4,Mainland China
+1181,1/27/20,5,Mainland China
+1182,1/28/20,10,Mainland China
+1183,1/29/20,13,Mainland China
+1184,1/30/20,14,Mainland China
+1185,1/31/20,17,Mainland China
+1186,2/1/20,18,Mainland China
+1187,2/2/20,21,Mainland China
+1188,2/3/20,24,Mainland China
+1189,2/4/20,29,Mainland China
+1190,2/5/20,32,Mainland China
+1191,2/6/20,36,Mainland China
+1192,2/7/20,39,Mainland China
+1193,2/8/20,42,Mainland China
+1194,2/9/20,45,Mainland China
+1195,2/10/20,49,Mainland China
+1196,2/11/20,55,Mainland China
+1197,2/12/20,59,Mainland China
+1198,2/13/20,63,Mainland China
+1199,2/14/20,65,Mainland China
+1200,2/15/20,70,Mainland China
+1201,2/16/20,71,Mainland China
+1202,2/17/20,75,Mainland China
+1203,2/18/20,76,Mainland China
+1204,2/19/20,76,Mainland China
+1205,2/20/20,76,Mainland China
+1206,2/21/20,76,Mainland China
+1207,2/22/20,76,Mainland China
+1208,2/23/20,76,Mainland China
+1209,2/24/20,76,Mainland China
+1210,2/25/20,76,Mainland China
+1211,2/26/20,76,Mainland China
+1212,2/27/20,76,Mainland China
+1213,2/28/20,76,Mainland China
+1214,2/29/20,76,Mainland China
+1215,3/1/20,76,Mainland China
+1216,3/2/20,76,Mainland China
+1217,3/3/20,76,Mainland China
+1218,1/22/20,1,Mainland China
+1219,1/23/20,2,Mainland China
+1220,1/24/20,5,Mainland China
+1221,1/25/20,11,Mainland China
+1222,1/26/20,16,Mainland China
+1223,1/27/20,26,Mainland China
+1224,1/28/20,44,Mainland China
+1225,1/29/20,55,Mainland China
+1226,1/30/20,70,Mainland China
+1227,1/31/20,83,Mainland China
+1228,2/1/20,93,Mainland China
+1229,2/2/20,105,Mainland China
+1230,2/3/20,117,Mainland China
+1231,2/4/20,122,Mainland China
+1232,2/5/20,128,Mainland China
+1233,2/6/20,133,Mainland China
+1234,2/7/20,138,Mainland China
+1235,2/8/20,138,Mainland China
+1236,2/9/20,141,Mainland China
+1237,2/10/20,149,Mainland China
+1238,2/11/20,153,Mainland China
+1239,2/12/20,154,Mainland China
+1240,2/13/20,156,Mainland China
+1241,2/14/20,162,Mainland China
+1242,2/15/20,168,Mainland China
+1243,2/16/20,171,Mainland China
+1244,2/17/20,171,Mainland China
+1245,2/18/20,172,Mainland China
+1246,2/19/20,172,Mainland China
+1247,2/20/20,174,Mainland China
+1248,2/21/20,174,Mainland China
+1249,2/22/20,174,Mainland China
+1250,2/23/20,174,Mainland China
+1251,2/24/20,174,Mainland China
+1252,2/25/20,174,Mainland China
+1253,2/26/20,174,Mainland China
+1254,2/27/20,174,Mainland China
+1255,2/28/20,174,Mainland China
+1256,2/29/20,174,Mainland China
+1257,3/1/20,174,Mainland China
+1258,3/2/20,174,Mainland China
+1259,3/3/20,174,Mainland China
+1260,1/22/20,10,Mainland China
+1261,1/23/20,27,Mainland China
+1262,1/24/20,43,Mainland China
+1263,1/25/20,62,Mainland China
+1264,1/26/20,104,Mainland China
+1265,1/27/20,128,Mainland China
+1266,1/28/20,173,Mainland China
+1267,1/29/20,296,Mainland China
+1268,1/30/20,428,Mainland China
+1269,1/31/20,538,Mainland China
+1270,2/1/20,599,Mainland China
+1271,2/2/20,661,Mainland China
+1272,2/3/20,724,Mainland China
+1273,2/4/20,829,Mainland China
+1274,2/5/20,895,Mainland China
+1275,2/6/20,954,Mainland China
+1276,2/7/20,1006,Mainland China
+1277,2/8/20,1048,Mainland China
+1278,2/9/20,1075,Mainland China
+1279,2/10/20,1092,Mainland China
+1280,2/11/20,1117,Mainland China
+1281,2/12/20,1131,Mainland China
+1282,2/13/20,1145,Mainland China
+1283,2/14/20,1155,Mainland China
+1284,2/15/20,1162,Mainland China
+1285,2/16/20,1167,Mainland China
+1286,2/17/20,1171,Mainland China
+1287,2/18/20,1172,Mainland China
+1288,2/19/20,1174,Mainland China
+1289,2/20/20,1175,Mainland China
+1290,2/21/20,1203,Mainland China
+1291,2/22/20,1205,Mainland China
+1292,2/23/20,1205,Mainland China
+1293,2/24/20,1205,Mainland China
+1294,2/25/20,1205,Mainland China
+1295,2/26/20,1205,Mainland China
+1296,2/27/20,1205,Mainland China
+1297,2/28/20,1205,Mainland China
+1298,2/29/20,1205,Mainland China
+1299,3/1/20,1205,Mainland China
+1300,3/2/20,1206,Mainland China
+1301,3/3/20,1213,Mainland China
+1302,1/22/20,2,Thailand
+1303,1/23/20,3,Thailand
+1304,1/24/20,5,Thailand
+1305,1/25/20,7,Thailand
+1306,1/26/20,8,Thailand
+1307,1/27/20,8,Thailand
+1308,1/28/20,14,Thailand
+1309,1/29/20,14,Thailand
+1310,1/30/20,14,Thailand
+1311,1/31/20,19,Thailand
+1312,2/1/20,19,Thailand
+1313,2/2/20,19,Thailand
+1314,2/3/20,19,Thailand
+1315,2/4/20,25,Thailand
+1316,2/5/20,25,Thailand
+1317,2/6/20,25,Thailand
+1318,2/7/20,25,Thailand
+1319,2/8/20,32,Thailand
+1320,2/9/20,32,Thailand
+1321,2/10/20,32,Thailand
+1322,2/11/20,33,Thailand
+1323,2/12/20,33,Thailand
+1324,2/13/20,33,Thailand
+1325,2/14/20,33,Thailand
+1326,2/15/20,33,Thailand
+1327,2/16/20,34,Thailand
+1328,2/17/20,35,Thailand
+1329,2/18/20,35,Thailand
+1330,2/19/20,35,Thailand
+1331,2/20/20,35,Thailand
+1332,2/21/20,35,Thailand
+1333,2/22/20,35,Thailand
+1334,2/23/20,35,Thailand
+1335,2/24/20,35,Thailand
+1336,2/25/20,37,Thailand
+1337,2/26/20,40,Thailand
+1338,2/27/20,40,Thailand
+1339,2/28/20,41,Thailand
+1340,2/29/20,42,Thailand
+1341,3/1/20,42,Thailand
+1342,3/2/20,43,Thailand
+1343,3/3/20,43,Thailand
+1344,1/22/20,2,Japan
+1345,1/23/20,1,Japan
+1346,1/24/20,2,Japan
+1347,1/25/20,2,Japan
+1348,1/26/20,4,Japan
+1349,1/27/20,4,Japan
+1350,1/28/20,7,Japan
+1351,1/29/20,7,Japan
+1352,1/30/20,11,Japan
+1353,1/31/20,15,Japan
+1354,2/1/20,20,Japan
+1355,2/2/20,20,Japan
+1356,2/3/20,20,Japan
+1357,2/4/20,22,Japan
+1358,2/5/20,22,Japan
+1359,2/6/20,45,Japan
+1360,2/7/20,25,Japan
+1361,2/8/20,25,Japan
+1362,2/9/20,26,Japan
+1363,2/10/20,26,Japan
+1364,2/11/20,26,Japan
+1365,2/12/20,28,Japan
+1366,2/13/20,28,Japan
+1367,2/14/20,29,Japan
+1368,2/15/20,43,Japan
+1369,2/16/20,59,Japan
+1370,2/17/20,66,Japan
+1371,2/18/20,74,Japan
+1372,2/19/20,84,Japan
+1373,2/20/20,94,Japan
+1374,2/21/20,105,Japan
+1375,2/22/20,122,Japan
+1376,2/23/20,147,Japan
+1377,2/24/20,159,Japan
+1378,2/25/20,170,Japan
+1379,2/26/20,189,Japan
+1380,2/27/20,214,Japan
+1381,2/28/20,228,Japan
+1382,2/29/20,241,Japan
+1383,3/1/20,256,Japan
+1384,3/2/20,274,Japan
+1385,3/3/20,293,Japan
+1386,1/22/20,1,South Korea
+1387,1/23/20,1,South Korea
+1388,1/24/20,2,South Korea
+1389,1/25/20,2,South Korea
+1390,1/26/20,3,South Korea
+1391,1/27/20,4,South Korea
+1392,1/28/20,4,South Korea
+1393,1/29/20,4,South Korea
+1394,1/30/20,4,South Korea
+1395,1/31/20,11,South Korea
+1396,2/1/20,12,South Korea
+1397,2/2/20,15,South Korea
+1398,2/3/20,15,South Korea
+1399,2/4/20,16,South Korea
+1400,2/5/20,19,South Korea
+1401,2/6/20,23,South Korea
+1402,2/7/20,24,South Korea
+1403,2/8/20,24,South Korea
+1404,2/9/20,25,South Korea
+1405,2/10/20,27,South Korea
+1406,2/11/20,28,South Korea
+1407,2/12/20,28,South Korea
+1408,2/13/20,28,South Korea
+1409,2/14/20,28,South Korea
+1410,2/15/20,28,South Korea
+1411,2/16/20,29,South Korea
+1412,2/17/20,30,South Korea
+1413,2/18/20,31,South Korea
+1414,2/19/20,31,South Korea
+1415,2/20/20,104,South Korea
+1416,2/21/20,204,South Korea
+1417,2/22/20,433,South Korea
+1418,2/23/20,602,South Korea
+1419,2/24/20,833,South Korea
+1420,2/25/20,977,South Korea
+1421,2/26/20,1261,South Korea
+1422,2/27/20,1766,South Korea
+1423,2/28/20,2337,South Korea
+1424,2/29/20,3150,South Korea
+1425,3/1/20,3736,South Korea
+1426,3/2/20,4335,South Korea
+1427,3/3/20,5186,South Korea
+1428,1/22/20,1,Taiwan
+1429,1/23/20,1,Taiwan
+1430,1/24/20,3,Taiwan
+1431,1/25/20,3,Taiwan
+1432,1/26/20,4,Taiwan
+1433,1/27/20,5,Taiwan
+1434,1/28/20,8,Taiwan
+1435,1/29/20,8,Taiwan
+1436,1/30/20,9,Taiwan
+1437,1/31/20,10,Taiwan
+1438,2/1/20,10,Taiwan
+1439,2/2/20,10,Taiwan
+1440,2/3/20,10,Taiwan
+1441,2/4/20,11,Taiwan
+1442,2/5/20,11,Taiwan
+1443,2/6/20,16,Taiwan
+1444,2/7/20,16,Taiwan
+1445,2/8/20,17,Taiwan
+1446,2/9/20,18,Taiwan
+1447,2/10/20,18,Taiwan
+1448,2/11/20,18,Taiwan
+1449,2/12/20,18,Taiwan
+1450,2/13/20,18,Taiwan
+1451,2/14/20,18,Taiwan
+1452,2/15/20,18,Taiwan
+1453,2/16/20,20,Taiwan
+1454,2/17/20,22,Taiwan
+1455,2/18/20,22,Taiwan
+1456,2/19/20,23,Taiwan
+1457,2/20/20,24,Taiwan
+1458,2/21/20,26,Taiwan
+1459,2/22/20,26,Taiwan
+1460,2/23/20,28,Taiwan
+1461,2/24/20,30,Taiwan
+1462,2/25/20,31,Taiwan
+1463,2/26/20,32,Taiwan
+1464,2/27/20,32,Taiwan
+1465,2/28/20,34,Taiwan
+1466,2/29/20,39,Taiwan
+1467,3/1/20,40,Taiwan
+1468,3/2/20,41,Taiwan
+1469,3/3/20,42,Taiwan
+1470,1/22/20,1,US
+1471,1/23/20,1,US
+1472,1/24/20,1,US
+1473,1/25/20,1,US
+1474,1/26/20,1,US
+1475,1/27/20,1,US
+1476,1/28/20,1,US
+1477,1/29/20,1,US
+1478,1/30/20,1,US
+1479,1/31/20,1,US
+1480,2/1/20,1,US
+1481,2/2/20,1,US
+1482,2/3/20,1,US
+1483,2/4/20,1,US
+1484,2/5/20,1,US
+1485,2/6/20,1,US
+1486,2/7/20,1,US
+1487,2/8/20,1,US
+1488,2/9/20,1,US
+1489,2/10/20,1,US
+1490,2/11/20,1,US
+1491,2/12/20,1,US
+1492,2/13/20,1,US
+1493,2/14/20,1,US
+1494,2/15/20,1,US
+1495,2/16/20,1,US
+1496,2/17/20,1,US
+1497,2/18/20,1,US
+1498,2/19/20,1,US
+1499,2/20/20,1,US
+1500,2/21/20,1,US
+1501,2/22/20,1,US
+1502,2/23/20,1,US
+1503,2/24/20,1,US
+1504,2/25/20,1,US
+1505,2/26/20,1,US
+1506,2/27/20,1,US
+1507,2/28/20,1,US
+1508,2/29/20,6,US
+1509,3/1/20,9,US
+1510,3/2/20,14,US
+1511,3/3/20,21,US
+1512,1/22/20,0,US
+1513,1/23/20,0,US
+1514,1/24/20,1,US
+1515,1/25/20,1,US
+1516,1/26/20,1,US
+1517,1/27/20,1,US
+1518,1/28/20,1,US
+1519,1/29/20,1,US
+1520,1/30/20,1,US
+1521,1/31/20,2,US
+1522,2/1/20,2,US
+1523,2/2/20,2,US
+1524,2/3/20,2,US
+1525,2/4/20,2,US
+1526,2/5/20,2,US
+1527,2/6/20,2,US
+1528,2/7/20,2,US
+1529,2/8/20,2,US
+1530,2/9/20,2,US
+1531,2/10/20,2,US
+1532,2/11/20,2,US
+1533,2/12/20,2,US
+1534,2/13/20,2,US
+1535,2/14/20,2,US
+1536,2/15/20,2,US
+1537,2/16/20,2,US
+1538,2/17/20,2,US
+1539,2/18/20,2,US
+1540,2/19/20,2,US
+1541,2/20/20,2,US
+1542,2/21/20,2,US
+1543,2/22/20,2,US
+1544,2/23/20,2,US
+1545,2/24/20,2,US
+1546,2/25/20,2,US
+1547,2/26/20,2,US
+1548,2/27/20,2,US
+1549,2/28/20,2,US
+1550,2/29/20,2,US
+1551,3/1/20,3,US
+1552,3/2/20,4,US
+1553,3/3/20,4,US
+1554,1/22/20,0,US
+1555,1/23/20,0,US
+1556,1/24/20,0,US
+1557,1/25/20,0,US
+1558,1/26/20,1,US
+1559,1/27/20,1,US
+1560,1/28/20,1,US
+1561,1/29/20,1,US
+1562,1/30/20,1,US
+1563,1/31/20,1,US
+1564,2/1/20,1,US
+1565,2/2/20,1,US
+1566,2/3/20,1,US
+1567,2/4/20,1,US
+1568,2/5/20,1,US
+1569,2/6/20,1,US
+1570,2/7/20,1,US
+1571,2/8/20,1,US
+1572,2/9/20,1,US
+1573,2/10/20,1,US
+1574,2/11/20,1,US
+1575,2/12/20,1,US
+1576,2/13/20,1,US
+1577,2/14/20,1,US
+1578,2/15/20,1,US
+1579,2/16/20,1,US
+1580,2/17/20,1,US
+1581,2/18/20,1,US
+1582,2/19/20,1,US
+1583,2/20/20,1,US
+1584,2/21/20,1,US
+1585,2/22/20,1,US
+1586,2/23/20,1,US
+1587,2/24/20,1,US
+1588,2/25/20,1,US
+1589,2/26/20,1,US
+1590,2/27/20,1,US
+1591,2/28/20,1,US
+1592,2/29/20,1,US
+1593,3/1/20,1,US
+1594,3/2/20,1,US
+1595,3/3/20,1,US
+1596,1/22/20,1,Macau
+1597,1/23/20,2,Macau
+1598,1/24/20,2,Macau
+1599,1/25/20,2,Macau
+1600,1/26/20,5,Macau
+1601,1/27/20,6,Macau
+1602,1/28/20,7,Macau
+1603,1/29/20,7,Macau
+1604,1/30/20,7,Macau
+1605,1/31/20,7,Macau
+1606,2/1/20,7,Macau
+1607,2/2/20,8,Macau
+1608,2/3/20,8,Macau
+1609,2/4/20,10,Macau
+1610,2/5/20,10,Macau
+1611,2/6/20,10,Macau
+1612,2/7/20,10,Macau
+1613,2/8/20,10,Macau
+1614,2/9/20,10,Macau
+1615,2/10/20,10,Macau
+1616,2/11/20,10,Macau
+1617,2/12/20,10,Macau
+1618,2/13/20,10,Macau
+1619,2/14/20,10,Macau
+1620,2/15/20,10,Macau
+1621,2/16/20,10,Macau
+1622,2/17/20,10,Macau
+1623,2/18/20,10,Macau
+1624,2/19/20,10,Macau
+1625,2/20/20,10,Macau
+1626,2/21/20,10,Macau
+1627,2/22/20,10,Macau
+1628,2/23/20,10,Macau
+1629,2/24/20,10,Macau
+1630,2/25/20,10,Macau
+1631,2/26/20,10,Macau
+1632,2/27/20,10,Macau
+1633,2/28/20,10,Macau
+1634,2/29/20,10,Macau
+1635,3/1/20,10,Macau
+1636,3/2/20,10,Macau
+1637,3/3/20,10,Macau
+1638,1/22/20,0,Hong Kong
+1639,1/23/20,2,Hong Kong
+1640,1/24/20,2,Hong Kong
+1641,1/25/20,5,Hong Kong
+1642,1/26/20,8,Hong Kong
+1643,1/27/20,8,Hong Kong
+1644,1/28/20,8,Hong Kong
+1645,1/29/20,10,Hong Kong
+1646,1/30/20,10,Hong Kong
+1647,1/31/20,12,Hong Kong
+1648,2/1/20,13,Hong Kong
+1649,2/2/20,15,Hong Kong
+1650,2/3/20,15,Hong Kong
+1651,2/4/20,17,Hong Kong
+1652,2/5/20,21,Hong Kong
+1653,2/6/20,24,Hong Kong
+1654,2/7/20,25,Hong Kong
+1655,2/8/20,26,Hong Kong
+1656,2/9/20,29,Hong Kong
+1657,2/10/20,38,Hong Kong
+1658,2/11/20,49,Hong Kong
+1659,2/12/20,50,Hong Kong
+1660,2/13/20,53,Hong Kong
+1661,2/14/20,56,Hong Kong
+1662,2/15/20,56,Hong Kong
+1663,2/16/20,57,Hong Kong
+1664,2/17/20,60,Hong Kong
+1665,2/18/20,62,Hong Kong
+1666,2/19/20,63,Hong Kong
+1667,2/20/20,68,Hong Kong
+1668,2/21/20,68,Hong Kong
+1669,2/22/20,69,Hong Kong
+1670,2/23/20,74,Hong Kong
+1671,2/24/20,79,Hong Kong
+1672,2/25/20,84,Hong Kong
+1673,2/26/20,91,Hong Kong
+1674,2/27/20,92,Hong Kong
+1675,2/28/20,94,Hong Kong
+1676,2/29/20,95,Hong Kong
+1677,3/1/20,96,Hong Kong
+1678,3/2/20,100,Hong Kong
+1679,3/3/20,100,Hong Kong
+1680,1/22/20,0,Singapore
+1681,1/23/20,1,Singapore
+1682,1/24/20,3,Singapore
+1683,1/25/20,3,Singapore
+1684,1/26/20,4,Singapore
+1685,1/27/20,5,Singapore
+1686,1/28/20,7,Singapore
+1687,1/29/20,7,Singapore
+1688,1/30/20,10,Singapore
+1689,1/31/20,13,Singapore
+1690,2/1/20,16,Singapore
+1691,2/2/20,18,Singapore
+1692,2/3/20,18,Singapore
+1693,2/4/20,24,Singapore
+1694,2/5/20,28,Singapore
+1695,2/6/20,28,Singapore
+1696,2/7/20,30,Singapore
+1697,2/8/20,33,Singapore
+1698,2/9/20,40,Singapore
+1699,2/10/20,45,Singapore
+1700,2/11/20,47,Singapore
+1701,2/12/20,50,Singapore
+1702,2/13/20,58,Singapore
+1703,2/14/20,67,Singapore
+1704,2/15/20,72,Singapore
+1705,2/16/20,75,Singapore
+1706,2/17/20,77,Singapore
+1707,2/18/20,81,Singapore
+1708,2/19/20,84,Singapore
+1709,2/20/20,84,Singapore
+1710,2/21/20,85,Singapore
+1711,2/22/20,85,Singapore
+1712,2/23/20,89,Singapore
+1713,2/24/20,89,Singapore
+1714,2/25/20,91,Singapore
+1715,2/26/20,93,Singapore
+1716,2/27/20,93,Singapore
+1717,2/28/20,93,Singapore
+1718,2/29/20,102,Singapore
+1719,3/1/20,106,Singapore
+1720,3/2/20,108,Singapore
+1721,3/3/20,110,Singapore
+1722,1/22/20,0,Vietnam
+1723,1/23/20,2,Vietnam
+1724,1/24/20,2,Vietnam
+1725,1/25/20,2,Vietnam
+1726,1/26/20,2,Vietnam
+1727,1/27/20,2,Vietnam
+1728,1/28/20,2,Vietnam
+1729,1/29/20,2,Vietnam
+1730,1/30/20,2,Vietnam
+1731,1/31/20,2,Vietnam
+1732,2/1/20,6,Vietnam
+1733,2/2/20,6,Vietnam
+1734,2/3/20,8,Vietnam
+1735,2/4/20,8,Vietnam
+1736,2/5/20,8,Vietnam
+1737,2/6/20,10,Vietnam
+1738,2/7/20,10,Vietnam
+1739,2/8/20,13,Vietnam
+1740,2/9/20,13,Vietnam
+1741,2/10/20,14,Vietnam
+1742,2/11/20,15,Vietnam
+1743,2/12/20,15,Vietnam
+1744,2/13/20,16,Vietnam
+1745,2/14/20,16,Vietnam
+1746,2/15/20,16,Vietnam
+1747,2/16/20,16,Vietnam
+1748,2/17/20,16,Vietnam
+1749,2/18/20,16,Vietnam
+1750,2/19/20,16,Vietnam
+1751,2/20/20,16,Vietnam
+1752,2/21/20,16,Vietnam
+1753,2/22/20,16,Vietnam
+1754,2/23/20,16,Vietnam
+1755,2/24/20,16,Vietnam
+1756,2/25/20,16,Vietnam
+1757,2/26/20,16,Vietnam
+1758,2/27/20,16,Vietnam
+1759,2/28/20,16,Vietnam
+1760,2/29/20,16,Vietnam
+1761,3/1/20,16,Vietnam
+1762,3/2/20,16,Vietnam
+1763,3/3/20,16,Vietnam
+1764,1/22/20,0,France
+1765,1/23/20,0,France
+1766,1/24/20,2,France
+1767,1/25/20,3,France
+1768,1/26/20,3,France
+1769,1/27/20,3,France
+1770,1/28/20,4,France
+1771,1/29/20,5,France
+1772,1/30/20,5,France
+1773,1/31/20,5,France
+1774,2/1/20,6,France
+1775,2/2/20,6,France
+1776,2/3/20,6,France
+1777,2/4/20,6,France
+1778,2/5/20,6,France
+1779,2/6/20,6,France
+1780,2/7/20,6,France
+1781,2/8/20,11,France
+1782,2/9/20,11,France
+1783,2/10/20,11,France
+1784,2/11/20,11,France
+1785,2/12/20,11,France
+1786,2/13/20,11,France
+1787,2/14/20,11,France
+1788,2/15/20,12,France
+1789,2/16/20,12,France
+1790,2/17/20,12,France
+1791,2/18/20,12,France
+1792,2/19/20,12,France
+1793,2/20/20,12,France
+1794,2/21/20,12,France
+1795,2/22/20,12,France
+1796,2/23/20,12,France
+1797,2/24/20,12,France
+1798,2/25/20,14,France
+1799,2/26/20,18,France
+1800,2/27/20,38,France
+1801,2/28/20,57,France
+1802,2/29/20,100,France
+1803,3/1/20,130,France
+1804,3/2/20,191,France
+1805,3/3/20,204,France
+1806,1/22/20,0,Nepal
+1807,1/23/20,0,Nepal
+1808,1/24/20,0,Nepal
+1809,1/25/20,1,Nepal
+1810,1/26/20,1,Nepal
+1811,1/27/20,1,Nepal
+1812,1/28/20,1,Nepal
+1813,1/29/20,1,Nepal
+1814,1/30/20,1,Nepal
+1815,1/31/20,1,Nepal
+1816,2/1/20,1,Nepal
+1817,2/2/20,1,Nepal
+1818,2/3/20,1,Nepal
+1819,2/4/20,1,Nepal
+1820,2/5/20,1,Nepal
+1821,2/6/20,1,Nepal
+1822,2/7/20,1,Nepal
+1823,2/8/20,1,Nepal
+1824,2/9/20,1,Nepal
+1825,2/10/20,1,Nepal
+1826,2/11/20,1,Nepal
+1827,2/12/20,1,Nepal
+1828,2/13/20,1,Nepal
+1829,2/14/20,1,Nepal
+1830,2/15/20,1,Nepal
+1831,2/16/20,1,Nepal
+1832,2/17/20,1,Nepal
+1833,2/18/20,1,Nepal
+1834,2/19/20,1,Nepal
+1835,2/20/20,1,Nepal
+1836,2/21/20,1,Nepal
+1837,2/22/20,1,Nepal
+1838,2/23/20,1,Nepal
+1839,2/24/20,1,Nepal
+1840,2/25/20,1,Nepal
+1841,2/26/20,1,Nepal
+1842,2/27/20,1,Nepal
+1843,2/28/20,1,Nepal
+1844,2/29/20,1,Nepal
+1845,3/1/20,1,Nepal
+1846,3/2/20,1,Nepal
+1847,3/3/20,1,Nepal
+1848,1/22/20,0,Malaysia
+1849,1/23/20,0,Malaysia
+1850,1/24/20,0,Malaysia
+1851,1/25/20,3,Malaysia
+1852,1/26/20,4,Malaysia
+1853,1/27/20,4,Malaysia
+1854,1/28/20,4,Malaysia
+1855,1/29/20,7,Malaysia
+1856,1/30/20,8,Malaysia
+1857,1/31/20,8,Malaysia
+1858,2/1/20,8,Malaysia
+1859,2/2/20,8,Malaysia
+1860,2/3/20,8,Malaysia
+1861,2/4/20,10,Malaysia
+1862,2/5/20,12,Malaysia
+1863,2/6/20,12,Malaysia
+1864,2/7/20,12,Malaysia
+1865,2/8/20,16,Malaysia
+1866,2/9/20,16,Malaysia
+1867,2/10/20,18,Malaysia
+1868,2/11/20,18,Malaysia
+1869,2/12/20,18,Malaysia
+1870,2/13/20,19,Malaysia
+1871,2/14/20,19,Malaysia
+1872,2/15/20,22,Malaysia
+1873,2/16/20,22,Malaysia
+1874,2/17/20,22,Malaysia
+1875,2/18/20,22,Malaysia
+1876,2/19/20,22,Malaysia
+1877,2/20/20,22,Malaysia
+1878,2/21/20,22,Malaysia
+1879,2/22/20,22,Malaysia
+1880,2/23/20,22,Malaysia
+1881,2/24/20,22,Malaysia
+1882,2/25/20,22,Malaysia
+1883,2/26/20,22,Malaysia
+1884,2/27/20,23,Malaysia
+1885,2/28/20,23,Malaysia
+1886,2/29/20,25,Malaysia
+1887,3/1/20,29,Malaysia
+1888,3/2/20,29,Malaysia
+1889,3/3/20,36,Malaysia
+1890,1/22/20,0,Canada
+1891,1/23/20,0,Canada
+1892,1/24/20,0,Canada
+1893,1/25/20,0,Canada
+1894,1/26/20,1,Canada
+1895,1/27/20,1,Canada
+1896,1/28/20,1,Canada
+1897,1/29/20,1,Canada
+1898,1/30/20,1,Canada
+1899,1/31/20,2,Canada
+1900,2/1/20,2,Canada
+1901,2/2/20,2,Canada
+1902,2/3/20,2,Canada
+1903,2/4/20,2,Canada
+1904,2/5/20,2,Canada
+1905,2/6/20,2,Canada
+1906,2/7/20,2,Canada
+1907,2/8/20,2,Canada
+1908,2/9/20,2,Canada
+1909,2/10/20,2,Canada
+1910,2/11/20,2,Canada
+1911,2/12/20,2,Canada
+1912,2/13/20,2,Canada
+1913,2/14/20,2,Canada
+1914,2/15/20,2,Canada
+1915,2/16/20,2,Canada
+1916,2/17/20,2,Canada
+1917,2/18/20,2,Canada
+1918,2/19/20,2,Canada
+1919,2/20/20,2,Canada
+1920,2/21/20,2,Canada
+1921,2/22/20,2,Canada
+1922,2/23/20,2,Canada
+1923,2/24/20,3,Canada
+1924,2/25/20,3,Canada
+1925,2/26/20,3,Canada
+1926,2/27/20,5,Canada
+1927,2/28/20,5,Canada
+1928,2/29/20,10,Canada
+1929,3/1/20,14,Canada
+1930,3/2/20,17,Canada
+1931,3/3/20,19,Canada
+1932,1/22/20,0,Canada
+1933,1/23/20,0,Canada
+1934,1/24/20,0,Canada
+1935,1/25/20,0,Canada
+1936,1/26/20,0,Canada
+1937,1/27/20,0,Canada
+1938,1/28/20,1,Canada
+1939,1/29/20,1,Canada
+1940,1/30/20,1,Canada
+1941,1/31/20,1,Canada
+1942,2/1/20,1,Canada
+1943,2/2/20,1,Canada
+1944,2/3/20,1,Canada
+1945,2/4/20,1,Canada
+1946,2/5/20,2,Canada
+1947,2/6/20,2,Canada
+1948,2/7/20,4,Canada
+1949,2/8/20,4,Canada
+1950,2/9/20,4,Canada
+1951,2/10/20,4,Canada
+1952,2/11/20,4,Canada
+1953,2/12/20,4,Canada
+1954,2/13/20,4,Canada
+1955,2/14/20,4,Canada
+1956,2/15/20,4,Canada
+1957,2/16/20,4,Canada
+1958,2/17/20,5,Canada
+1959,2/18/20,5,Canada
+1960,2/19/20,5,Canada
+1961,2/20/20,5,Canada
+1962,2/21/20,6,Canada
+1963,2/22/20,6,Canada
+1964,2/23/20,6,Canada
+1965,2/24/20,6,Canada
+1966,2/25/20,7,Canada
+1967,2/26/20,7,Canada
+1968,2/27/20,7,Canada
+1969,2/28/20,7,Canada
+1970,2/29/20,8,Canada
+1971,3/1/20,8,Canada
+1972,3/2/20,8,Canada
+1973,3/3/20,9,Canada
+1974,1/22/20,0,US
+1975,1/23/20,0,US
+1976,1/24/20,0,US
+1977,1/25/20,0,US
+1978,1/26/20,1,US
+1979,1/27/20,1,US
+1980,1/28/20,1,US
+1981,1/29/20,1,US
+1982,1/30/20,1,US
+1983,1/31/20,1,US
+1984,2/1/20,1,US
+1985,2/2/20,1,US
+1986,2/3/20,1,US
+1987,2/4/20,1,US
+1988,2/5/20,1,US
+1989,2/6/20,1,US
+1990,2/7/20,1,US
+1991,2/8/20,1,US
+1992,2/9/20,1,US
+1993,2/10/20,1,US
+1994,2/11/20,1,US
+1995,2/12/20,1,US
+1996,2/13/20,1,US
+1997,2/14/20,1,US
+1998,2/15/20,1,US
+1999,2/16/20,1,US
+2000,2/17/20,1,US
+2001,2/18/20,1,US
+2002,2/19/20,1,US
+2003,2/20/20,1,US
+2004,2/21/20,1,US
+2005,2/22/20,1,US
+2006,2/23/20,1,US
+2007,2/24/20,1,US
+2008,2/25/20,1,US
+2009,2/26/20,1,US
+2010,2/27/20,1,US
+2011,2/28/20,1,US
+2012,2/29/20,1,US
+2013,3/1/20,1,US
+2014,3/2/20,1,US
+2015,3/3/20,1,US
+2016,1/22/20,0,US
+2017,1/23/20,0,US
+2018,1/24/20,0,US
+2019,1/25/20,0,US
+2020,1/26/20,1,US
+2021,1/27/20,1,US
+2022,1/28/20,1,US
+2023,1/29/20,1,US
+2024,1/30/20,1,US
+2025,1/31/20,1,US
+2026,2/1/20,1,US
+2027,2/2/20,1,US
+2028,2/3/20,1,US
+2029,2/4/20,1,US
+2030,2/5/20,1,US
+2031,2/6/20,1,US
+2032,2/7/20,1,US
+2033,2/8/20,1,US
+2034,2/9/20,1,US
+2035,2/10/20,1,US
+2036,2/11/20,1,US
+2037,2/12/20,1,US
+2038,2/13/20,1,US
+2039,2/14/20,1,US
+2040,2/15/20,1,US
+2041,2/16/20,1,US
+2042,2/17/20,1,US
+2043,2/18/20,1,US
+2044,2/19/20,1,US
+2045,2/20/20,1,US
+2046,2/21/20,1,US
+2047,2/22/20,1,US
+2048,2/23/20,1,US
+2049,2/24/20,1,US
+2050,2/25/20,1,US
+2051,2/26/20,1,US
+2052,2/27/20,1,US
+2053,2/28/20,1,US
+2054,2/29/20,1,US
+2055,3/1/20,1,US
+2056,3/2/20,1,US
+2057,3/3/20,1,US
+2058,1/22/20,0,Australia
+2059,1/23/20,0,Australia
+2060,1/24/20,0,Australia
+2061,1/25/20,0,Australia
+2062,1/26/20,3,Australia
+2063,1/27/20,4,Australia
+2064,1/28/20,4,Australia
+2065,1/29/20,4,Australia
+2066,1/30/20,4,Australia
+2067,1/31/20,4,Australia
+2068,2/1/20,4,Australia
+2069,2/2/20,4,Australia
+2070,2/3/20,4,Australia
+2071,2/4/20,4,Australia
+2072,2/5/20,4,Australia
+2073,2/6/20,4,Australia
+2074,2/7/20,4,Australia
+2075,2/8/20,4,Australia
+2076,2/9/20,4,Australia
+2077,2/10/20,4,Australia
+2078,2/11/20,4,Australia
+2079,2/12/20,4,Australia
+2080,2/13/20,4,Australia
+2081,2/14/20,4,Australia
+2082,2/15/20,4,Australia
+2083,2/16/20,4,Australia
+2084,2/17/20,4,Australia
+2085,2/18/20,4,Australia
+2086,2/19/20,4,Australia
+2087,2/20/20,4,Australia
+2088,2/21/20,4,Australia
+2089,2/22/20,4,Australia
+2090,2/23/20,4,Australia
+2091,2/24/20,4,Australia
+2092,2/25/20,4,Australia
+2093,2/26/20,4,Australia
+2094,2/27/20,4,Australia
+2095,2/28/20,4,Australia
+2096,2/29/20,4,Australia
+2097,3/1/20,6,Australia
+2098,3/2/20,6,Australia
+2099,3/3/20,13,Australia
+2100,1/22/20,0,Australia
+2101,1/23/20,0,Australia
+2102,1/24/20,0,Australia
+2103,1/25/20,0,Australia
+2104,1/26/20,1,Australia
+2105,1/27/20,1,Australia
+2106,1/28/20,1,Australia
+2107,1/29/20,1,Australia
+2108,1/30/20,2,Australia
+2109,1/31/20,3,Australia
+2110,2/1/20,4,Australia
+2111,2/2/20,4,Australia
+2112,2/3/20,4,Australia
+2113,2/4/20,4,Australia
+2114,2/5/20,4,Australia
+2115,2/6/20,4,Australia
+2116,2/7/20,4,Australia
+2117,2/8/20,4,Australia
+2118,2/9/20,4,Australia
+2119,2/10/20,4,Australia
+2120,2/11/20,4,Australia
+2121,2/12/20,4,Australia
+2122,2/13/20,4,Australia
+2123,2/14/20,4,Australia
+2124,2/15/20,4,Australia
+2125,2/16/20,4,Australia
+2126,2/17/20,4,Australia
+2127,2/18/20,4,Australia
+2128,2/19/20,4,Australia
+2129,2/20/20,4,Australia
+2130,2/21/20,4,Australia
+2131,2/22/20,4,Australia
+2132,2/23/20,4,Australia
+2133,2/24/20,4,Australia
+2134,2/25/20,4,Australia
+2135,2/26/20,4,Australia
+2136,2/27/20,4,Australia
+2137,2/28/20,4,Australia
+2138,2/29/20,7,Australia
+2139,3/1/20,7,Australia
+2140,3/2/20,9,Australia
+2141,3/3/20,9,Australia
+2142,1/22/20,0,Australia
+2143,1/23/20,0,Australia
+2144,1/24/20,0,Australia
+2145,1/25/20,0,Australia
+2146,1/26/20,0,Australia
+2147,1/27/20,0,Australia
+2148,1/28/20,0,Australia
+2149,1/29/20,1,Australia
+2150,1/30/20,3,Australia
+2151,1/31/20,2,Australia
+2152,2/1/20,3,Australia
+2153,2/2/20,2,Australia
+2154,2/3/20,2,Australia
+2155,2/4/20,3,Australia
+2156,2/5/20,3,Australia
+2157,2/6/20,4,Australia
+2158,2/7/20,5,Australia
+2159,2/8/20,5,Australia
+2160,2/9/20,5,Australia
+2161,2/10/20,5,Australia
+2162,2/11/20,5,Australia
+2163,2/12/20,5,Australia
+2164,2/13/20,5,Australia
+2165,2/14/20,5,Australia
+2166,2/15/20,5,Australia
+2167,2/16/20,5,Australia
+2168,2/17/20,5,Australia
+2169,2/18/20,5,Australia
+2170,2/19/20,5,Australia
+2171,2/20/20,5,Australia
+2172,2/21/20,5,Australia
+2173,2/22/20,5,Australia
+2174,2/23/20,5,Australia
+2175,2/24/20,5,Australia
+2176,2/25/20,5,Australia
+2177,2/26/20,5,Australia
+2178,2/27/20,5,Australia
+2179,2/28/20,5,Australia
+2180,2/29/20,9,Australia
+2181,3/1/20,9,Australia
+2182,3/2/20,9,Australia
+2183,3/3/20,11,Australia
+2184,1/22/20,0,Cambodia
+2185,1/23/20,0,Cambodia
+2186,1/24/20,0,Cambodia
+2187,1/25/20,0,Cambodia
+2188,1/26/20,0,Cambodia
+2189,1/27/20,1,Cambodia
+2190,1/28/20,1,Cambodia
+2191,1/29/20,1,Cambodia
+2192,1/30/20,1,Cambodia
+2193,1/31/20,1,Cambodia
+2194,2/1/20,1,Cambodia
+2195,2/2/20,1,Cambodia
+2196,2/3/20,1,Cambodia
+2197,2/4/20,1,Cambodia
+2198,2/5/20,1,Cambodia
+2199,2/6/20,1,Cambodia
+2200,2/7/20,1,Cambodia
+2201,2/8/20,1,Cambodia
+2202,2/9/20,1,Cambodia
+2203,2/10/20,1,Cambodia
+2204,2/11/20,1,Cambodia
+2205,2/12/20,1,Cambodia
+2206,2/13/20,1,Cambodia
+2207,2/14/20,1,Cambodia
+2208,2/15/20,1,Cambodia
+2209,2/16/20,1,Cambodia
+2210,2/17/20,1,Cambodia
+2211,2/18/20,1,Cambodia
+2212,2/19/20,1,Cambodia
+2213,2/20/20,1,Cambodia
+2214,2/21/20,1,Cambodia
+2215,2/22/20,1,Cambodia
+2216,2/23/20,1,Cambodia
+2217,2/24/20,1,Cambodia
+2218,2/25/20,1,Cambodia
+2219,2/26/20,1,Cambodia
+2220,2/27/20,1,Cambodia
+2221,2/28/20,1,Cambodia
+2222,2/29/20,1,Cambodia
+2223,3/1/20,1,Cambodia
+2224,3/2/20,1,Cambodia
+2225,3/3/20,1,Cambodia
+2226,1/22/20,0,Sri Lanka
+2227,1/23/20,0,Sri Lanka
+2228,1/24/20,0,Sri Lanka
+2229,1/25/20,0,Sri Lanka
+2230,1/26/20,0,Sri Lanka
+2231,1/27/20,1,Sri Lanka
+2232,1/28/20,1,Sri Lanka
+2233,1/29/20,1,Sri Lanka
+2234,1/30/20,1,Sri Lanka
+2235,1/31/20,1,Sri Lanka
+2236,2/1/20,1,Sri Lanka
+2237,2/2/20,1,Sri Lanka
+2238,2/3/20,1,Sri Lanka
+2239,2/4/20,1,Sri Lanka
+2240,2/5/20,1,Sri Lanka
+2241,2/6/20,1,Sri Lanka
+2242,2/7/20,1,Sri Lanka
+2243,2/8/20,1,Sri Lanka
+2244,2/9/20,1,Sri Lanka
+2245,2/10/20,1,Sri Lanka
+2246,2/11/20,1,Sri Lanka
+2247,2/12/20,1,Sri Lanka
+2248,2/13/20,1,Sri Lanka
+2249,2/14/20,1,Sri Lanka
+2250,2/15/20,1,Sri Lanka
+2251,2/16/20,1,Sri Lanka
+2252,2/17/20,1,Sri Lanka
+2253,2/18/20,1,Sri Lanka
+2254,2/19/20,1,Sri Lanka
+2255,2/20/20,1,Sri Lanka
+2256,2/21/20,1,Sri Lanka
+2257,2/22/20,1,Sri Lanka
+2258,2/23/20,1,Sri Lanka
+2259,2/24/20,1,Sri Lanka
+2260,2/25/20,1,Sri Lanka
+2261,2/26/20,1,Sri Lanka
+2262,2/27/20,1,Sri Lanka
+2263,2/28/20,1,Sri Lanka
+2264,2/29/20,1,Sri Lanka
+2265,3/1/20,1,Sri Lanka
+2266,3/2/20,1,Sri Lanka
+2267,3/3/20,1,Sri Lanka
+2268,1/22/20,0,Germany
+2269,1/23/20,0,Germany
+2270,1/24/20,0,Germany
+2271,1/25/20,0,Germany
+2272,1/26/20,0,Germany
+2273,1/27/20,1,Germany
+2274,1/28/20,4,Germany
+2275,1/29/20,4,Germany
+2276,1/30/20,4,Germany
+2277,1/31/20,5,Germany
+2278,2/1/20,8,Germany
+2279,2/2/20,10,Germany
+2280,2/3/20,12,Germany
+2281,2/4/20,12,Germany
+2282,2/5/20,12,Germany
+2283,2/6/20,12,Germany
+2284,2/7/20,13,Germany
+2285,2/8/20,13,Germany
+2286,2/9/20,14,Germany
+2287,2/10/20,14,Germany
+2288,2/11/20,16,Germany
+2289,2/12/20,16,Germany
+2290,2/13/20,16,Germany
+2291,2/14/20,16,Germany
+2292,2/15/20,16,Germany
+2293,2/16/20,16,Germany
+2294,2/17/20,16,Germany
+2295,2/18/20,16,Germany
+2296,2/19/20,16,Germany
+2297,2/20/20,16,Germany
+2298,2/21/20,16,Germany
+2299,2/22/20,16,Germany
+2300,2/23/20,16,Germany
+2301,2/24/20,16,Germany
+2302,2/25/20,17,Germany
+2303,2/26/20,27,Germany
+2304,2/27/20,46,Germany
+2305,2/28/20,48,Germany
+2306,2/29/20,79,Germany
+2307,3/1/20,130,Germany
+2308,3/2/20,159,Germany
+2309,3/3/20,196,Germany
+2310,1/22/20,0,Finland
+2311,1/23/20,0,Finland
+2312,1/24/20,0,Finland
+2313,1/25/20,0,Finland
+2314,1/26/20,0,Finland
+2315,1/27/20,0,Finland
+2316,1/28/20,0,Finland
+2317,1/29/20,1,Finland
+2318,1/30/20,1,Finland
+2319,1/31/20,1,Finland
+2320,2/1/20,1,Finland
+2321,2/2/20,1,Finland
+2322,2/3/20,1,Finland
+2323,2/4/20,1,Finland
+2324,2/5/20,1,Finland
+2325,2/6/20,1,Finland
+2326,2/7/20,1,Finland
+2327,2/8/20,1,Finland
+2328,2/9/20,1,Finland
+2329,2/10/20,1,Finland
+2330,2/11/20,1,Finland
+2331,2/12/20,1,Finland
+2332,2/13/20,1,Finland
+2333,2/14/20,1,Finland
+2334,2/15/20,1,Finland
+2335,2/16/20,1,Finland
+2336,2/17/20,1,Finland
+2337,2/18/20,1,Finland
+2338,2/19/20,1,Finland
+2339,2/20/20,1,Finland
+2340,2/21/20,1,Finland
+2341,2/22/20,1,Finland
+2342,2/23/20,1,Finland
+2343,2/24/20,1,Finland
+2344,2/25/20,1,Finland
+2345,2/26/20,2,Finland
+2346,2/27/20,2,Finland
+2347,2/28/20,2,Finland
+2348,2/29/20,3,Finland
+2349,3/1/20,6,Finland
+2350,3/2/20,6,Finland
+2351,3/3/20,6,Finland
+2352,1/22/20,0,United Arab Emirates
+2353,1/23/20,0,United Arab Emirates
+2354,1/24/20,0,United Arab Emirates
+2355,1/25/20,0,United Arab Emirates
+2356,1/26/20,0,United Arab Emirates
+2357,1/27/20,0,United Arab Emirates
+2358,1/28/20,0,United Arab Emirates
+2359,1/29/20,4,United Arab Emirates
+2360,1/30/20,4,United Arab Emirates
+2361,1/31/20,4,United Arab Emirates
+2362,2/1/20,4,United Arab Emirates
+2363,2/2/20,5,United Arab Emirates
+2364,2/3/20,5,United Arab Emirates
+2365,2/4/20,5,United Arab Emirates
+2366,2/5/20,5,United Arab Emirates
+2367,2/6/20,5,United Arab Emirates
+2368,2/7/20,5,United Arab Emirates
+2369,2/8/20,7,United Arab Emirates
+2370,2/9/20,7,United Arab Emirates
+2371,2/10/20,8,United Arab Emirates
+2372,2/11/20,8,United Arab Emirates
+2373,2/12/20,8,United Arab Emirates
+2374,2/13/20,8,United Arab Emirates
+2375,2/14/20,8,United Arab Emirates
+2376,2/15/20,8,United Arab Emirates
+2377,2/16/20,9,United Arab Emirates
+2378,2/17/20,9,United Arab Emirates
+2379,2/18/20,9,United Arab Emirates
+2380,2/19/20,9,United Arab Emirates
+2381,2/20/20,9,United Arab Emirates
+2382,2/21/20,9,United Arab Emirates
+2383,2/22/20,13,United Arab Emirates
+2384,2/23/20,13,United Arab Emirates
+2385,2/24/20,13,United Arab Emirates
+2386,2/25/20,13,United Arab Emirates
+2387,2/26/20,13,United Arab Emirates
+2388,2/27/20,13,United Arab Emirates
+2389,2/28/20,19,United Arab Emirates
+2390,2/29/20,21,United Arab Emirates
+2391,3/1/20,21,United Arab Emirates
+2392,3/2/20,21,United Arab Emirates
+2393,3/3/20,27,United Arab Emirates
+2394,1/22/20,0,Philippines
+2395,1/23/20,0,Philippines
+2396,1/24/20,0,Philippines
+2397,1/25/20,0,Philippines
+2398,1/26/20,0,Philippines
+2399,1/27/20,0,Philippines
+2400,1/28/20,0,Philippines
+2401,1/29/20,0,Philippines
+2402,1/30/20,1,Philippines
+2403,1/31/20,1,Philippines
+2404,2/1/20,1,Philippines
+2405,2/2/20,2,Philippines
+2406,2/3/20,2,Philippines
+2407,2/4/20,2,Philippines
+2408,2/5/20,2,Philippines
+2409,2/6/20,2,Philippines
+2410,2/7/20,3,Philippines
+2411,2/8/20,3,Philippines
+2412,2/9/20,3,Philippines
+2413,2/10/20,3,Philippines
+2414,2/11/20,3,Philippines
+2415,2/12/20,3,Philippines
+2416,2/13/20,3,Philippines
+2417,2/14/20,3,Philippines
+2418,2/15/20,3,Philippines
+2419,2/16/20,3,Philippines
+2420,2/17/20,3,Philippines
+2421,2/18/20,3,Philippines
+2422,2/19/20,3,Philippines
+2423,2/20/20,3,Philippines
+2424,2/21/20,3,Philippines
+2425,2/22/20,3,Philippines
+2426,2/23/20,3,Philippines
+2427,2/24/20,3,Philippines
+2428,2/25/20,3,Philippines
+2429,2/26/20,3,Philippines
+2430,2/27/20,3,Philippines
+2431,2/28/20,3,Philippines
+2432,2/29/20,3,Philippines
+2433,3/1/20,3,Philippines
+2434,3/2/20,3,Philippines
+2435,3/3/20,3,Philippines
+2436,1/22/20,0,India
+2437,1/23/20,0,India
+2438,1/24/20,0,India
+2439,1/25/20,0,India
+2440,1/26/20,0,India
+2441,1/27/20,0,India
+2442,1/28/20,0,India
+2443,1/29/20,0,India
+2444,1/30/20,1,India
+2445,1/31/20,1,India
+2446,2/1/20,1,India
+2447,2/2/20,2,India
+2448,2/3/20,3,India
+2449,2/4/20,3,India
+2450,2/5/20,3,India
+2451,2/6/20,3,India
+2452,2/7/20,3,India
+2453,2/8/20,3,India
+2454,2/9/20,3,India
+2455,2/10/20,3,India
+2456,2/11/20,3,India
+2457,2/12/20,3,India
+2458,2/13/20,3,India
+2459,2/14/20,3,India
+2460,2/15/20,3,India
+2461,2/16/20,3,India
+2462,2/17/20,3,India
+2463,2/18/20,3,India
+2464,2/19/20,3,India
+2465,2/20/20,3,India
+2466,2/21/20,3,India
+2467,2/22/20,3,India
+2468,2/23/20,3,India
+2469,2/24/20,3,India
+2470,2/25/20,3,India
+2471,2/26/20,3,India
+2472,2/27/20,3,India
+2473,2/28/20,3,India
+2474,2/29/20,3,India
+2475,3/1/20,3,India
+2476,3/2/20,5,India
+2477,3/3/20,5,India
+2478,1/22/20,0,Canada
+2479,1/23/20,0,Canada
+2480,1/24/20,0,Canada
+2481,1/25/20,0,Canada
+2482,1/26/20,0,Canada
+2483,1/27/20,0,Canada
+2484,1/28/20,0,Canada
+2485,1/29/20,0,Canada
+2486,1/30/20,0,Canada
+2487,1/31/20,1,Canada
+2488,2/1/20,1,Canada
+2489,2/2/20,1,Canada
+2490,2/3/20,1,Canada
+2491,2/4/20,1,Canada
+2492,2/5/20,1,Canada
+2493,2/6/20,1,Canada
+2494,2/7/20,1,Canada
+2495,2/8/20,1,Canada
+2496,2/9/20,1,Canada
+2497,2/10/20,1,Canada
+2498,2/11/20,1,Canada
+2499,2/12/20,1,Canada
+2500,2/13/20,1,Canada
+2501,2/14/20,1,Canada
+2502,2/15/20,1,Canada
+2503,2/16/20,1,Canada
+2504,2/17/20,1,Canada
+2505,2/18/20,1,Canada
+2506,2/19/20,1,Canada
+2507,2/20/20,1,Canada
+2508,2/21/20,1,Canada
+2509,2/22/20,1,Canada
+2510,2/23/20,1,Canada
+2511,2/24/20,1,Canada
+2512,2/25/20,1,Canada
+2513,2/26/20,1,Canada
+2514,2/27/20,1,Canada
+2515,2/28/20,1,Canada
+2516,2/29/20,1,Canada
+2517,3/1/20,1,Canada
+2518,3/2/20,1,Canada
+2519,3/3/20,1,Canada
+2520,1/22/20,0,Italy
+2521,1/23/20,0,Italy
+2522,1/24/20,0,Italy
+2523,1/25/20,0,Italy
+2524,1/26/20,0,Italy
+2525,1/27/20,0,Italy
+2526,1/28/20,0,Italy
+2527,1/29/20,0,Italy
+2528,1/30/20,0,Italy
+2529,1/31/20,2,Italy
+2530,2/1/20,2,Italy
+2531,2/2/20,2,Italy
+2532,2/3/20,2,Italy
+2533,2/4/20,2,Italy
+2534,2/5/20,2,Italy
+2535,2/6/20,2,Italy
+2536,2/7/20,3,Italy
+2537,2/8/20,3,Italy
+2538,2/9/20,3,Italy
+2539,2/10/20,3,Italy
+2540,2/11/20,3,Italy
+2541,2/12/20,3,Italy
+2542,2/13/20,3,Italy
+2543,2/14/20,3,Italy
+2544,2/15/20,3,Italy
+2545,2/16/20,3,Italy
+2546,2/17/20,3,Italy
+2547,2/18/20,3,Italy
+2548,2/19/20,3,Italy
+2549,2/20/20,3,Italy
+2550,2/21/20,20,Italy
+2551,2/22/20,62,Italy
+2552,2/23/20,155,Italy
+2553,2/24/20,229,Italy
+2554,2/25/20,322,Italy
+2555,2/26/20,453,Italy
+2556,2/27/20,655,Italy
+2557,2/28/20,888,Italy
+2558,2/29/20,1128,Italy
+2559,3/1/20,1694,Italy
+2560,3/2/20,2036,Italy
+2561,3/3/20,2502,Italy
+2562,1/22/20,0,UK
+2563,1/23/20,0,UK
+2564,1/24/20,0,UK
+2565,1/25/20,0,UK
+2566,1/26/20,0,UK
+2567,1/27/20,0,UK
+2568,1/28/20,0,UK
+2569,1/29/20,0,UK
+2570,1/30/20,0,UK
+2571,1/31/20,2,UK
+2572,2/1/20,2,UK
+2573,2/2/20,2,UK
+2574,2/3/20,2,UK
+2575,2/4/20,2,UK
+2576,2/5/20,2,UK
+2577,2/6/20,2,UK
+2578,2/7/20,3,UK
+2579,2/8/20,3,UK
+2580,2/9/20,3,UK
+2581,2/10/20,8,UK
+2582,2/11/20,8,UK
+2583,2/12/20,9,UK
+2584,2/13/20,9,UK
+2585,2/14/20,9,UK
+2586,2/15/20,9,UK
+2587,2/16/20,9,UK
+2588,2/17/20,9,UK
+2589,2/18/20,9,UK
+2590,2/19/20,9,UK
+2591,2/20/20,9,UK
+2592,2/21/20,9,UK
+2593,2/22/20,9,UK
+2594,2/23/20,9,UK
+2595,2/24/20,13,UK
+2596,2/25/20,13,UK
+2597,2/26/20,13,UK
+2598,2/27/20,15,UK
+2599,2/28/20,20,UK
+2600,2/29/20,23,UK
+2601,3/1/20,36,UK
+2602,3/2/20,40,UK
+2603,3/3/20,51,UK
+2604,1/22/20,0,Russia
+2605,1/23/20,0,Russia
+2606,1/24/20,0,Russia
+2607,1/25/20,0,Russia
+2608,1/26/20,0,Russia
+2609,1/27/20,0,Russia
+2610,1/28/20,0,Russia
+2611,1/29/20,0,Russia
+2612,1/30/20,0,Russia
+2613,1/31/20,2,Russia
+2614,2/1/20,2,Russia
+2615,2/2/20,2,Russia
+2616,2/3/20,2,Russia
+2617,2/4/20,2,Russia
+2618,2/5/20,2,Russia
+2619,2/6/20,2,Russia
+2620,2/7/20,2,Russia
+2621,2/8/20,2,Russia
+2622,2/9/20,2,Russia
+2623,2/10/20,2,Russia
+2624,2/11/20,2,Russia
+2625,2/12/20,2,Russia
+2626,2/13/20,2,Russia
+2627,2/14/20,2,Russia
+2628,2/15/20,2,Russia
+2629,2/16/20,2,Russia
+2630,2/17/20,2,Russia
+2631,2/18/20,2,Russia
+2632,2/19/20,2,Russia
+2633,2/20/20,2,Russia
+2634,2/21/20,2,Russia
+2635,2/22/20,2,Russia
+2636,2/23/20,2,Russia
+2637,2/24/20,2,Russia
+2638,2/25/20,2,Russia
+2639,2/26/20,2,Russia
+2640,2/27/20,2,Russia
+2641,2/28/20,2,Russia
+2642,2/29/20,2,Russia
+2643,3/1/20,2,Russia
+2644,3/2/20,3,Russia
+2645,3/3/20,3,Russia
+2646,1/22/20,0,Sweden
+2647,1/23/20,0,Sweden
+2648,1/24/20,0,Sweden
+2649,1/25/20,0,Sweden
+2650,1/26/20,0,Sweden
+2651,1/27/20,0,Sweden
+2652,1/28/20,0,Sweden
+2653,1/29/20,0,Sweden
+2654,1/30/20,0,Sweden
+2655,1/31/20,1,Sweden
+2656,2/1/20,1,Sweden
+2657,2/2/20,1,Sweden
+2658,2/3/20,1,Sweden
+2659,2/4/20,1,Sweden
+2660,2/5/20,1,Sweden
+2661,2/6/20,1,Sweden
+2662,2/7/20,1,Sweden
+2663,2/8/20,1,Sweden
+2664,2/9/20,1,Sweden
+2665,2/10/20,1,Sweden
+2666,2/11/20,1,Sweden
+2667,2/12/20,1,Sweden
+2668,2/13/20,1,Sweden
+2669,2/14/20,1,Sweden
+2670,2/15/20,1,Sweden
+2671,2/16/20,1,Sweden
+2672,2/17/20,1,Sweden
+2673,2/18/20,1,Sweden
+2674,2/19/20,1,Sweden
+2675,2/20/20,1,Sweden
+2676,2/21/20,1,Sweden
+2677,2/22/20,1,Sweden
+2678,2/23/20,1,Sweden
+2679,2/24/20,1,Sweden
+2680,2/25/20,1,Sweden
+2681,2/26/20,2,Sweden
+2682,2/27/20,7,Sweden
+2683,2/28/20,7,Sweden
+2684,2/29/20,12,Sweden
+2685,3/1/20,14,Sweden
+2686,3/2/20,15,Sweden
+2687,3/3/20,21,Sweden
+2688,1/22/20,0,US
+2689,1/23/20,0,US
+2690,1/24/20,0,US
+2691,1/25/20,0,US
+2692,1/26/20,0,US
+2693,1/27/20,0,US
+2694,1/28/20,0,US
+2695,1/29/20,0,US
+2696,1/30/20,0,US
+2697,1/31/20,1,US
+2698,2/1/20,1,US
+2699,2/2/20,1,US
+2700,2/3/20,2,US
+2701,2/4/20,2,US
+2702,2/5/20,2,US
+2703,2/6/20,2,US
+2704,2/7/20,2,US
+2705,2/8/20,2,US
+2706,2/9/20,2,US
+2707,2/10/20,2,US
+2708,2/11/20,2,US
+2709,2/12/20,2,US
+2710,2/13/20,2,US
+2711,2/14/20,2,US
+2712,2/15/20,2,US
+2713,2/16/20,2,US
+2714,2/17/20,2,US
+2715,2/18/20,2,US
+2716,2/19/20,2,US
+2717,2/20/20,2,US
+2718,2/21/20,2,US
+2719,2/22/20,2,US
+2720,2/23/20,2,US
+2721,2/24/20,2,US
+2722,2/25/20,2,US
+2723,2/26/20,2,US
+2724,2/27/20,2,US
+2725,2/28/20,2,US
+2726,2/29/20,3,US
+2727,3/1/20,3,US
+2728,3/2/20,9,US
+2729,3/3/20,11,US
+2730,1/22/20,0,Spain
+2731,1/23/20,0,Spain
+2732,1/24/20,0,Spain
+2733,1/25/20,0,Spain
+2734,1/26/20,0,Spain
+2735,1/27/20,0,Spain
+2736,1/28/20,0,Spain
+2737,1/29/20,0,Spain
+2738,1/30/20,0,Spain
+2739,1/31/20,0,Spain
+2740,2/1/20,1,Spain
+2741,2/2/20,1,Spain
+2742,2/3/20,1,Spain
+2743,2/4/20,1,Spain
+2744,2/5/20,1,Spain
+2745,2/6/20,1,Spain
+2746,2/7/20,1,Spain
+2747,2/8/20,1,Spain
+2748,2/9/20,2,Spain
+2749,2/10/20,2,Spain
+2750,2/11/20,2,Spain
+2751,2/12/20,2,Spain
+2752,2/13/20,2,Spain
+2753,2/14/20,2,Spain
+2754,2/15/20,2,Spain
+2755,2/16/20,2,Spain
+2756,2/17/20,2,Spain
+2757,2/18/20,2,Spain
+2758,2/19/20,2,Spain
+2759,2/20/20,2,Spain
+2760,2/21/20,2,Spain
+2761,2/22/20,2,Spain
+2762,2/23/20,2,Spain
+2763,2/24/20,2,Spain
+2764,2/25/20,6,Spain
+2765,2/26/20,13,Spain
+2766,2/27/20,15,Spain
+2767,2/28/20,32,Spain
+2768,2/29/20,45,Spain
+2769,3/1/20,84,Spain
+2770,3/2/20,120,Spain
+2771,3/3/20,165,Spain
+2772,1/22/20,0,Australia
+2773,1/23/20,0,Australia
+2774,1/24/20,0,Australia
+2775,1/25/20,0,Australia
+2776,1/26/20,0,Australia
+2777,1/27/20,0,Australia
+2778,1/28/20,0,Australia
+2779,1/29/20,0,Australia
+2780,1/30/20,0,Australia
+2781,1/31/20,0,Australia
+2782,2/1/20,1,Australia
+2783,2/2/20,2,Australia
+2784,2/3/20,2,Australia
+2785,2/4/20,2,Australia
+2786,2/5/20,2,Australia
+2787,2/6/20,2,Australia
+2788,2/7/20,2,Australia
+2789,2/8/20,2,Australia
+2790,2/9/20,2,Australia
+2791,2/10/20,2,Australia
+2792,2/11/20,2,Australia
+2793,2/12/20,2,Australia
+2794,2/13/20,2,Australia
+2795,2/14/20,2,Australia
+2796,2/15/20,2,Australia
+2797,2/16/20,2,Australia
+2798,2/17/20,2,Australia
+2799,2/18/20,2,Australia
+2800,2/19/20,2,Australia
+2801,2/20/20,2,Australia
+2802,2/21/20,2,Australia
+2803,2/22/20,2,Australia
+2804,2/23/20,2,Australia
+2805,2/24/20,2,Australia
+2806,2/25/20,2,Australia
+2807,2/26/20,2,Australia
+2808,2/27/20,2,Australia
+2809,2/28/20,2,Australia
+2810,2/29/20,3,Australia
+2811,3/1/20,3,Australia
+2812,3/2/20,3,Australia
+2813,3/3/20,3,Australia
+2814,1/22/20,0,US
+2815,1/23/20,0,US
+2816,1/24/20,0,US
+2817,1/25/20,0,US
+2818,1/26/20,0,US
+2819,1/27/20,0,US
+2820,1/28/20,0,US
+2821,1/29/20,0,US
+2822,1/30/20,0,US
+2823,1/31/20,0,US
+2824,2/1/20,1,US
+2825,2/2/20,1,US
+2826,2/3/20,1,US
+2827,2/4/20,1,US
+2828,2/5/20,1,US
+2829,2/6/20,1,US
+2830,2/7/20,1,US
+2831,2/8/20,1,US
+2832,2/9/20,1,US
+2833,2/10/20,1,US
+2834,2/11/20,1,US
+2835,2/12/20,1,US
+2836,2/13/20,1,US
+2837,2/14/20,1,US
+2838,2/15/20,1,US
+2839,2/16/20,1,US
+2840,2/17/20,1,US
+2841,2/18/20,1,US
+2842,2/19/20,1,US
+2843,2/20/20,1,US
+2844,2/21/20,1,US
+2845,2/22/20,1,US
+2846,2/23/20,1,US
+2847,2/24/20,1,US
+2848,2/25/20,1,US
+2849,2/26/20,1,US
+2850,2/27/20,1,US
+2851,2/28/20,1,US
+2852,2/29/20,1,US
+2853,3/1/20,1,US
+2854,3/2/20,1,US
+2855,3/3/20,1,US
+2856,1/22/20,0,US
+2857,1/23/20,0,US
+2858,1/24/20,0,US
+2859,1/25/20,0,US
+2860,1/26/20,0,US
+2861,1/27/20,0,US
+2862,1/28/20,0,US
+2863,1/29/20,0,US
+2864,1/30/20,0,US
+2865,1/31/20,0,US
+2866,2/1/20,0,US
+2867,2/2/20,0,US
+2868,2/3/20,2,US
+2869,2/4/20,2,US
+2870,2/5/20,2,US
+2871,2/6/20,2,US
+2872,2/7/20,2,US
+2873,2/8/20,2,US
+2874,2/9/20,2,US
+2875,2/10/20,2,US
+2876,2/11/20,2,US
+2877,2/12/20,2,US
+2878,2/13/20,2,US
+2879,2/14/20,2,US
+2880,2/15/20,2,US
+2881,2/16/20,2,US
+2882,2/17/20,2,US
+2883,2/18/20,2,US
+2884,2/19/20,2,US
+2885,2/20/20,2,US
+2886,2/21/20,2,US
+2887,2/22/20,2,US
+2888,2/23/20,2,US
+2889,2/24/20,2,US
+2890,2/25/20,2,US
+2891,2/26/20,2,US
+2892,2/27/20,2,US
+2893,2/28/20,2,US
+2894,2/29/20,2,US
+2895,3/1/20,2,US
+2896,3/2/20,2,US
+2897,3/3/20,2,US
+2898,1/22/20,0,Belgium
+2899,1/23/20,0,Belgium
+2900,1/24/20,0,Belgium
+2901,1/25/20,0,Belgium
+2902,1/26/20,0,Belgium
+2903,1/27/20,0,Belgium
+2904,1/28/20,0,Belgium
+2905,1/29/20,0,Belgium
+2906,1/30/20,0,Belgium
+2907,1/31/20,0,Belgium
+2908,2/1/20,0,Belgium
+2909,2/2/20,0,Belgium
+2910,2/3/20,0,Belgium
+2911,2/4/20,1,Belgium
+2912,2/5/20,1,Belgium
+2913,2/6/20,1,Belgium
+2914,2/7/20,1,Belgium
+2915,2/8/20,1,Belgium
+2916,2/9/20,1,Belgium
+2917,2/10/20,1,Belgium
+2918,2/11/20,1,Belgium
+2919,2/12/20,1,Belgium
+2920,2/13/20,1,Belgium
+2921,2/14/20,1,Belgium
+2922,2/15/20,1,Belgium
+2923,2/16/20,1,Belgium
+2924,2/17/20,1,Belgium
+2925,2/18/20,1,Belgium
+2926,2/19/20,1,Belgium
+2927,2/20/20,1,Belgium
+2928,2/21/20,1,Belgium
+2929,2/22/20,1,Belgium
+2930,2/23/20,1,Belgium
+2931,2/24/20,1,Belgium
+2932,2/25/20,1,Belgium
+2933,2/26/20,1,Belgium
+2934,2/27/20,1,Belgium
+2935,2/28/20,1,Belgium
+2936,2/29/20,1,Belgium
+2937,3/1/20,2,Belgium
+2938,3/2/20,8,Belgium
+2939,3/3/20,13,Belgium
+2940,1/22/20,0,US
+2941,1/23/20,0,US
+2942,1/24/20,0,US
+2943,1/25/20,0,US
+2944,1/26/20,0,US
+2945,1/27/20,0,US
+2946,1/28/20,0,US
+2947,1/29/20,0,US
+2948,1/30/20,0,US
+2949,1/31/20,0,US
+2950,2/1/20,0,US
+2951,2/2/20,0,US
+2952,2/3/20,0,US
+2953,2/4/20,0,US
+2954,2/5/20,1,US
+2955,2/6/20,1,US
+2956,2/7/20,1,US
+2957,2/8/20,1,US
+2958,2/9/20,1,US
+2959,2/10/20,1,US
+2960,2/11/20,1,US
+2961,2/12/20,1,US
+2962,2/13/20,1,US
+2963,2/14/20,1,US
+2964,2/15/20,1,US
+2965,2/16/20,1,US
+2966,2/17/20,1,US
+2967,2/18/20,1,US
+2968,2/19/20,1,US
+2969,2/20/20,1,US
+2970,2/21/20,1,US
+2971,2/22/20,1,US
+2972,2/23/20,1,US
+2973,2/24/20,1,US
+2974,2/25/20,1,US
+2975,2/26/20,1,US
+2976,2/27/20,1,US
+2977,2/28/20,1,US
+2978,2/29/20,1,US
+2979,3/1/20,1,US
+2980,3/2/20,1,US
+2981,3/3/20,1,US
+2982,1/22/20,0,Others
+2983,1/23/20,0,Others
+2984,1/24/20,0,Others
+2985,1/25/20,0,Others
+2986,1/26/20,0,Others
+2987,1/27/20,0,Others
+2988,1/28/20,0,Others
+2989,1/29/20,0,Others
+2990,1/30/20,0,Others
+2991,1/31/20,0,Others
+2992,2/1/20,0,Others
+2993,2/2/20,0,Others
+2994,2/3/20,0,Others
+2995,2/4/20,0,Others
+2996,2/5/20,0,Others
+2997,2/6/20,0,Others
+2998,2/7/20,61,Others
+2999,2/8/20,61,Others
+3000,2/9/20,64,Others
+3001,2/10/20,135,Others
+3002,2/11/20,135,Others
+3003,2/12/20,175,Others
+3004,2/13/20,175,Others
+3005,2/14/20,218,Others
+3006,2/15/20,285,Others
+3007,2/16/20,355,Others
+3008,2/17/20,454,Others
+3009,2/18/20,542,Others
+3010,2/19/20,621,Others
+3011,2/20/20,634,Others
+3012,2/21/20,634,Others
+3013,2/22/20,634,Others
+3014,2/23/20,691,Others
+3015,2/24/20,691,Others
+3016,2/25/20,691,Others
+3017,2/26/20,705,Others
+3018,2/27/20,705,Others
+3019,2/28/20,705,Others
+3020,2/29/20,705,Others
+3021,3/1/20,705,Others
+3022,3/2/20,705,Others
+3023,3/3/20,706,Others
+3024,1/22/20,0,US
+3025,1/23/20,0,US
+3026,1/24/20,0,US
+3027,1/25/20,0,US
+3028,1/26/20,0,US
+3029,1/27/20,0,US
+3030,1/28/20,0,US
+3031,1/29/20,0,US
+3032,1/30/20,0,US
+3033,1/31/20,0,US
+3034,2/1/20,0,US
+3035,2/2/20,0,US
+3036,2/3/20,0,US
+3037,2/4/20,0,US
+3038,2/5/20,0,US
+3039,2/6/20,0,US
+3040,2/7/20,0,US
+3041,2/8/20,0,US
+3042,2/9/20,0,US
+3043,2/10/20,0,US
+3044,2/11/20,1,US
+3045,2/12/20,1,US
+3046,2/13/20,2,US
+3047,2/14/20,2,US
+3048,2/15/20,2,US
+3049,2/16/20,2,US
+3050,2/17/20,2,US
+3051,2/18/20,2,US
+3052,2/19/20,2,US
+3053,2/20/20,2,US
+3054,2/21/20,2,US
+3055,2/22/20,2,US
+3056,2/23/20,2,US
+3057,2/24/20,2,US
+3058,2/25/20,2,US
+3059,2/26/20,2,US
+3060,2/27/20,2,US
+3061,2/28/20,2,US
+3062,2/29/20,2,US
+3063,3/1/20,2,US
+3064,3/2/20,2,US
+3065,3/3/20,2,US
+3066,1/22/20,0,US
+3067,1/23/20,0,US
+3068,1/24/20,0,US
+3069,1/25/20,0,US
+3070,1/26/20,0,US
+3071,1/27/20,0,US
+3072,1/28/20,0,US
+3073,1/29/20,0,US
+3074,1/30/20,0,US
+3075,1/31/20,0,US
+3076,2/1/20,0,US
+3077,2/2/20,0,US
+3078,2/3/20,0,US
+3079,2/4/20,0,US
+3080,2/5/20,0,US
+3081,2/6/20,0,US
+3082,2/7/20,0,US
+3083,2/8/20,0,US
+3084,2/9/20,0,US
+3085,2/10/20,0,US
+3086,2/11/20,0,US
+3087,2/12/20,0,US
+3088,2/13/20,1,US
+3089,2/14/20,1,US
+3090,2/15/20,1,US
+3091,2/16/20,1,US
+3092,2/17/20,1,US
+3093,2/18/20,1,US
+3094,2/19/20,1,US
+3095,2/20/20,1,US
+3096,2/21/20,1,US
+3097,2/22/20,1,US
+3098,2/23/20,1,US
+3099,2/24/20,1,US
+3100,2/25/20,1,US
+3101,2/26/20,1,US
+3102,2/27/20,1,US
+3103,2/28/20,1,US
+3104,2/29/20,1,US
+3105,3/1/20,1,US
+3106,3/2/20,1,US
+3107,3/3/20,1,US
+3108,1/22/20,0,Egypt
+3109,1/23/20,0,Egypt
+3110,1/24/20,0,Egypt
+3111,1/25/20,0,Egypt
+3112,1/26/20,0,Egypt
+3113,1/27/20,0,Egypt
+3114,1/28/20,0,Egypt
+3115,1/29/20,0,Egypt
+3116,1/30/20,0,Egypt
+3117,1/31/20,0,Egypt
+3118,2/1/20,0,Egypt
+3119,2/2/20,0,Egypt
+3120,2/3/20,0,Egypt
+3121,2/4/20,0,Egypt
+3122,2/5/20,0,Egypt
+3123,2/6/20,0,Egypt
+3124,2/7/20,0,Egypt
+3125,2/8/20,0,Egypt
+3126,2/9/20,0,Egypt
+3127,2/10/20,0,Egypt
+3128,2/11/20,0,Egypt
+3129,2/12/20,0,Egypt
+3130,2/13/20,0,Egypt
+3131,2/14/20,1,Egypt
+3132,2/15/20,1,Egypt
+3133,2/16/20,1,Egypt
+3134,2/17/20,1,Egypt
+3135,2/18/20,1,Egypt
+3136,2/19/20,1,Egypt
+3137,2/20/20,1,Egypt
+3138,2/21/20,1,Egypt
+3139,2/22/20,1,Egypt
+3140,2/23/20,1,Egypt
+3141,2/24/20,1,Egypt
+3142,2/25/20,1,Egypt
+3143,2/26/20,1,Egypt
+3144,2/27/20,1,Egypt
+3145,2/28/20,1,Egypt
+3146,2/29/20,1,Egypt
+3147,3/1/20,2,Egypt
+3148,3/2/20,2,Egypt
+3149,3/3/20,2,Egypt
+3150,1/22/20,0,Iran
+3151,1/23/20,0,Iran
+3152,1/24/20,0,Iran
+3153,1/25/20,0,Iran
+3154,1/26/20,0,Iran
+3155,1/27/20,0,Iran
+3156,1/28/20,0,Iran
+3157,1/29/20,0,Iran
+3158,1/30/20,0,Iran
+3159,1/31/20,0,Iran
+3160,2/1/20,0,Iran
+3161,2/2/20,0,Iran
+3162,2/3/20,0,Iran
+3163,2/4/20,0,Iran
+3164,2/5/20,0,Iran
+3165,2/6/20,0,Iran
+3166,2/7/20,0,Iran
+3167,2/8/20,0,Iran
+3168,2/9/20,0,Iran
+3169,2/10/20,0,Iran
+3170,2/11/20,0,Iran
+3171,2/12/20,0,Iran
+3172,2/13/20,0,Iran
+3173,2/14/20,0,Iran
+3174,2/15/20,0,Iran
+3175,2/16/20,0,Iran
+3176,2/17/20,0,Iran
+3177,2/18/20,0,Iran
+3178,2/19/20,2,Iran
+3179,2/20/20,5,Iran
+3180,2/21/20,18,Iran
+3181,2/22/20,28,Iran
+3182,2/23/20,43,Iran
+3183,2/24/20,61,Iran
+3184,2/25/20,95,Iran
+3185,2/26/20,139,Iran
+3186,2/27/20,245,Iran
+3187,2/28/20,388,Iran
+3188,2/29/20,593,Iran
+3189,3/1/20,978,Iran
+3190,3/2/20,1501,Iran
+3191,3/3/20,2336,Iran
+3192,1/22/20,0,US
+3193,1/23/20,0,US
+3194,1/24/20,0,US
+3195,1/25/20,0,US
+3196,1/26/20,0,US
+3197,1/27/20,0,US
+3198,1/28/20,0,US
+3199,1/29/20,0,US
+3200,1/30/20,0,US
+3201,1/31/20,0,US
+3202,2/1/20,0,US
+3203,2/2/20,0,US
+3204,2/3/20,0,US
+3205,2/4/20,0,US
+3206,2/5/20,0,US
+3207,2/6/20,0,US
+3208,2/7/20,0,US
+3209,2/8/20,0,US
+3210,2/9/20,0,US
+3211,2/10/20,0,US
+3212,2/11/20,0,US
+3213,2/12/20,0,US
+3214,2/13/20,0,US
+3215,2/14/20,0,US
+3216,2/15/20,0,US
+3217,2/16/20,0,US
+3218,2/17/20,0,US
+3219,2/18/20,0,US
+3220,2/19/20,0,US
+3221,2/20/20,0,US
+3222,2/21/20,11,US
+3223,2/22/20,11,US
+3224,2/23/20,11,US
+3225,2/24/20,0,US
+3226,2/25/20,0,US
+3227,2/26/20,0,US
+3228,2/27/20,0,US
+3229,2/28/20,0,US
+3230,2/29/20,0,US
+3231,3/1/20,0,US
+3232,3/2/20,0,US
+3233,3/3/20,0,US
+3234,1/22/20,0,US
+3235,1/23/20,0,US
+3236,1/24/20,0,US
+3237,1/25/20,0,US
+3238,1/26/20,0,US
+3239,1/27/20,0,US
+3240,1/28/20,0,US
+3241,1/29/20,0,US
+3242,1/30/20,0,US
+3243,1/31/20,0,US
+3244,2/1/20,0,US
+3245,2/2/20,0,US
+3246,2/3/20,0,US
+3247,2/4/20,0,US
+3248,2/5/20,0,US
+3249,2/6/20,0,US
+3250,2/7/20,0,US
+3251,2/8/20,0,US
+3252,2/9/20,0,US
+3253,2/10/20,0,US
+3254,2/11/20,0,US
+3255,2/12/20,0,US
+3256,2/13/20,0,US
+3257,2/14/20,0,US
+3258,2/15/20,0,US
+3259,2/16/20,0,US
+3260,2/17/20,0,US
+3261,2/18/20,0,US
+3262,2/19/20,0,US
+3263,2/20/20,0,US
+3264,2/21/20,5,US
+3265,2/22/20,5,US
+3266,2/23/20,5,US
+3267,2/24/20,0,US
+3268,2/25/20,0,US
+3269,2/26/20,0,US
+3270,2/27/20,0,US
+3271,2/28/20,0,US
+3272,2/29/20,0,US
+3273,3/1/20,0,US
+3274,3/2/20,0,US
+3275,3/3/20,0,US
+3276,1/22/20,0,Australia
+3277,1/23/20,0,Australia
+3278,1/24/20,0,Australia
+3279,1/25/20,0,Australia
+3280,1/26/20,0,Australia
+3281,1/27/20,0,Australia
+3282,1/28/20,0,Australia
+3283,1/29/20,0,Australia
+3284,1/30/20,0,Australia
+3285,1/31/20,0,Australia
+3286,2/1/20,0,Australia
+3287,2/2/20,0,Australia
+3288,2/3/20,0,Australia
+3289,2/4/20,0,Australia
+3290,2/5/20,0,Australia
+3291,2/6/20,0,Australia
+3292,2/7/20,0,Australia
+3293,2/8/20,0,Australia
+3294,2/9/20,0,Australia
+3295,2/10/20,0,Australia
+3296,2/11/20,0,Australia
+3297,2/12/20,0,Australia
+3298,2/13/20,0,Australia
+3299,2/14/20,0,Australia
+3300,2/15/20,0,Australia
+3301,2/16/20,0,Australia
+3302,2/17/20,0,Australia
+3303,2/18/20,0,Australia
+3304,2/19/20,0,Australia
+3305,2/20/20,0,Australia
+3306,2/21/20,4,Australia
+3307,2/22/20,7,Australia
+3308,2/23/20,7,Australia
+3309,2/24/20,7,Australia
+3310,2/25/20,7,Australia
+3311,2/26/20,7,Australia
+3312,2/27/20,8,Australia
+3313,2/28/20,8,Australia
+3314,2/29/20,0,Australia
+3315,3/1/20,0,Australia
+3316,3/2/20,0,Australia
+3317,3/3/20,0,Australia
+3318,1/22/20,0,US
+3319,1/23/20,0,US
+3320,1/24/20,0,US
+3321,1/25/20,0,US
+3322,1/26/20,0,US
+3323,1/27/20,0,US
+3324,1/28/20,0,US
+3325,1/29/20,0,US
+3326,1/30/20,0,US
+3327,1/31/20,0,US
+3328,2/1/20,0,US
+3329,2/2/20,0,US
+3330,2/3/20,0,US
+3331,2/4/20,0,US
+3332,2/5/20,0,US
+3333,2/6/20,0,US
+3334,2/7/20,0,US
+3335,2/8/20,0,US
+3336,2/9/20,0,US
+3337,2/10/20,0,US
+3338,2/11/20,0,US
+3339,2/12/20,0,US
+3340,2/13/20,0,US
+3341,2/14/20,0,US
+3342,2/15/20,0,US
+3343,2/16/20,0,US
+3344,2/17/20,0,US
+3345,2/18/20,0,US
+3346,2/19/20,0,US
+3347,2/20/20,0,US
+3348,2/21/20,2,US
+3349,2/22/20,2,US
+3350,2/23/20,2,US
+3351,2/24/20,0,US
+3352,2/25/20,0,US
+3353,2/26/20,0,US
+3354,2/27/20,0,US
+3355,2/28/20,0,US
+3356,2/29/20,0,US
+3357,3/1/20,0,US
+3358,3/2/20,0,US
+3359,3/3/20,0,US
+3360,1/22/20,0,Lebanon
+3361,1/23/20,0,Lebanon
+3362,1/24/20,0,Lebanon
+3363,1/25/20,0,Lebanon
+3364,1/26/20,0,Lebanon
+3365,1/27/20,0,Lebanon
+3366,1/28/20,0,Lebanon
+3367,1/29/20,0,Lebanon
+3368,1/30/20,0,Lebanon
+3369,1/31/20,0,Lebanon
+3370,2/1/20,0,Lebanon
+3371,2/2/20,0,Lebanon
+3372,2/3/20,0,Lebanon
+3373,2/4/20,0,Lebanon
+3374,2/5/20,0,Lebanon
+3375,2/6/20,0,Lebanon
+3376,2/7/20,0,Lebanon
+3377,2/8/20,0,Lebanon
+3378,2/9/20,0,Lebanon
+3379,2/10/20,0,Lebanon
+3380,2/11/20,0,Lebanon
+3381,2/12/20,0,Lebanon
+3382,2/13/20,0,Lebanon
+3383,2/14/20,0,Lebanon
+3384,2/15/20,0,Lebanon
+3385,2/16/20,0,Lebanon
+3386,2/17/20,0,Lebanon
+3387,2/18/20,0,Lebanon
+3388,2/19/20,0,Lebanon
+3389,2/20/20,0,Lebanon
+3390,2/21/20,1,Lebanon
+3391,2/22/20,1,Lebanon
+3392,2/23/20,1,Lebanon
+3393,2/24/20,1,Lebanon
+3394,2/25/20,1,Lebanon
+3395,2/26/20,2,Lebanon
+3396,2/27/20,2,Lebanon
+3397,2/28/20,2,Lebanon
+3398,2/29/20,4,Lebanon
+3399,3/1/20,10,Lebanon
+3400,3/2/20,13,Lebanon
+3401,3/3/20,13,Lebanon
+3402,1/22/20,0,US
+3403,1/23/20,0,US
+3404,1/24/20,0,US
+3405,1/25/20,0,US
+3406,1/26/20,0,US
+3407,1/27/20,0,US
+3408,1/28/20,0,US
+3409,1/29/20,0,US
+3410,1/30/20,0,US
+3411,1/31/20,0,US
+3412,2/1/20,0,US
+3413,2/2/20,0,US
+3414,2/3/20,0,US
+3415,2/4/20,0,US
+3416,2/5/20,0,US
+3417,2/6/20,0,US
+3418,2/7/20,0,US
+3419,2/8/20,0,US
+3420,2/9/20,0,US
+3421,2/10/20,0,US
+3422,2/11/20,0,US
+3423,2/12/20,0,US
+3424,2/13/20,0,US
+3425,2/14/20,0,US
+3426,2/15/20,0,US
+3427,2/16/20,0,US
+3428,2/17/20,0,US
+3429,2/18/20,0,US
+3430,2/19/20,0,US
+3431,2/20/20,0,US
+3432,2/21/20,1,US
+3433,2/22/20,1,US
+3434,2/23/20,1,US
+3435,2/24/20,1,US
+3436,2/25/20,1,US
+3437,2/26/20,1,US
+3438,2/27/20,1,US
+3439,2/28/20,1,US
+3440,2/29/20,1,US
+3441,3/1/20,1,US
+3442,3/2/20,1,US
+3443,3/3/20,1,US
+3444,1/22/20,0,US
+3445,1/23/20,0,US
+3446,1/24/20,0,US
+3447,1/25/20,0,US
+3448,1/26/20,0,US
+3449,1/27/20,0,US
+3450,1/28/20,0,US
+3451,1/29/20,0,US
+3452,1/30/20,0,US
+3453,1/31/20,0,US
+3454,2/1/20,0,US
+3455,2/2/20,0,US
+3456,2/3/20,0,US
+3457,2/4/20,0,US
+3458,2/5/20,0,US
+3459,2/6/20,0,US
+3460,2/7/20,0,US
+3461,2/8/20,0,US
+3462,2/9/20,0,US
+3463,2/10/20,0,US
+3464,2/11/20,0,US
+3465,2/12/20,0,US
+3466,2/13/20,0,US
+3467,2/14/20,0,US
+3468,2/15/20,0,US
+3469,2/16/20,0,US
+3470,2/17/20,0,US
+3471,2/18/20,0,US
+3472,2/19/20,0,US
+3473,2/20/20,0,US
+3474,2/21/20,1,US
+3475,2/22/20,1,US
+3476,2/23/20,1,US
+3477,2/24/20,1,US
+3478,2/25/20,1,US
+3479,2/26/20,1,US
+3480,2/27/20,2,US
+3481,2/28/20,2,US
+3482,2/29/20,2,US
+3483,3/1/20,2,US
+3484,3/2/20,2,US
+3485,3/3/20,2,US
+3486,1/22/20,0,Iraq
+3487,1/23/20,0,Iraq
+3488,1/24/20,0,Iraq
+3489,1/25/20,0,Iraq
+3490,1/26/20,0,Iraq
+3491,1/27/20,0,Iraq
+3492,1/28/20,0,Iraq
+3493,1/29/20,0,Iraq
+3494,1/30/20,0,Iraq
+3495,1/31/20,0,Iraq
+3496,2/1/20,0,Iraq
+3497,2/2/20,0,Iraq
+3498,2/3/20,0,Iraq
+3499,2/4/20,0,Iraq
+3500,2/5/20,0,Iraq
+3501,2/6/20,0,Iraq
+3502,2/7/20,0,Iraq
+3503,2/8/20,0,Iraq
+3504,2/9/20,0,Iraq
+3505,2/10/20,0,Iraq
+3506,2/11/20,0,Iraq
+3507,2/12/20,0,Iraq
+3508,2/13/20,0,Iraq
+3509,2/14/20,0,Iraq
+3510,2/15/20,0,Iraq
+3511,2/16/20,0,Iraq
+3512,2/17/20,0,Iraq
+3513,2/18/20,0,Iraq
+3514,2/19/20,0,Iraq
+3515,2/20/20,0,Iraq
+3516,2/21/20,0,Iraq
+3517,2/22/20,0,Iraq
+3518,2/23/20,0,Iraq
+3519,2/24/20,1,Iraq
+3520,2/25/20,1,Iraq
+3521,2/26/20,5,Iraq
+3522,2/27/20,7,Iraq
+3523,2/28/20,7,Iraq
+3524,2/29/20,13,Iraq
+3525,3/1/20,19,Iraq
+3526,3/2/20,26,Iraq
+3527,3/3/20,32,Iraq
+3528,1/22/20,0,US
+3529,1/23/20,0,US
+3530,1/24/20,0,US
+3531,1/25/20,0,US
+3532,1/26/20,0,US
+3533,1/27/20,0,US
+3534,1/28/20,0,US
+3535,1/29/20,0,US
+3536,1/30/20,0,US
+3537,1/31/20,0,US
+3538,2/1/20,0,US
+3539,2/2/20,0,US
+3540,2/3/20,0,US
+3541,2/4/20,0,US
+3542,2/5/20,0,US
+3543,2/6/20,0,US
+3544,2/7/20,0,US
+3545,2/8/20,0,US
+3546,2/9/20,0,US
+3547,2/10/20,0,US
+3548,2/11/20,0,US
+3549,2/12/20,0,US
+3550,2/13/20,0,US
+3551,2/14/20,0,US
+3552,2/15/20,0,US
+3553,2/16/20,0,US
+3554,2/17/20,0,US
+3555,2/18/20,0,US
+3556,2/19/20,0,US
+3557,2/20/20,0,US
+3558,2/21/20,0,US
+3559,2/22/20,0,US
+3560,2/23/20,0,US
+3561,2/24/20,36,US
+3562,2/25/20,36,US
+3563,2/26/20,42,US
+3564,2/27/20,42,US
+3565,2/28/20,44,US
+3566,2/29/20,44,US
+3567,3/1/20,44,US
+3568,3/2/20,45,US
+3569,3/3/20,45,US
+3570,1/22/20,0,Oman
+3571,1/23/20,0,Oman
+3572,1/24/20,0,Oman
+3573,1/25/20,0,Oman
+3574,1/26/20,0,Oman
+3575,1/27/20,0,Oman
+3576,1/28/20,0,Oman
+3577,1/29/20,0,Oman
+3578,1/30/20,0,Oman
+3579,1/31/20,0,Oman
+3580,2/1/20,0,Oman
+3581,2/2/20,0,Oman
+3582,2/3/20,0,Oman
+3583,2/4/20,0,Oman
+3584,2/5/20,0,Oman
+3585,2/6/20,0,Oman
+3586,2/7/20,0,Oman
+3587,2/8/20,0,Oman
+3588,2/9/20,0,Oman
+3589,2/10/20,0,Oman
+3590,2/11/20,0,Oman
+3591,2/12/20,0,Oman
+3592,2/13/20,0,Oman
+3593,2/14/20,0,Oman
+3594,2/15/20,0,Oman
+3595,2/16/20,0,Oman
+3596,2/17/20,0,Oman
+3597,2/18/20,0,Oman
+3598,2/19/20,0,Oman
+3599,2/20/20,0,Oman
+3600,2/21/20,0,Oman
+3601,2/22/20,0,Oman
+3602,2/23/20,0,Oman
+3603,2/24/20,2,Oman
+3604,2/25/20,2,Oman
+3605,2/26/20,4,Oman
+3606,2/27/20,4,Oman
+3607,2/28/20,4,Oman
+3608,2/29/20,6,Oman
+3609,3/1/20,6,Oman
+3610,3/2/20,6,Oman
+3611,3/3/20,12,Oman
+3612,1/22/20,0,Afghanistan
+3613,1/23/20,0,Afghanistan
+3614,1/24/20,0,Afghanistan
+3615,1/25/20,0,Afghanistan
+3616,1/26/20,0,Afghanistan
+3617,1/27/20,0,Afghanistan
+3618,1/28/20,0,Afghanistan
+3619,1/29/20,0,Afghanistan
+3620,1/30/20,0,Afghanistan
+3621,1/31/20,0,Afghanistan
+3622,2/1/20,0,Afghanistan
+3623,2/2/20,0,Afghanistan
+3624,2/3/20,0,Afghanistan
+3625,2/4/20,0,Afghanistan
+3626,2/5/20,0,Afghanistan
+3627,2/6/20,0,Afghanistan
+3628,2/7/20,0,Afghanistan
+3629,2/8/20,0,Afghanistan
+3630,2/9/20,0,Afghanistan
+3631,2/10/20,0,Afghanistan
+3632,2/11/20,0,Afghanistan
+3633,2/12/20,0,Afghanistan
+3634,2/13/20,0,Afghanistan
+3635,2/14/20,0,Afghanistan
+3636,2/15/20,0,Afghanistan
+3637,2/16/20,0,Afghanistan
+3638,2/17/20,0,Afghanistan
+3639,2/18/20,0,Afghanistan
+3640,2/19/20,0,Afghanistan
+3641,2/20/20,0,Afghanistan
+3642,2/21/20,0,Afghanistan
+3643,2/22/20,0,Afghanistan
+3644,2/23/20,0,Afghanistan
+3645,2/24/20,1,Afghanistan
+3646,2/25/20,1,Afghanistan
+3647,2/26/20,1,Afghanistan
+3648,2/27/20,1,Afghanistan
+3649,2/28/20,1,Afghanistan
+3650,2/29/20,1,Afghanistan
+3651,3/1/20,1,Afghanistan
+3652,3/2/20,1,Afghanistan
+3653,3/3/20,1,Afghanistan
+3654,1/22/20,0,Bahrain
+3655,1/23/20,0,Bahrain
+3656,1/24/20,0,Bahrain
+3657,1/25/20,0,Bahrain
+3658,1/26/20,0,Bahrain
+3659,1/27/20,0,Bahrain
+3660,1/28/20,0,Bahrain
+3661,1/29/20,0,Bahrain
+3662,1/30/20,0,Bahrain
+3663,1/31/20,0,Bahrain
+3664,2/1/20,0,Bahrain
+3665,2/2/20,0,Bahrain
+3666,2/3/20,0,Bahrain
+3667,2/4/20,0,Bahrain
+3668,2/5/20,0,Bahrain
+3669,2/6/20,0,Bahrain
+3670,2/7/20,0,Bahrain
+3671,2/8/20,0,Bahrain
+3672,2/9/20,0,Bahrain
+3673,2/10/20,0,Bahrain
+3674,2/11/20,0,Bahrain
+3675,2/12/20,0,Bahrain
+3676,2/13/20,0,Bahrain
+3677,2/14/20,0,Bahrain
+3678,2/15/20,0,Bahrain
+3679,2/16/20,0,Bahrain
+3680,2/17/20,0,Bahrain
+3681,2/18/20,0,Bahrain
+3682,2/19/20,0,Bahrain
+3683,2/20/20,0,Bahrain
+3684,2/21/20,0,Bahrain
+3685,2/22/20,0,Bahrain
+3686,2/23/20,0,Bahrain
+3687,2/24/20,1,Bahrain
+3688,2/25/20,23,Bahrain
+3689,2/26/20,33,Bahrain
+3690,2/27/20,33,Bahrain
+3691,2/28/20,36,Bahrain
+3692,2/29/20,41,Bahrain
+3693,3/1/20,47,Bahrain
+3694,3/2/20,49,Bahrain
+3695,3/3/20,49,Bahrain
+3696,1/22/20,0,Kuwait
+3697,1/23/20,0,Kuwait
+3698,1/24/20,0,Kuwait
+3699,1/25/20,0,Kuwait
+3700,1/26/20,0,Kuwait
+3701,1/27/20,0,Kuwait
+3702,1/28/20,0,Kuwait
+3703,1/29/20,0,Kuwait
+3704,1/30/20,0,Kuwait
+3705,1/31/20,0,Kuwait
+3706,2/1/20,0,Kuwait
+3707,2/2/20,0,Kuwait
+3708,2/3/20,0,Kuwait
+3709,2/4/20,0,Kuwait
+3710,2/5/20,0,Kuwait
+3711,2/6/20,0,Kuwait
+3712,2/7/20,0,Kuwait
+3713,2/8/20,0,Kuwait
+3714,2/9/20,0,Kuwait
+3715,2/10/20,0,Kuwait
+3716,2/11/20,0,Kuwait
+3717,2/12/20,0,Kuwait
+3718,2/13/20,0,Kuwait
+3719,2/14/20,0,Kuwait
+3720,2/15/20,0,Kuwait
+3721,2/16/20,0,Kuwait
+3722,2/17/20,0,Kuwait
+3723,2/18/20,0,Kuwait
+3724,2/19/20,0,Kuwait
+3725,2/20/20,0,Kuwait
+3726,2/21/20,0,Kuwait
+3727,2/22/20,0,Kuwait
+3728,2/23/20,0,Kuwait
+3729,2/24/20,1,Kuwait
+3730,2/25/20,11,Kuwait
+3731,2/26/20,26,Kuwait
+3732,2/27/20,43,Kuwait
+3733,2/28/20,45,Kuwait
+3734,2/29/20,45,Kuwait
+3735,3/1/20,45,Kuwait
+3736,3/2/20,56,Kuwait
+3737,3/3/20,56,Kuwait
+3738,1/22/20,0,Algeria
+3739,1/23/20,0,Algeria
+3740,1/24/20,0,Algeria
+3741,1/25/20,0,Algeria
+3742,1/26/20,0,Algeria
+3743,1/27/20,0,Algeria
+3744,1/28/20,0,Algeria
+3745,1/29/20,0,Algeria
+3746,1/30/20,0,Algeria
+3747,1/31/20,0,Algeria
+3748,2/1/20,0,Algeria
+3749,2/2/20,0,Algeria
+3750,2/3/20,0,Algeria
+3751,2/4/20,0,Algeria
+3752,2/5/20,0,Algeria
+3753,2/6/20,0,Algeria
+3754,2/7/20,0,Algeria
+3755,2/8/20,0,Algeria
+3756,2/9/20,0,Algeria
+3757,2/10/20,0,Algeria
+3758,2/11/20,0,Algeria
+3759,2/12/20,0,Algeria
+3760,2/13/20,0,Algeria
+3761,2/14/20,0,Algeria
+3762,2/15/20,0,Algeria
+3763,2/16/20,0,Algeria
+3764,2/17/20,0,Algeria
+3765,2/18/20,0,Algeria
+3766,2/19/20,0,Algeria
+3767,2/20/20,0,Algeria
+3768,2/21/20,0,Algeria
+3769,2/22/20,0,Algeria
+3770,2/23/20,0,Algeria
+3771,2/24/20,0,Algeria
+3772,2/25/20,1,Algeria
+3773,2/26/20,1,Algeria
+3774,2/27/20,1,Algeria
+3775,2/28/20,1,Algeria
+3776,2/29/20,1,Algeria
+3777,3/1/20,1,Algeria
+3778,3/2/20,3,Algeria
+3779,3/3/20,5,Algeria
+3780,1/22/20,0,Croatia
+3781,1/23/20,0,Croatia
+3782,1/24/20,0,Croatia
+3783,1/25/20,0,Croatia
+3784,1/26/20,0,Croatia
+3785,1/27/20,0,Croatia
+3786,1/28/20,0,Croatia
+3787,1/29/20,0,Croatia
+3788,1/30/20,0,Croatia
+3789,1/31/20,0,Croatia
+3790,2/1/20,0,Croatia
+3791,2/2/20,0,Croatia
+3792,2/3/20,0,Croatia
+3793,2/4/20,0,Croatia
+3794,2/5/20,0,Croatia
+3795,2/6/20,0,Croatia
+3796,2/7/20,0,Croatia
+3797,2/8/20,0,Croatia
+3798,2/9/20,0,Croatia
+3799,2/10/20,0,Croatia
+3800,2/11/20,0,Croatia
+3801,2/12/20,0,Croatia
+3802,2/13/20,0,Croatia
+3803,2/14/20,0,Croatia
+3804,2/15/20,0,Croatia
+3805,2/16/20,0,Croatia
+3806,2/17/20,0,Croatia
+3807,2/18/20,0,Croatia
+3808,2/19/20,0,Croatia
+3809,2/20/20,0,Croatia
+3810,2/21/20,0,Croatia
+3811,2/22/20,0,Croatia
+3812,2/23/20,0,Croatia
+3813,2/24/20,0,Croatia
+3814,2/25/20,1,Croatia
+3815,2/26/20,3,Croatia
+3816,2/27/20,3,Croatia
+3817,2/28/20,5,Croatia
+3818,2/29/20,6,Croatia
+3819,3/1/20,7,Croatia
+3820,3/2/20,7,Croatia
+3821,3/3/20,9,Croatia
+3822,1/22/20,0,Switzerland
+3823,1/23/20,0,Switzerland
+3824,1/24/20,0,Switzerland
+3825,1/25/20,0,Switzerland
+3826,1/26/20,0,Switzerland
+3827,1/27/20,0,Switzerland
+3828,1/28/20,0,Switzerland
+3829,1/29/20,0,Switzerland
+3830,1/30/20,0,Switzerland
+3831,1/31/20,0,Switzerland
+3832,2/1/20,0,Switzerland
+3833,2/2/20,0,Switzerland
+3834,2/3/20,0,Switzerland
+3835,2/4/20,0,Switzerland
+3836,2/5/20,0,Switzerland
+3837,2/6/20,0,Switzerland
+3838,2/7/20,0,Switzerland
+3839,2/8/20,0,Switzerland
+3840,2/9/20,0,Switzerland
+3841,2/10/20,0,Switzerland
+3842,2/11/20,0,Switzerland
+3843,2/12/20,0,Switzerland
+3844,2/13/20,0,Switzerland
+3845,2/14/20,0,Switzerland
+3846,2/15/20,0,Switzerland
+3847,2/16/20,0,Switzerland
+3848,2/17/20,0,Switzerland
+3849,2/18/20,0,Switzerland
+3850,2/19/20,0,Switzerland
+3851,2/20/20,0,Switzerland
+3852,2/21/20,0,Switzerland
+3853,2/22/20,0,Switzerland
+3854,2/23/20,0,Switzerland
+3855,2/24/20,0,Switzerland
+3856,2/25/20,1,Switzerland
+3857,2/26/20,1,Switzerland
+3858,2/27/20,8,Switzerland
+3859,2/28/20,8,Switzerland
+3860,2/29/20,18,Switzerland
+3861,3/1/20,27,Switzerland
+3862,3/2/20,42,Switzerland
+3863,3/3/20,56,Switzerland
+3864,1/22/20,0,Austria
+3865,1/23/20,0,Austria
+3866,1/24/20,0,Austria
+3867,1/25/20,0,Austria
+3868,1/26/20,0,Austria
+3869,1/27/20,0,Austria
+3870,1/28/20,0,Austria
+3871,1/29/20,0,Austria
+3872,1/30/20,0,Austria
+3873,1/31/20,0,Austria
+3874,2/1/20,0,Austria
+3875,2/2/20,0,Austria
+3876,2/3/20,0,Austria
+3877,2/4/20,0,Austria
+3878,2/5/20,0,Austria
+3879,2/6/20,0,Austria
+3880,2/7/20,0,Austria
+3881,2/8/20,0,Austria
+3882,2/9/20,0,Austria
+3883,2/10/20,0,Austria
+3884,2/11/20,0,Austria
+3885,2/12/20,0,Austria
+3886,2/13/20,0,Austria
+3887,2/14/20,0,Austria
+3888,2/15/20,0,Austria
+3889,2/16/20,0,Austria
+3890,2/17/20,0,Austria
+3891,2/18/20,0,Austria
+3892,2/19/20,0,Austria
+3893,2/20/20,0,Austria
+3894,2/21/20,0,Austria
+3895,2/22/20,0,Austria
+3896,2/23/20,0,Austria
+3897,2/24/20,0,Austria
+3898,2/25/20,2,Austria
+3899,2/26/20,2,Austria
+3900,2/27/20,3,Austria
+3901,2/28/20,3,Austria
+3902,2/29/20,9,Austria
+3903,3/1/20,14,Austria
+3904,3/2/20,18,Austria
+3905,3/3/20,21,Austria
+3906,1/22/20,0,Israel
+3907,1/23/20,0,Israel
+3908,1/24/20,0,Israel
+3909,1/25/20,0,Israel
+3910,1/26/20,0,Israel
+3911,1/27/20,0,Israel
+3912,1/28/20,0,Israel
+3913,1/29/20,0,Israel
+3914,1/30/20,0,Israel
+3915,1/31/20,0,Israel
+3916,2/1/20,0,Israel
+3917,2/2/20,0,Israel
+3918,2/3/20,0,Israel
+3919,2/4/20,0,Israel
+3920,2/5/20,0,Israel
+3921,2/6/20,0,Israel
+3922,2/7/20,0,Israel
+3923,2/8/20,0,Israel
+3924,2/9/20,0,Israel
+3925,2/10/20,0,Israel
+3926,2/11/20,0,Israel
+3927,2/12/20,0,Israel
+3928,2/13/20,0,Israel
+3929,2/14/20,0,Israel
+3930,2/15/20,0,Israel
+3931,2/16/20,0,Israel
+3932,2/17/20,0,Israel
+3933,2/18/20,0,Israel
+3934,2/19/20,0,Israel
+3935,2/20/20,0,Israel
+3936,2/21/20,1,Israel
+3937,2/22/20,1,Israel
+3938,2/23/20,1,Israel
+3939,2/24/20,1,Israel
+3940,2/25/20,1,Israel
+3941,2/26/20,2,Israel
+3942,2/27/20,3,Israel
+3943,2/28/20,4,Israel
+3944,2/29/20,7,Israel
+3945,3/1/20,10,Israel
+3946,3/2/20,10,Israel
+3947,3/3/20,12,Israel
+3948,1/22/20,0,Pakistan
+3949,1/23/20,0,Pakistan
+3950,1/24/20,0,Pakistan
+3951,1/25/20,0,Pakistan
+3952,1/26/20,0,Pakistan
+3953,1/27/20,0,Pakistan
+3954,1/28/20,0,Pakistan
+3955,1/29/20,0,Pakistan
+3956,1/30/20,0,Pakistan
+3957,1/31/20,0,Pakistan
+3958,2/1/20,0,Pakistan
+3959,2/2/20,0,Pakistan
+3960,2/3/20,0,Pakistan
+3961,2/4/20,0,Pakistan
+3962,2/5/20,0,Pakistan
+3963,2/6/20,0,Pakistan
+3964,2/7/20,0,Pakistan
+3965,2/8/20,0,Pakistan
+3966,2/9/20,0,Pakistan
+3967,2/10/20,0,Pakistan
+3968,2/11/20,0,Pakistan
+3969,2/12/20,0,Pakistan
+3970,2/13/20,0,Pakistan
+3971,2/14/20,0,Pakistan
+3972,2/15/20,0,Pakistan
+3973,2/16/20,0,Pakistan
+3974,2/17/20,0,Pakistan
+3975,2/18/20,0,Pakistan
+3976,2/19/20,0,Pakistan
+3977,2/20/20,0,Pakistan
+3978,2/21/20,0,Pakistan
+3979,2/22/20,0,Pakistan
+3980,2/23/20,0,Pakistan
+3981,2/24/20,0,Pakistan
+3982,2/25/20,0,Pakistan
+3983,2/26/20,2,Pakistan
+3984,2/27/20,2,Pakistan
+3985,2/28/20,2,Pakistan
+3986,2/29/20,4,Pakistan
+3987,3/1/20,4,Pakistan
+3988,3/2/20,4,Pakistan
+3989,3/3/20,5,Pakistan
+3990,1/22/20,0,Brazil
+3991,1/23/20,0,Brazil
+3992,1/24/20,0,Brazil
+3993,1/25/20,0,Brazil
+3994,1/26/20,0,Brazil
+3995,1/27/20,0,Brazil
+3996,1/28/20,0,Brazil
+3997,1/29/20,0,Brazil
+3998,1/30/20,0,Brazil
+3999,1/31/20,0,Brazil
+4000,2/1/20,0,Brazil
+4001,2/2/20,0,Brazil
+4002,2/3/20,0,Brazil
+4003,2/4/20,0,Brazil
+4004,2/5/20,0,Brazil
+4005,2/6/20,0,Brazil
+4006,2/7/20,0,Brazil
+4007,2/8/20,0,Brazil
+4008,2/9/20,0,Brazil
+4009,2/10/20,0,Brazil
+4010,2/11/20,0,Brazil
+4011,2/12/20,0,Brazil
+4012,2/13/20,0,Brazil
+4013,2/14/20,0,Brazil
+4014,2/15/20,0,Brazil
+4015,2/16/20,0,Brazil
+4016,2/17/20,0,Brazil
+4017,2/18/20,0,Brazil
+4018,2/19/20,0,Brazil
+4019,2/20/20,0,Brazil
+4020,2/21/20,0,Brazil
+4021,2/22/20,0,Brazil
+4022,2/23/20,0,Brazil
+4023,2/24/20,0,Brazil
+4024,2/25/20,0,Brazil
+4025,2/26/20,1,Brazil
+4026,2/27/20,1,Brazil
+4027,2/28/20,1,Brazil
+4028,2/29/20,2,Brazil
+4029,3/1/20,2,Brazil
+4030,3/2/20,2,Brazil
+4031,3/3/20,2,Brazil
+4032,1/22/20,0,Georgia
+4033,1/23/20,0,Georgia
+4034,1/24/20,0,Georgia
+4035,1/25/20,0,Georgia
+4036,1/26/20,0,Georgia
+4037,1/27/20,0,Georgia
+4038,1/28/20,0,Georgia
+4039,1/29/20,0,Georgia
+4040,1/30/20,0,Georgia
+4041,1/31/20,0,Georgia
+4042,2/1/20,0,Georgia
+4043,2/2/20,0,Georgia
+4044,2/3/20,0,Georgia
+4045,2/4/20,0,Georgia
+4046,2/5/20,0,Georgia
+4047,2/6/20,0,Georgia
+4048,2/7/20,0,Georgia
+4049,2/8/20,0,Georgia
+4050,2/9/20,0,Georgia
+4051,2/10/20,0,Georgia
+4052,2/11/20,0,Georgia
+4053,2/12/20,0,Georgia
+4054,2/13/20,0,Georgia
+4055,2/14/20,0,Georgia
+4056,2/15/20,0,Georgia
+4057,2/16/20,0,Georgia
+4058,2/17/20,0,Georgia
+4059,2/18/20,0,Georgia
+4060,2/19/20,0,Georgia
+4061,2/20/20,0,Georgia
+4062,2/21/20,0,Georgia
+4063,2/22/20,0,Georgia
+4064,2/23/20,0,Georgia
+4065,2/24/20,0,Georgia
+4066,2/25/20,0,Georgia
+4067,2/26/20,1,Georgia
+4068,2/27/20,1,Georgia
+4069,2/28/20,1,Georgia
+4070,2/29/20,1,Georgia
+4071,3/1/20,3,Georgia
+4072,3/2/20,3,Georgia
+4073,3/3/20,3,Georgia
+4074,1/22/20,0,Greece
+4075,1/23/20,0,Greece
+4076,1/24/20,0,Greece
+4077,1/25/20,0,Greece
+4078,1/26/20,0,Greece
+4079,1/27/20,0,Greece
+4080,1/28/20,0,Greece
+4081,1/29/20,0,Greece
+4082,1/30/20,0,Greece
+4083,1/31/20,0,Greece
+4084,2/1/20,0,Greece
+4085,2/2/20,0,Greece
+4086,2/3/20,0,Greece
+4087,2/4/20,0,Greece
+4088,2/5/20,0,Greece
+4089,2/6/20,0,Greece
+4090,2/7/20,0,Greece
+4091,2/8/20,0,Greece
+4092,2/9/20,0,Greece
+4093,2/10/20,0,Greece
+4094,2/11/20,0,Greece
+4095,2/12/20,0,Greece
+4096,2/13/20,0,Greece
+4097,2/14/20,0,Greece
+4098,2/15/20,0,Greece
+4099,2/16/20,0,Greece
+4100,2/17/20,0,Greece
+4101,2/18/20,0,Greece
+4102,2/19/20,0,Greece
+4103,2/20/20,0,Greece
+4104,2/21/20,0,Greece
+4105,2/22/20,0,Greece
+4106,2/23/20,0,Greece
+4107,2/24/20,0,Greece
+4108,2/25/20,0,Greece
+4109,2/26/20,1,Greece
+4110,2/27/20,3,Greece
+4111,2/28/20,4,Greece
+4112,2/29/20,4,Greece
+4113,3/1/20,7,Greece
+4114,3/2/20,7,Greece
+4115,3/3/20,7,Greece
+4116,1/22/20,0,North Macedonia
+4117,1/23/20,0,North Macedonia
+4118,1/24/20,0,North Macedonia
+4119,1/25/20,0,North Macedonia
+4120,1/26/20,0,North Macedonia
+4121,1/27/20,0,North Macedonia
+4122,1/28/20,0,North Macedonia
+4123,1/29/20,0,North Macedonia
+4124,1/30/20,0,North Macedonia
+4125,1/31/20,0,North Macedonia
+4126,2/1/20,0,North Macedonia
+4127,2/2/20,0,North Macedonia
+4128,2/3/20,0,North Macedonia
+4129,2/4/20,0,North Macedonia
+4130,2/5/20,0,North Macedonia
+4131,2/6/20,0,North Macedonia
+4132,2/7/20,0,North Macedonia
+4133,2/8/20,0,North Macedonia
+4134,2/9/20,0,North Macedonia
+4135,2/10/20,0,North Macedonia
+4136,2/11/20,0,North Macedonia
+4137,2/12/20,0,North Macedonia
+4138,2/13/20,0,North Macedonia
+4139,2/14/20,0,North Macedonia
+4140,2/15/20,0,North Macedonia
+4141,2/16/20,0,North Macedonia
+4142,2/17/20,0,North Macedonia
+4143,2/18/20,0,North Macedonia
+4144,2/19/20,0,North Macedonia
+4145,2/20/20,0,North Macedonia
+4146,2/21/20,0,North Macedonia
+4147,2/22/20,0,North Macedonia
+4148,2/23/20,0,North Macedonia
+4149,2/24/20,0,North Macedonia
+4150,2/25/20,0,North Macedonia
+4151,2/26/20,1,North Macedonia
+4152,2/27/20,1,North Macedonia
+4153,2/28/20,1,North Macedonia
+4154,2/29/20,1,North Macedonia
+4155,3/1/20,1,North Macedonia
+4156,3/2/20,1,North Macedonia
+4157,3/3/20,1,North Macedonia
+4158,1/22/20,0,Norway
+4159,1/23/20,0,Norway
+4160,1/24/20,0,Norway
+4161,1/25/20,0,Norway
+4162,1/26/20,0,Norway
+4163,1/27/20,0,Norway
+4164,1/28/20,0,Norway
+4165,1/29/20,0,Norway
+4166,1/30/20,0,Norway
+4167,1/31/20,0,Norway
+4168,2/1/20,0,Norway
+4169,2/2/20,0,Norway
+4170,2/3/20,0,Norway
+4171,2/4/20,0,Norway
+4172,2/5/20,0,Norway
+4173,2/6/20,0,Norway
+4174,2/7/20,0,Norway
+4175,2/8/20,0,Norway
+4176,2/9/20,0,Norway
+4177,2/10/20,0,Norway
+4178,2/11/20,0,Norway
+4179,2/12/20,0,Norway
+4180,2/13/20,0,Norway
+4181,2/14/20,0,Norway
+4182,2/15/20,0,Norway
+4183,2/16/20,0,Norway
+4184,2/17/20,0,Norway
+4185,2/18/20,0,Norway
+4186,2/19/20,0,Norway
+4187,2/20/20,0,Norway
+4188,2/21/20,0,Norway
+4189,2/22/20,0,Norway
+4190,2/23/20,0,Norway
+4191,2/24/20,0,Norway
+4192,2/25/20,0,Norway
+4193,2/26/20,1,Norway
+4194,2/27/20,1,Norway
+4195,2/28/20,6,Norway
+4196,2/29/20,15,Norway
+4197,3/1/20,19,Norway
+4198,3/2/20,25,Norway
+4199,3/3/20,32,Norway
+4200,1/22/20,0,Romania
+4201,1/23/20,0,Romania
+4202,1/24/20,0,Romania
+4203,1/25/20,0,Romania
+4204,1/26/20,0,Romania
+4205,1/27/20,0,Romania
+4206,1/28/20,0,Romania
+4207,1/29/20,0,Romania
+4208,1/30/20,0,Romania
+4209,1/31/20,0,Romania
+4210,2/1/20,0,Romania
+4211,2/2/20,0,Romania
+4212,2/3/20,0,Romania
+4213,2/4/20,0,Romania
+4214,2/5/20,0,Romania
+4215,2/6/20,0,Romania
+4216,2/7/20,0,Romania
+4217,2/8/20,0,Romania
+4218,2/9/20,0,Romania
+4219,2/10/20,0,Romania
+4220,2/11/20,0,Romania
+4221,2/12/20,0,Romania
+4222,2/13/20,0,Romania
+4223,2/14/20,0,Romania
+4224,2/15/20,0,Romania
+4225,2/16/20,0,Romania
+4226,2/17/20,0,Romania
+4227,2/18/20,0,Romania
+4228,2/19/20,0,Romania
+4229,2/20/20,0,Romania
+4230,2/21/20,0,Romania
+4231,2/22/20,0,Romania
+4232,2/23/20,0,Romania
+4233,2/24/20,0,Romania
+4234,2/25/20,0,Romania
+4235,2/26/20,1,Romania
+4236,2/27/20,1,Romania
+4237,2/28/20,3,Romania
+4238,2/29/20,3,Romania
+4239,3/1/20,3,Romania
+4240,3/2/20,3,Romania
+4241,3/3/20,3,Romania
+4242,1/22/20,0,Denmark
+4243,1/23/20,0,Denmark
+4244,1/24/20,0,Denmark
+4245,1/25/20,0,Denmark
+4246,1/26/20,0,Denmark
+4247,1/27/20,0,Denmark
+4248,1/28/20,0,Denmark
+4249,1/29/20,0,Denmark
+4250,1/30/20,0,Denmark
+4251,1/31/20,0,Denmark
+4252,2/1/20,0,Denmark
+4253,2/2/20,0,Denmark
+4254,2/3/20,0,Denmark
+4255,2/4/20,0,Denmark
+4256,2/5/20,0,Denmark
+4257,2/6/20,0,Denmark
+4258,2/7/20,0,Denmark
+4259,2/8/20,0,Denmark
+4260,2/9/20,0,Denmark
+4261,2/10/20,0,Denmark
+4262,2/11/20,0,Denmark
+4263,2/12/20,0,Denmark
+4264,2/13/20,0,Denmark
+4265,2/14/20,0,Denmark
+4266,2/15/20,0,Denmark
+4267,2/16/20,0,Denmark
+4268,2/17/20,0,Denmark
+4269,2/18/20,0,Denmark
+4270,2/19/20,0,Denmark
+4271,2/20/20,0,Denmark
+4272,2/21/20,0,Denmark
+4273,2/22/20,0,Denmark
+4274,2/23/20,0,Denmark
+4275,2/24/20,0,Denmark
+4276,2/25/20,0,Denmark
+4277,2/26/20,0,Denmark
+4278,2/27/20,1,Denmark
+4279,2/28/20,1,Denmark
+4280,2/29/20,3,Denmark
+4281,3/1/20,4,Denmark
+4282,3/2/20,4,Denmark
+4283,3/3/20,6,Denmark
+4284,1/22/20,0,Estonia
+4285,1/23/20,0,Estonia
+4286,1/24/20,0,Estonia
+4287,1/25/20,0,Estonia
+4288,1/26/20,0,Estonia
+4289,1/27/20,0,Estonia
+4290,1/28/20,0,Estonia
+4291,1/29/20,0,Estonia
+4292,1/30/20,0,Estonia
+4293,1/31/20,0,Estonia
+4294,2/1/20,0,Estonia
+4295,2/2/20,0,Estonia
+4296,2/3/20,0,Estonia
+4297,2/4/20,0,Estonia
+4298,2/5/20,0,Estonia
+4299,2/6/20,0,Estonia
+4300,2/7/20,0,Estonia
+4301,2/8/20,0,Estonia
+4302,2/9/20,0,Estonia
+4303,2/10/20,0,Estonia
+4304,2/11/20,0,Estonia
+4305,2/12/20,0,Estonia
+4306,2/13/20,0,Estonia
+4307,2/14/20,0,Estonia
+4308,2/15/20,0,Estonia
+4309,2/16/20,0,Estonia
+4310,2/17/20,0,Estonia
+4311,2/18/20,0,Estonia
+4312,2/19/20,0,Estonia
+4313,2/20/20,0,Estonia
+4314,2/21/20,0,Estonia
+4315,2/22/20,0,Estonia
+4316,2/23/20,0,Estonia
+4317,2/24/20,0,Estonia
+4318,2/25/20,0,Estonia
+4319,2/26/20,0,Estonia
+4320,2/27/20,1,Estonia
+4321,2/28/20,1,Estonia
+4322,2/29/20,1,Estonia
+4323,3/1/20,1,Estonia
+4324,3/2/20,1,Estonia
+4325,3/3/20,2,Estonia
+4326,1/22/20,0,Netherlands
+4327,1/23/20,0,Netherlands
+4328,1/24/20,0,Netherlands
+4329,1/25/20,0,Netherlands
+4330,1/26/20,0,Netherlands
+4331,1/27/20,0,Netherlands
+4332,1/28/20,0,Netherlands
+4333,1/29/20,0,Netherlands
+4334,1/30/20,0,Netherlands
+4335,1/31/20,0,Netherlands
+4336,2/1/20,0,Netherlands
+4337,2/2/20,0,Netherlands
+4338,2/3/20,0,Netherlands
+4339,2/4/20,0,Netherlands
+4340,2/5/20,0,Netherlands
+4341,2/6/20,0,Netherlands
+4342,2/7/20,0,Netherlands
+4343,2/8/20,0,Netherlands
+4344,2/9/20,0,Netherlands
+4345,2/10/20,0,Netherlands
+4346,2/11/20,0,Netherlands
+4347,2/12/20,0,Netherlands
+4348,2/13/20,0,Netherlands
+4349,2/14/20,0,Netherlands
+4350,2/15/20,0,Netherlands
+4351,2/16/20,0,Netherlands
+4352,2/17/20,0,Netherlands
+4353,2/18/20,0,Netherlands
+4354,2/19/20,0,Netherlands
+4355,2/20/20,0,Netherlands
+4356,2/21/20,0,Netherlands
+4357,2/22/20,0,Netherlands
+4358,2/23/20,0,Netherlands
+4359,2/24/20,0,Netherlands
+4360,2/25/20,0,Netherlands
+4361,2/26/20,0,Netherlands
+4362,2/27/20,1,Netherlands
+4363,2/28/20,1,Netherlands
+4364,2/29/20,6,Netherlands
+4365,3/1/20,10,Netherlands
+4366,3/2/20,18,Netherlands
+4367,3/3/20,24,Netherlands
+4368,1/22/20,0,San Marino
+4369,1/23/20,0,San Marino
+4370,1/24/20,0,San Marino
+4371,1/25/20,0,San Marino
+4372,1/26/20,0,San Marino
+4373,1/27/20,0,San Marino
+4374,1/28/20,0,San Marino
+4375,1/29/20,0,San Marino
+4376,1/30/20,0,San Marino
+4377,1/31/20,0,San Marino
+4378,2/1/20,0,San Marino
+4379,2/2/20,0,San Marino
+4380,2/3/20,0,San Marino
+4381,2/4/20,0,San Marino
+4382,2/5/20,0,San Marino
+4383,2/6/20,0,San Marino
+4384,2/7/20,0,San Marino
+4385,2/8/20,0,San Marino
+4386,2/9/20,0,San Marino
+4387,2/10/20,0,San Marino
+4388,2/11/20,0,San Marino
+4389,2/12/20,0,San Marino
+4390,2/13/20,0,San Marino
+4391,2/14/20,0,San Marino
+4392,2/15/20,0,San Marino
+4393,2/16/20,0,San Marino
+4394,2/17/20,0,San Marino
+4395,2/18/20,0,San Marino
+4396,2/19/20,0,San Marino
+4397,2/20/20,0,San Marino
+4398,2/21/20,0,San Marino
+4399,2/22/20,0,San Marino
+4400,2/23/20,0,San Marino
+4401,2/24/20,0,San Marino
+4402,2/25/20,0,San Marino
+4403,2/26/20,0,San Marino
+4404,2/27/20,1,San Marino
+4405,2/28/20,1,San Marino
+4406,2/29/20,1,San Marino
+4407,3/1/20,1,San Marino
+4408,3/2/20,8,San Marino
+4409,3/3/20,10,San Marino
+4410,1/22/20,0,Belarus
+4411,1/23/20,0,Belarus
+4412,1/24/20,0,Belarus
+4413,1/25/20,0,Belarus
+4414,1/26/20,0,Belarus
+4415,1/27/20,0,Belarus
+4416,1/28/20,0,Belarus
+4417,1/29/20,0,Belarus
+4418,1/30/20,0,Belarus
+4419,1/31/20,0,Belarus
+4420,2/1/20,0,Belarus
+4421,2/2/20,0,Belarus
+4422,2/3/20,0,Belarus
+4423,2/4/20,0,Belarus
+4424,2/5/20,0,Belarus
+4425,2/6/20,0,Belarus
+4426,2/7/20,0,Belarus
+4427,2/8/20,0,Belarus
+4428,2/9/20,0,Belarus
+4429,2/10/20,0,Belarus
+4430,2/11/20,0,Belarus
+4431,2/12/20,0,Belarus
+4432,2/13/20,0,Belarus
+4433,2/14/20,0,Belarus
+4434,2/15/20,0,Belarus
+4435,2/16/20,0,Belarus
+4436,2/17/20,0,Belarus
+4437,2/18/20,0,Belarus
+4438,2/19/20,0,Belarus
+4439,2/20/20,0,Belarus
+4440,2/21/20,0,Belarus
+4441,2/22/20,0,Belarus
+4442,2/23/20,0,Belarus
+4443,2/24/20,0,Belarus
+4444,2/25/20,0,Belarus
+4445,2/26/20,0,Belarus
+4446,2/27/20,0,Belarus
+4447,2/28/20,1,Belarus
+4448,2/29/20,1,Belarus
+4449,3/1/20,1,Belarus
+4450,3/2/20,1,Belarus
+4451,3/3/20,1,Belarus
+4452,1/22/20,0,Canada
+4453,1/23/20,0,Canada
+4454,1/24/20,0,Canada
+4455,1/25/20,0,Canada
+4456,1/26/20,0,Canada
+4457,1/27/20,0,Canada
+4458,1/28/20,0,Canada
+4459,1/29/20,0,Canada
+4460,1/30/20,0,Canada
+4461,1/31/20,0,Canada
+4462,2/1/20,0,Canada
+4463,2/2/20,0,Canada
+4464,2/3/20,0,Canada
+4465,2/4/20,0,Canada
+4466,2/5/20,0,Canada
+4467,2/6/20,0,Canada
+4468,2/7/20,0,Canada
+4469,2/8/20,0,Canada
+4470,2/9/20,0,Canada
+4471,2/10/20,0,Canada
+4472,2/11/20,0,Canada
+4473,2/12/20,0,Canada
+4474,2/13/20,0,Canada
+4475,2/14/20,0,Canada
+4476,2/15/20,0,Canada
+4477,2/16/20,0,Canada
+4478,2/17/20,0,Canada
+4479,2/18/20,0,Canada
+4480,2/19/20,0,Canada
+4481,2/20/20,0,Canada
+4482,2/21/20,0,Canada
+4483,2/22/20,0,Canada
+4484,2/23/20,0,Canada
+4485,2/24/20,0,Canada
+4486,2/25/20,0,Canada
+4487,2/26/20,0,Canada
+4488,2/27/20,0,Canada
+4489,2/28/20,1,Canada
+4490,2/29/20,1,Canada
+4491,3/1/20,1,Canada
+4492,3/2/20,1,Canada
+4493,3/3/20,1,Canada
+4494,1/22/20,0,Iceland
+4495,1/23/20,0,Iceland
+4496,1/24/20,0,Iceland
+4497,1/25/20,0,Iceland
+4498,1/26/20,0,Iceland
+4499,1/27/20,0,Iceland
+4500,1/28/20,0,Iceland
+4501,1/29/20,0,Iceland
+4502,1/30/20,0,Iceland
+4503,1/31/20,0,Iceland
+4504,2/1/20,0,Iceland
+4505,2/2/20,0,Iceland
+4506,2/3/20,0,Iceland
+4507,2/4/20,0,Iceland
+4508,2/5/20,0,Iceland
+4509,2/6/20,0,Iceland
+4510,2/7/20,0,Iceland
+4511,2/8/20,0,Iceland
+4512,2/9/20,0,Iceland
+4513,2/10/20,0,Iceland
+4514,2/11/20,0,Iceland
+4515,2/12/20,0,Iceland
+4516,2/13/20,0,Iceland
+4517,2/14/20,0,Iceland
+4518,2/15/20,0,Iceland
+4519,2/16/20,0,Iceland
+4520,2/17/20,0,Iceland
+4521,2/18/20,0,Iceland
+4522,2/19/20,0,Iceland
+4523,2/20/20,0,Iceland
+4524,2/21/20,0,Iceland
+4525,2/22/20,0,Iceland
+4526,2/23/20,0,Iceland
+4527,2/24/20,0,Iceland
+4528,2/25/20,0,Iceland
+4529,2/26/20,0,Iceland
+4530,2/27/20,0,Iceland
+4531,2/28/20,1,Iceland
+4532,2/29/20,1,Iceland
+4533,3/1/20,3,Iceland
+4534,3/2/20,6,Iceland
+4535,3/3/20,11,Iceland
+4536,1/22/20,0,Lithuania
+4537,1/23/20,0,Lithuania
+4538,1/24/20,0,Lithuania
+4539,1/25/20,0,Lithuania
+4540,1/26/20,0,Lithuania
+4541,1/27/20,0,Lithuania
+4542,1/28/20,0,Lithuania
+4543,1/29/20,0,Lithuania
+4544,1/30/20,0,Lithuania
+4545,1/31/20,0,Lithuania
+4546,2/1/20,0,Lithuania
+4547,2/2/20,0,Lithuania
+4548,2/3/20,0,Lithuania
+4549,2/4/20,0,Lithuania
+4550,2/5/20,0,Lithuania
+4551,2/6/20,0,Lithuania
+4552,2/7/20,0,Lithuania
+4553,2/8/20,0,Lithuania
+4554,2/9/20,0,Lithuania
+4555,2/10/20,0,Lithuania
+4556,2/11/20,0,Lithuania
+4557,2/12/20,0,Lithuania
+4558,2/13/20,0,Lithuania
+4559,2/14/20,0,Lithuania
+4560,2/15/20,0,Lithuania
+4561,2/16/20,0,Lithuania
+4562,2/17/20,0,Lithuania
+4563,2/18/20,0,Lithuania
+4564,2/19/20,0,Lithuania
+4565,2/20/20,0,Lithuania
+4566,2/21/20,0,Lithuania
+4567,2/22/20,0,Lithuania
+4568,2/23/20,0,Lithuania
+4569,2/24/20,0,Lithuania
+4570,2/25/20,0,Lithuania
+4571,2/26/20,0,Lithuania
+4572,2/27/20,0,Lithuania
+4573,2/28/20,1,Lithuania
+4574,2/29/20,1,Lithuania
+4575,3/1/20,1,Lithuania
+4576,3/2/20,1,Lithuania
+4577,3/3/20,1,Lithuania
+4578,1/22/20,0,Mexico
+4579,1/23/20,0,Mexico
+4580,1/24/20,0,Mexico
+4581,1/25/20,0,Mexico
+4582,1/26/20,0,Mexico
+4583,1/27/20,0,Mexico
+4584,1/28/20,0,Mexico
+4585,1/29/20,0,Mexico
+4586,1/30/20,0,Mexico
+4587,1/31/20,0,Mexico
+4588,2/1/20,0,Mexico
+4589,2/2/20,0,Mexico
+4590,2/3/20,0,Mexico
+4591,2/4/20,0,Mexico
+4592,2/5/20,0,Mexico
+4593,2/6/20,0,Mexico
+4594,2/7/20,0,Mexico
+4595,2/8/20,0,Mexico
+4596,2/9/20,0,Mexico
+4597,2/10/20,0,Mexico
+4598,2/11/20,0,Mexico
+4599,2/12/20,0,Mexico
+4600,2/13/20,0,Mexico
+4601,2/14/20,0,Mexico
+4602,2/15/20,0,Mexico
+4603,2/16/20,0,Mexico
+4604,2/17/20,0,Mexico
+4605,2/18/20,0,Mexico
+4606,2/19/20,0,Mexico
+4607,2/20/20,0,Mexico
+4608,2/21/20,0,Mexico
+4609,2/22/20,0,Mexico
+4610,2/23/20,0,Mexico
+4611,2/24/20,0,Mexico
+4612,2/25/20,0,Mexico
+4613,2/26/20,0,Mexico
+4614,2/27/20,0,Mexico
+4615,2/28/20,1,Mexico
+4616,2/29/20,4,Mexico
+4617,3/1/20,5,Mexico
+4618,3/2/20,5,Mexico
+4619,3/3/20,5,Mexico
+4620,1/22/20,0,New Zealand
+4621,1/23/20,0,New Zealand
+4622,1/24/20,0,New Zealand
+4623,1/25/20,0,New Zealand
+4624,1/26/20,0,New Zealand
+4625,1/27/20,0,New Zealand
+4626,1/28/20,0,New Zealand
+4627,1/29/20,0,New Zealand
+4628,1/30/20,0,New Zealand
+4629,1/31/20,0,New Zealand
+4630,2/1/20,0,New Zealand
+4631,2/2/20,0,New Zealand
+4632,2/3/20,0,New Zealand
+4633,2/4/20,0,New Zealand
+4634,2/5/20,0,New Zealand
+4635,2/6/20,0,New Zealand
+4636,2/7/20,0,New Zealand
+4637,2/8/20,0,New Zealand
+4638,2/9/20,0,New Zealand
+4639,2/10/20,0,New Zealand
+4640,2/11/20,0,New Zealand
+4641,2/12/20,0,New Zealand
+4642,2/13/20,0,New Zealand
+4643,2/14/20,0,New Zealand
+4644,2/15/20,0,New Zealand
+4645,2/16/20,0,New Zealand
+4646,2/17/20,0,New Zealand
+4647,2/18/20,0,New Zealand
+4648,2/19/20,0,New Zealand
+4649,2/20/20,0,New Zealand
+4650,2/21/20,0,New Zealand
+4651,2/22/20,0,New Zealand
+4652,2/23/20,0,New Zealand
+4653,2/24/20,0,New Zealand
+4654,2/25/20,0,New Zealand
+4655,2/26/20,0,New Zealand
+4656,2/27/20,0,New Zealand
+4657,2/28/20,1,New Zealand
+4658,2/29/20,1,New Zealand
+4659,3/1/20,1,New Zealand
+4660,3/2/20,1,New Zealand
+4661,3/3/20,1,New Zealand
+4662,1/22/20,0,Nigeria
+4663,1/23/20,0,Nigeria
+4664,1/24/20,0,Nigeria
+4665,1/25/20,0,Nigeria
+4666,1/26/20,0,Nigeria
+4667,1/27/20,0,Nigeria
+4668,1/28/20,0,Nigeria
+4669,1/29/20,0,Nigeria
+4670,1/30/20,0,Nigeria
+4671,1/31/20,0,Nigeria
+4672,2/1/20,0,Nigeria
+4673,2/2/20,0,Nigeria
+4674,2/3/20,0,Nigeria
+4675,2/4/20,0,Nigeria
+4676,2/5/20,0,Nigeria
+4677,2/6/20,0,Nigeria
+4678,2/7/20,0,Nigeria
+4679,2/8/20,0,Nigeria
+4680,2/9/20,0,Nigeria
+4681,2/10/20,0,Nigeria
+4682,2/11/20,0,Nigeria
+4683,2/12/20,0,Nigeria
+4684,2/13/20,0,Nigeria
+4685,2/14/20,0,Nigeria
+4686,2/15/20,0,Nigeria
+4687,2/16/20,0,Nigeria
+4688,2/17/20,0,Nigeria
+4689,2/18/20,0,Nigeria
+4690,2/19/20,0,Nigeria
+4691,2/20/20,0,Nigeria
+4692,2/21/20,0,Nigeria
+4693,2/22/20,0,Nigeria
+4694,2/23/20,0,Nigeria
+4695,2/24/20,0,Nigeria
+4696,2/25/20,0,Nigeria
+4697,2/26/20,0,Nigeria
+4698,2/27/20,0,Nigeria
+4699,2/28/20,1,Nigeria
+4700,2/29/20,1,Nigeria
+4701,3/1/20,1,Nigeria
+4702,3/2/20,1,Nigeria
+4703,3/3/20,1,Nigeria
+4704,1/22/20,0,Australia
+4705,1/23/20,0,Australia
+4706,1/24/20,0,Australia
+4707,1/25/20,0,Australia
+4708,1/26/20,0,Australia
+4709,1/27/20,0,Australia
+4710,1/28/20,0,Australia
+4711,1/29/20,0,Australia
+4712,1/30/20,0,Australia
+4713,1/31/20,0,Australia
+4714,2/1/20,0,Australia
+4715,2/2/20,0,Australia
+4716,2/3/20,0,Australia
+4717,2/4/20,0,Australia
+4718,2/5/20,0,Australia
+4719,2/6/20,0,Australia
+4720,2/7/20,0,Australia
+4721,2/8/20,0,Australia
+4722,2/9/20,0,Australia
+4723,2/10/20,0,Australia
+4724,2/11/20,0,Australia
+4725,2/12/20,0,Australia
+4726,2/13/20,0,Australia
+4727,2/14/20,0,Australia
+4728,2/15/20,0,Australia
+4729,2/16/20,0,Australia
+4730,2/17/20,0,Australia
+4731,2/18/20,0,Australia
+4732,2/19/20,0,Australia
+4733,2/20/20,0,Australia
+4734,2/21/20,0,Australia
+4735,2/22/20,0,Australia
+4736,2/23/20,0,Australia
+4737,2/24/20,0,Australia
+4738,2/25/20,0,Australia
+4739,2/26/20,0,Australia
+4740,2/27/20,0,Australia
+4741,2/28/20,0,Australia
+4742,2/29/20,2,Australia
+4743,3/1/20,2,Australia
+4744,3/2/20,2,Australia
+4745,3/3/20,2,Australia
+4746,1/22/20,0,Ireland
+4747,1/23/20,0,Ireland
+4748,1/24/20,0,Ireland
+4749,1/25/20,0,Ireland
+4750,1/26/20,0,Ireland
+4751,1/27/20,0,Ireland
+4752,1/28/20,0,Ireland
+4753,1/29/20,0,Ireland
+4754,1/30/20,0,Ireland
+4755,1/31/20,0,Ireland
+4756,2/1/20,0,Ireland
+4757,2/2/20,0,Ireland
+4758,2/3/20,0,Ireland
+4759,2/4/20,0,Ireland
+4760,2/5/20,0,Ireland
+4761,2/6/20,0,Ireland
+4762,2/7/20,0,Ireland
+4763,2/8/20,0,Ireland
+4764,2/9/20,0,Ireland
+4765,2/10/20,0,Ireland
+4766,2/11/20,0,Ireland
+4767,2/12/20,0,Ireland
+4768,2/13/20,0,Ireland
+4769,2/14/20,0,Ireland
+4770,2/15/20,0,Ireland
+4771,2/16/20,0,Ireland
+4772,2/17/20,0,Ireland
+4773,2/18/20,0,Ireland
+4774,2/19/20,0,Ireland
+4775,2/20/20,0,Ireland
+4776,2/21/20,0,Ireland
+4777,2/22/20,0,Ireland
+4778,2/23/20,0,Ireland
+4779,2/24/20,0,Ireland
+4780,2/25/20,0,Ireland
+4781,2/26/20,0,Ireland
+4782,2/27/20,0,Ireland
+4783,2/28/20,0,Ireland
+4784,2/29/20,1,Ireland
+4785,3/1/20,1,Ireland
+4786,3/2/20,1,Ireland
+4787,3/3/20,2,Ireland
+4788,1/22/20,0,Luxembourg
+4789,1/23/20,0,Luxembourg
+4790,1/24/20,0,Luxembourg
+4791,1/25/20,0,Luxembourg
+4792,1/26/20,0,Luxembourg
+4793,1/27/20,0,Luxembourg
+4794,1/28/20,0,Luxembourg
+4795,1/29/20,0,Luxembourg
+4796,1/30/20,0,Luxembourg
+4797,1/31/20,0,Luxembourg
+4798,2/1/20,0,Luxembourg
+4799,2/2/20,0,Luxembourg
+4800,2/3/20,0,Luxembourg
+4801,2/4/20,0,Luxembourg
+4802,2/5/20,0,Luxembourg
+4803,2/6/20,0,Luxembourg
+4804,2/7/20,0,Luxembourg
+4805,2/8/20,0,Luxembourg
+4806,2/9/20,0,Luxembourg
+4807,2/10/20,0,Luxembourg
+4808,2/11/20,0,Luxembourg
+4809,2/12/20,0,Luxembourg
+4810,2/13/20,0,Luxembourg
+4811,2/14/20,0,Luxembourg
+4812,2/15/20,0,Luxembourg
+4813,2/16/20,0,Luxembourg
+4814,2/17/20,0,Luxembourg
+4815,2/18/20,0,Luxembourg
+4816,2/19/20,0,Luxembourg
+4817,2/20/20,0,Luxembourg
+4818,2/21/20,0,Luxembourg
+4819,2/22/20,0,Luxembourg
+4820,2/23/20,0,Luxembourg
+4821,2/24/20,0,Luxembourg
+4822,2/25/20,0,Luxembourg
+4823,2/26/20,0,Luxembourg
+4824,2/27/20,0,Luxembourg
+4825,2/28/20,0,Luxembourg
+4826,2/29/20,1,Luxembourg
+4827,3/1/20,1,Luxembourg
+4828,3/2/20,1,Luxembourg
+4829,3/3/20,1,Luxembourg
+4830,1/22/20,0,Monaco
+4831,1/23/20,0,Monaco
+4832,1/24/20,0,Monaco
+4833,1/25/20,0,Monaco
+4834,1/26/20,0,Monaco
+4835,1/27/20,0,Monaco
+4836,1/28/20,0,Monaco
+4837,1/29/20,0,Monaco
+4838,1/30/20,0,Monaco
+4839,1/31/20,0,Monaco
+4840,2/1/20,0,Monaco
+4841,2/2/20,0,Monaco
+4842,2/3/20,0,Monaco
+4843,2/4/20,0,Monaco
+4844,2/5/20,0,Monaco
+4845,2/6/20,0,Monaco
+4846,2/7/20,0,Monaco
+4847,2/8/20,0,Monaco
+4848,2/9/20,0,Monaco
+4849,2/10/20,0,Monaco
+4850,2/11/20,0,Monaco
+4851,2/12/20,0,Monaco
+4852,2/13/20,0,Monaco
+4853,2/14/20,0,Monaco
+4854,2/15/20,0,Monaco
+4855,2/16/20,0,Monaco
+4856,2/17/20,0,Monaco
+4857,2/18/20,0,Monaco
+4858,2/19/20,0,Monaco
+4859,2/20/20,0,Monaco
+4860,2/21/20,0,Monaco
+4861,2/22/20,0,Monaco
+4862,2/23/20,0,Monaco
+4863,2/24/20,0,Monaco
+4864,2/25/20,0,Monaco
+4865,2/26/20,0,Monaco
+4866,2/27/20,0,Monaco
+4867,2/28/20,0,Monaco
+4868,2/29/20,1,Monaco
+4869,3/1/20,1,Monaco
+4870,3/2/20,1,Monaco
+4871,3/3/20,1,Monaco
+4872,1/22/20,0,Qatar
+4873,1/23/20,0,Qatar
+4874,1/24/20,0,Qatar
+4875,1/25/20,0,Qatar
+4876,1/26/20,0,Qatar
+4877,1/27/20,0,Qatar
+4878,1/28/20,0,Qatar
+4879,1/29/20,0,Qatar
+4880,1/30/20,0,Qatar
+4881,1/31/20,0,Qatar
+4882,2/1/20,0,Qatar
+4883,2/2/20,0,Qatar
+4884,2/3/20,0,Qatar
+4885,2/4/20,0,Qatar
+4886,2/5/20,0,Qatar
+4887,2/6/20,0,Qatar
+4888,2/7/20,0,Qatar
+4889,2/8/20,0,Qatar
+4890,2/9/20,0,Qatar
+4891,2/10/20,0,Qatar
+4892,2/11/20,0,Qatar
+4893,2/12/20,0,Qatar
+4894,2/13/20,0,Qatar
+4895,2/14/20,0,Qatar
+4896,2/15/20,0,Qatar
+4897,2/16/20,0,Qatar
+4898,2/17/20,0,Qatar
+4899,2/18/20,0,Qatar
+4900,2/19/20,0,Qatar
+4901,2/20/20,0,Qatar
+4902,2/21/20,0,Qatar
+4903,2/22/20,0,Qatar
+4904,2/23/20,0,Qatar
+4905,2/24/20,0,Qatar
+4906,2/25/20,0,Qatar
+4907,2/26/20,0,Qatar
+4908,2/27/20,0,Qatar
+4909,2/28/20,0,Qatar
+4910,2/29/20,1,Qatar
+4911,3/1/20,3,Qatar
+4912,3/2/20,3,Qatar
+4913,3/3/20,7,Qatar
+4914,1/22/20,0,US
+4915,1/23/20,0,US
+4916,1/24/20,0,US
+4917,1/25/20,0,US
+4918,1/26/20,0,US
+4919,1/27/20,0,US
+4920,1/28/20,0,US
+4921,1/29/20,0,US
+4922,1/30/20,0,US
+4923,1/31/20,0,US
+4924,2/1/20,0,US
+4925,2/2/20,0,US
+4926,2/3/20,0,US
+4927,2/4/20,0,US
+4928,2/5/20,0,US
+4929,2/6/20,0,US
+4930,2/7/20,0,US
+4931,2/8/20,0,US
+4932,2/9/20,0,US
+4933,2/10/20,0,US
+4934,2/11/20,0,US
+4935,2/12/20,0,US
+4936,2/13/20,0,US
+4937,2/14/20,0,US
+4938,2/15/20,0,US
+4939,2/16/20,0,US
+4940,2/17/20,0,US
+4941,2/18/20,0,US
+4942,2/19/20,0,US
+4943,2/20/20,0,US
+4944,2/21/20,0,US
+4945,2/22/20,0,US
+4946,2/23/20,0,US
+4947,2/24/20,0,US
+4948,2/25/20,0,US
+4949,2/26/20,0,US
+4950,2/27/20,0,US
+4951,2/28/20,0,US
+4952,2/29/20,1,US
+4953,3/1/20,2,US
+4954,3/2/20,4,US
+4955,3/3/20,6,US
+4956,1/22/20,0,Ecuador
+4957,1/23/20,0,Ecuador
+4958,1/24/20,0,Ecuador
+4959,1/25/20,0,Ecuador
+4960,1/26/20,0,Ecuador
+4961,1/27/20,0,Ecuador
+4962,1/28/20,0,Ecuador
+4963,1/29/20,0,Ecuador
+4964,1/30/20,0,Ecuador
+4965,1/31/20,0,Ecuador
+4966,2/1/20,0,Ecuador
+4967,2/2/20,0,Ecuador
+4968,2/3/20,0,Ecuador
+4969,2/4/20,0,Ecuador
+4970,2/5/20,0,Ecuador
+4971,2/6/20,0,Ecuador
+4972,2/7/20,0,Ecuador
+4973,2/8/20,0,Ecuador
+4974,2/9/20,0,Ecuador
+4975,2/10/20,0,Ecuador
+4976,2/11/20,0,Ecuador
+4977,2/12/20,0,Ecuador
+4978,2/13/20,0,Ecuador
+4979,2/14/20,0,Ecuador
+4980,2/15/20,0,Ecuador
+4981,2/16/20,0,Ecuador
+4982,2/17/20,0,Ecuador
+4983,2/18/20,0,Ecuador
+4984,2/19/20,0,Ecuador
+4985,2/20/20,0,Ecuador
+4986,2/21/20,0,Ecuador
+4987,2/22/20,0,Ecuador
+4988,2/23/20,0,Ecuador
+4989,2/24/20,0,Ecuador
+4990,2/25/20,0,Ecuador
+4991,2/26/20,0,Ecuador
+4992,2/27/20,0,Ecuador
+4993,2/28/20,0,Ecuador
+4994,2/29/20,0,Ecuador
+4995,3/1/20,6,Ecuador
+4996,3/2/20,6,Ecuador
+4997,3/3/20,7,Ecuador
+4998,1/22/20,0,Azerbaijan
+4999,1/23/20,0,Azerbaijan
+5000,1/24/20,0,Azerbaijan
+5001,1/25/20,0,Azerbaijan
+5002,1/26/20,0,Azerbaijan
+5003,1/27/20,0,Azerbaijan
+5004,1/28/20,0,Azerbaijan
+5005,1/29/20,0,Azerbaijan
+5006,1/30/20,0,Azerbaijan
+5007,1/31/20,0,Azerbaijan
+5008,2/1/20,0,Azerbaijan
+5009,2/2/20,0,Azerbaijan
+5010,2/3/20,0,Azerbaijan
+5011,2/4/20,0,Azerbaijan
+5012,2/5/20,0,Azerbaijan
+5013,2/6/20,0,Azerbaijan
+5014,2/7/20,0,Azerbaijan
+5015,2/8/20,0,Azerbaijan
+5016,2/9/20,0,Azerbaijan
+5017,2/10/20,0,Azerbaijan
+5018,2/11/20,0,Azerbaijan
+5019,2/12/20,0,Azerbaijan
+5020,2/13/20,0,Azerbaijan
+5021,2/14/20,0,Azerbaijan
+5022,2/15/20,0,Azerbaijan
+5023,2/16/20,0,Azerbaijan
+5024,2/17/20,0,Azerbaijan
+5025,2/18/20,0,Azerbaijan
+5026,2/19/20,0,Azerbaijan
+5027,2/20/20,0,Azerbaijan
+5028,2/21/20,0,Azerbaijan
+5029,2/22/20,0,Azerbaijan
+5030,2/23/20,0,Azerbaijan
+5031,2/24/20,0,Azerbaijan
+5032,2/25/20,0,Azerbaijan
+5033,2/26/20,0,Azerbaijan
+5034,2/27/20,0,Azerbaijan
+5035,2/28/20,0,Azerbaijan
+5036,2/29/20,0,Azerbaijan
+5037,3/1/20,3,Azerbaijan
+5038,3/2/20,3,Azerbaijan
+5039,3/3/20,3,Azerbaijan
+5040,1/22/20,0,Czech Republic
+5041,1/23/20,0,Czech Republic
+5042,1/24/20,0,Czech Republic
+5043,1/25/20,0,Czech Republic
+5044,1/26/20,0,Czech Republic
+5045,1/27/20,0,Czech Republic
+5046,1/28/20,0,Czech Republic
+5047,1/29/20,0,Czech Republic
+5048,1/30/20,0,Czech Republic
+5049,1/31/20,0,Czech Republic
+5050,2/1/20,0,Czech Republic
+5051,2/2/20,0,Czech Republic
+5052,2/3/20,0,Czech Republic
+5053,2/4/20,0,Czech Republic
+5054,2/5/20,0,Czech Republic
+5055,2/6/20,0,Czech Republic
+5056,2/7/20,0,Czech Republic
+5057,2/8/20,0,Czech Republic
+5058,2/9/20,0,Czech Republic
+5059,2/10/20,0,Czech Republic
+5060,2/11/20,0,Czech Republic
+5061,2/12/20,0,Czech Republic
+5062,2/13/20,0,Czech Republic
+5063,2/14/20,0,Czech Republic
+5064,2/15/20,0,Czech Republic
+5065,2/16/20,0,Czech Republic
+5066,2/17/20,0,Czech Republic
+5067,2/18/20,0,Czech Republic
+5068,2/19/20,0,Czech Republic
+5069,2/20/20,0,Czech Republic
+5070,2/21/20,0,Czech Republic
+5071,2/22/20,0,Czech Republic
+5072,2/23/20,0,Czech Republic
+5073,2/24/20,0,Czech Republic
+5074,2/25/20,0,Czech Republic
+5075,2/26/20,0,Czech Republic
+5076,2/27/20,0,Czech Republic
+5077,2/28/20,0,Czech Republic
+5078,2/29/20,0,Czech Republic
+5079,3/1/20,3,Czech Republic
+5080,3/2/20,3,Czech Republic
+5081,3/3/20,5,Czech Republic
+5082,1/22/20,0,Armenia
+5083,1/23/20,0,Armenia
+5084,1/24/20,0,Armenia
+5085,1/25/20,0,Armenia
+5086,1/26/20,0,Armenia
+5087,1/27/20,0,Armenia
+5088,1/28/20,0,Armenia
+5089,1/29/20,0,Armenia
+5090,1/30/20,0,Armenia
+5091,1/31/20,0,Armenia
+5092,2/1/20,0,Armenia
+5093,2/2/20,0,Armenia
+5094,2/3/20,0,Armenia
+5095,2/4/20,0,Armenia
+5096,2/5/20,0,Armenia
+5097,2/6/20,0,Armenia
+5098,2/7/20,0,Armenia
+5099,2/8/20,0,Armenia
+5100,2/9/20,0,Armenia
+5101,2/10/20,0,Armenia
+5102,2/11/20,0,Armenia
+5103,2/12/20,0,Armenia
+5104,2/13/20,0,Armenia
+5105,2/14/20,0,Armenia
+5106,2/15/20,0,Armenia
+5107,2/16/20,0,Armenia
+5108,2/17/20,0,Armenia
+5109,2/18/20,0,Armenia
+5110,2/19/20,0,Armenia
+5111,2/20/20,0,Armenia
+5112,2/21/20,0,Armenia
+5113,2/22/20,0,Armenia
+5114,2/23/20,0,Armenia
+5115,2/24/20,0,Armenia
+5116,2/25/20,0,Armenia
+5117,2/26/20,0,Armenia
+5118,2/27/20,0,Armenia
+5119,2/28/20,0,Armenia
+5120,2/29/20,0,Armenia
+5121,3/1/20,1,Armenia
+5122,3/2/20,1,Armenia
+5123,3/3/20,1,Armenia
+5124,1/22/20,0,Dominican Republic
+5125,1/23/20,0,Dominican Republic
+5126,1/24/20,0,Dominican Republic
+5127,1/25/20,0,Dominican Republic
+5128,1/26/20,0,Dominican Republic
+5129,1/27/20,0,Dominican Republic
+5130,1/28/20,0,Dominican Republic
+5131,1/29/20,0,Dominican Republic
+5132,1/30/20,0,Dominican Republic
+5133,1/31/20,0,Dominican Republic
+5134,2/1/20,0,Dominican Republic
+5135,2/2/20,0,Dominican Republic
+5136,2/3/20,0,Dominican Republic
+5137,2/4/20,0,Dominican Republic
+5138,2/5/20,0,Dominican Republic
+5139,2/6/20,0,Dominican Republic
+5140,2/7/20,0,Dominican Republic
+5141,2/8/20,0,Dominican Republic
+5142,2/9/20,0,Dominican Republic
+5143,2/10/20,0,Dominican Republic
+5144,2/11/20,0,Dominican Republic
+5145,2/12/20,0,Dominican Republic
+5146,2/13/20,0,Dominican Republic
+5147,2/14/20,0,Dominican Republic
+5148,2/15/20,0,Dominican Republic
+5149,2/16/20,0,Dominican Republic
+5150,2/17/20,0,Dominican Republic
+5151,2/18/20,0,Dominican Republic
+5152,2/19/20,0,Dominican Republic
+5153,2/20/20,0,Dominican Republic
+5154,2/21/20,0,Dominican Republic
+5155,2/22/20,0,Dominican Republic
+5156,2/23/20,0,Dominican Republic
+5157,2/24/20,0,Dominican Republic
+5158,2/25/20,0,Dominican Republic
+5159,2/26/20,0,Dominican Republic
+5160,2/27/20,0,Dominican Republic
+5161,2/28/20,0,Dominican Republic
+5162,2/29/20,0,Dominican Republic
+5163,3/1/20,1,Dominican Republic
+5164,3/2/20,1,Dominican Republic
+5165,3/3/20,1,Dominican Republic
+5166,1/22/20,0,US
+5167,1/23/20,0,US
+5168,1/24/20,0,US
+5169,1/25/20,0,US
+5170,1/26/20,0,US
+5171,1/27/20,0,US
+5172,1/28/20,0,US
+5173,1/29/20,0,US
+5174,1/30/20,0,US
+5175,1/31/20,0,US
+5176,2/1/20,0,US
+5177,2/2/20,0,US
+5178,2/3/20,0,US
+5179,2/4/20,0,US
+5180,2/5/20,0,US
+5181,2/6/20,0,US
+5182,2/7/20,0,US
+5183,2/8/20,0,US
+5184,2/9/20,0,US
+5185,2/10/20,0,US
+5186,2/11/20,0,US
+5187,2/12/20,0,US
+5188,2/13/20,0,US
+5189,2/14/20,0,US
+5190,2/15/20,0,US
+5191,2/16/20,0,US
+5192,2/17/20,0,US
+5193,2/18/20,0,US
+5194,2/19/20,0,US
+5195,2/20/20,0,US
+5196,2/21/20,0,US
+5197,2/22/20,0,US
+5198,2/23/20,0,US
+5199,2/24/20,0,US
+5200,2/25/20,0,US
+5201,2/26/20,0,US
+5202,2/27/20,0,US
+5203,2/28/20,0,US
+5204,2/29/20,0,US
+5205,3/1/20,1,US
+5206,3/2/20,2,US
+5207,3/3/20,2,US
+5208,1/22/20,0,Indonesia
+5209,1/23/20,0,Indonesia
+5210,1/24/20,0,Indonesia
+5211,1/25/20,0,Indonesia
+5212,1/26/20,0,Indonesia
+5213,1/27/20,0,Indonesia
+5214,1/28/20,0,Indonesia
+5215,1/29/20,0,Indonesia
+5216,1/30/20,0,Indonesia
+5217,1/31/20,0,Indonesia
+5218,2/1/20,0,Indonesia
+5219,2/2/20,0,Indonesia
+5220,2/3/20,0,Indonesia
+5221,2/4/20,0,Indonesia
+5222,2/5/20,0,Indonesia
+5223,2/6/20,0,Indonesia
+5224,2/7/20,0,Indonesia
+5225,2/8/20,0,Indonesia
+5226,2/9/20,0,Indonesia
+5227,2/10/20,0,Indonesia
+5228,2/11/20,0,Indonesia
+5229,2/12/20,0,Indonesia
+5230,2/13/20,0,Indonesia
+5231,2/14/20,0,Indonesia
+5232,2/15/20,0,Indonesia
+5233,2/16/20,0,Indonesia
+5234,2/17/20,0,Indonesia
+5235,2/18/20,0,Indonesia
+5236,2/19/20,0,Indonesia
+5237,2/20/20,0,Indonesia
+5238,2/21/20,0,Indonesia
+5239,2/22/20,0,Indonesia
+5240,2/23/20,0,Indonesia
+5241,2/24/20,0,Indonesia
+5242,2/25/20,0,Indonesia
+5243,2/26/20,0,Indonesia
+5244,2/27/20,0,Indonesia
+5245,2/28/20,0,Indonesia
+5246,2/29/20,0,Indonesia
+5247,3/1/20,0,Indonesia
+5248,3/2/20,2,Indonesia
+5249,3/3/20,2,Indonesia
+5250,1/22/20,0,Portugal
+5251,1/23/20,0,Portugal
+5252,1/24/20,0,Portugal
+5253,1/25/20,0,Portugal
+5254,1/26/20,0,Portugal
+5255,1/27/20,0,Portugal
+5256,1/28/20,0,Portugal
+5257,1/29/20,0,Portugal
+5258,1/30/20,0,Portugal
+5259,1/31/20,0,Portugal
+5260,2/1/20,0,Portugal
+5261,2/2/20,0,Portugal
+5262,2/3/20,0,Portugal
+5263,2/4/20,0,Portugal
+5264,2/5/20,0,Portugal
+5265,2/6/20,0,Portugal
+5266,2/7/20,0,Portugal
+5267,2/8/20,0,Portugal
+5268,2/9/20,0,Portugal
+5269,2/10/20,0,Portugal
+5270,2/11/20,0,Portugal
+5271,2/12/20,0,Portugal
+5272,2/13/20,0,Portugal
+5273,2/14/20,0,Portugal
+5274,2/15/20,0,Portugal
+5275,2/16/20,0,Portugal
+5276,2/17/20,0,Portugal
+5277,2/18/20,0,Portugal
+5278,2/19/20,0,Portugal
+5279,2/20/20,0,Portugal
+5280,2/21/20,0,Portugal
+5281,2/22/20,0,Portugal
+5282,2/23/20,0,Portugal
+5283,2/24/20,0,Portugal
+5284,2/25/20,0,Portugal
+5285,2/26/20,0,Portugal
+5286,2/27/20,0,Portugal
+5287,2/28/20,0,Portugal
+5288,2/29/20,0,Portugal
+5289,3/1/20,0,Portugal
+5290,3/2/20,2,Portugal
+5291,3/3/20,2,Portugal
+5292,1/22/20,0,Andorra
+5293,1/23/20,0,Andorra
+5294,1/24/20,0,Andorra
+5295,1/25/20,0,Andorra
+5296,1/26/20,0,Andorra
+5297,1/27/20,0,Andorra
+5298,1/28/20,0,Andorra
+5299,1/29/20,0,Andorra
+5300,1/30/20,0,Andorra
+5301,1/31/20,0,Andorra
+5302,2/1/20,0,Andorra
+5303,2/2/20,0,Andorra
+5304,2/3/20,0,Andorra
+5305,2/4/20,0,Andorra
+5306,2/5/20,0,Andorra
+5307,2/6/20,0,Andorra
+5308,2/7/20,0,Andorra
+5309,2/8/20,0,Andorra
+5310,2/9/20,0,Andorra
+5311,2/10/20,0,Andorra
+5312,2/11/20,0,Andorra
+5313,2/12/20,0,Andorra
+5314,2/13/20,0,Andorra
+5315,2/14/20,0,Andorra
+5316,2/15/20,0,Andorra
+5317,2/16/20,0,Andorra
+5318,2/17/20,0,Andorra
+5319,2/18/20,0,Andorra
+5320,2/19/20,0,Andorra
+5321,2/20/20,0,Andorra
+5322,2/21/20,0,Andorra
+5323,2/22/20,0,Andorra
+5324,2/23/20,0,Andorra
+5325,2/24/20,0,Andorra
+5326,2/25/20,0,Andorra
+5327,2/26/20,0,Andorra
+5328,2/27/20,0,Andorra
+5329,2/28/20,0,Andorra
+5330,2/29/20,0,Andorra
+5331,3/1/20,0,Andorra
+5332,3/2/20,1,Andorra
+5333,3/3/20,1,Andorra
+5334,1/22/20,0,Australia
+5335,1/23/20,0,Australia
+5336,1/24/20,0,Australia
+5337,1/25/20,0,Australia
+5338,1/26/20,0,Australia
+5339,1/27/20,0,Australia
+5340,1/28/20,0,Australia
+5341,1/29/20,0,Australia
+5342,1/30/20,0,Australia
+5343,1/31/20,0,Australia
+5344,2/1/20,0,Australia
+5345,2/2/20,0,Australia
+5346,2/3/20,0,Australia
+5347,2/4/20,0,Australia
+5348,2/5/20,0,Australia
+5349,2/6/20,0,Australia
+5350,2/7/20,0,Australia
+5351,2/8/20,0,Australia
+5352,2/9/20,0,Australia
+5353,2/10/20,0,Australia
+5354,2/11/20,0,Australia
+5355,2/12/20,0,Australia
+5356,2/13/20,0,Australia
+5357,2/14/20,0,Australia
+5358,2/15/20,0,Australia
+5359,2/16/20,0,Australia
+5360,2/17/20,0,Australia
+5361,2/18/20,0,Australia
+5362,2/19/20,0,Australia
+5363,2/20/20,0,Australia
+5364,2/21/20,0,Australia
+5365,2/22/20,0,Australia
+5366,2/23/20,0,Australia
+5367,2/24/20,0,Australia
+5368,2/25/20,0,Australia
+5369,2/26/20,0,Australia
+5370,2/27/20,0,Australia
+5371,2/28/20,0,Australia
+5372,2/29/20,0,Australia
+5373,3/1/20,0,Australia
+5374,3/2/20,1,Australia
+5375,3/3/20,1,Australia
+5376,1/22/20,0,Latvia
+5377,1/23/20,0,Latvia
+5378,1/24/20,0,Latvia
+5379,1/25/20,0,Latvia
+5380,1/26/20,0,Latvia
+5381,1/27/20,0,Latvia
+5382,1/28/20,0,Latvia
+5383,1/29/20,0,Latvia
+5384,1/30/20,0,Latvia
+5385,1/31/20,0,Latvia
+5386,2/1/20,0,Latvia
+5387,2/2/20,0,Latvia
+5388,2/3/20,0,Latvia
+5389,2/4/20,0,Latvia
+5390,2/5/20,0,Latvia
+5391,2/6/20,0,Latvia
+5392,2/7/20,0,Latvia
+5393,2/8/20,0,Latvia
+5394,2/9/20,0,Latvia
+5395,2/10/20,0,Latvia
+5396,2/11/20,0,Latvia
+5397,2/12/20,0,Latvia
+5398,2/13/20,0,Latvia
+5399,2/14/20,0,Latvia
+5400,2/15/20,0,Latvia
+5401,2/16/20,0,Latvia
+5402,2/17/20,0,Latvia
+5403,2/18/20,0,Latvia
+5404,2/19/20,0,Latvia
+5405,2/20/20,0,Latvia
+5406,2/21/20,0,Latvia
+5407,2/22/20,0,Latvia
+5408,2/23/20,0,Latvia
+5409,2/24/20,0,Latvia
+5410,2/25/20,0,Latvia
+5411,2/26/20,0,Latvia
+5412,2/27/20,0,Latvia
+5413,2/28/20,0,Latvia
+5414,2/29/20,0,Latvia
+5415,3/1/20,0,Latvia
+5416,3/2/20,1,Latvia
+5417,3/3/20,1,Latvia
+5418,1/22/20,0,Morocco
+5419,1/23/20,0,Morocco
+5420,1/24/20,0,Morocco
+5421,1/25/20,0,Morocco
+5422,1/26/20,0,Morocco
+5423,1/27/20,0,Morocco
+5424,1/28/20,0,Morocco
+5425,1/29/20,0,Morocco
+5426,1/30/20,0,Morocco
+5427,1/31/20,0,Morocco
+5428,2/1/20,0,Morocco
+5429,2/2/20,0,Morocco
+5430,2/3/20,0,Morocco
+5431,2/4/20,0,Morocco
+5432,2/5/20,0,Morocco
+5433,2/6/20,0,Morocco
+5434,2/7/20,0,Morocco
+5435,2/8/20,0,Morocco
+5436,2/9/20,0,Morocco
+5437,2/10/20,0,Morocco
+5438,2/11/20,0,Morocco
+5439,2/12/20,0,Morocco
+5440,2/13/20,0,Morocco
+5441,2/14/20,0,Morocco
+5442,2/15/20,0,Morocco
+5443,2/16/20,0,Morocco
+5444,2/17/20,0,Morocco
+5445,2/18/20,0,Morocco
+5446,2/19/20,0,Morocco
+5447,2/20/20,0,Morocco
+5448,2/21/20,0,Morocco
+5449,2/22/20,0,Morocco
+5450,2/23/20,0,Morocco
+5451,2/24/20,0,Morocco
+5452,2/25/20,0,Morocco
+5453,2/26/20,0,Morocco
+5454,2/27/20,0,Morocco
+5455,2/28/20,0,Morocco
+5456,2/29/20,0,Morocco
+5457,3/1/20,0,Morocco
+5458,3/2/20,1,Morocco
+5459,3/3/20,1,Morocco
+5460,1/22/20,0,Saudi Arabia
+5461,1/23/20,0,Saudi Arabia
+5462,1/24/20,0,Saudi Arabia
+5463,1/25/20,0,Saudi Arabia
+5464,1/26/20,0,Saudi Arabia
+5465,1/27/20,0,Saudi Arabia
+5466,1/28/20,0,Saudi Arabia
+5467,1/29/20,0,Saudi Arabia
+5468,1/30/20,0,Saudi Arabia
+5469,1/31/20,0,Saudi Arabia
+5470,2/1/20,0,Saudi Arabia
+5471,2/2/20,0,Saudi Arabia
+5472,2/3/20,0,Saudi Arabia
+5473,2/4/20,0,Saudi Arabia
+5474,2/5/20,0,Saudi Arabia
+5475,2/6/20,0,Saudi Arabia
+5476,2/7/20,0,Saudi Arabia
+5477,2/8/20,0,Saudi Arabia
+5478,2/9/20,0,Saudi Arabia
+5479,2/10/20,0,Saudi Arabia
+5480,2/11/20,0,Saudi Arabia
+5481,2/12/20,0,Saudi Arabia
+5482,2/13/20,0,Saudi Arabia
+5483,2/14/20,0,Saudi Arabia
+5484,2/15/20,0,Saudi Arabia
+5485,2/16/20,0,Saudi Arabia
+5486,2/17/20,0,Saudi Arabia
+5487,2/18/20,0,Saudi Arabia
+5488,2/19/20,0,Saudi Arabia
+5489,2/20/20,0,Saudi Arabia
+5490,2/21/20,0,Saudi Arabia
+5491,2/22/20,0,Saudi Arabia
+5492,2/23/20,0,Saudi Arabia
+5493,2/24/20,0,Saudi Arabia
+5494,2/25/20,0,Saudi Arabia
+5495,2/26/20,0,Saudi Arabia
+5496,2/27/20,0,Saudi Arabia
+5497,2/28/20,0,Saudi Arabia
+5498,2/29/20,0,Saudi Arabia
+5499,3/1/20,0,Saudi Arabia
+5500,3/2/20,1,Saudi Arabia
+5501,3/3/20,1,Saudi Arabia
+5502,1/22/20,0,Senegal
+5503,1/23/20,0,Senegal
+5504,1/24/20,0,Senegal
+5505,1/25/20,0,Senegal
+5506,1/26/20,0,Senegal
+5507,1/27/20,0,Senegal
+5508,1/28/20,0,Senegal
+5509,1/29/20,0,Senegal
+5510,1/30/20,0,Senegal
+5511,1/31/20,0,Senegal
+5512,2/1/20,0,Senegal
+5513,2/2/20,0,Senegal
+5514,2/3/20,0,Senegal
+5515,2/4/20,0,Senegal
+5516,2/5/20,0,Senegal
+5517,2/6/20,0,Senegal
+5518,2/7/20,0,Senegal
+5519,2/8/20,0,Senegal
+5520,2/9/20,0,Senegal
+5521,2/10/20,0,Senegal
+5522,2/11/20,0,Senegal
+5523,2/12/20,0,Senegal
+5524,2/13/20,0,Senegal
+5525,2/14/20,0,Senegal
+5526,2/15/20,0,Senegal
+5527,2/16/20,0,Senegal
+5528,2/17/20,0,Senegal
+5529,2/18/20,0,Senegal
+5530,2/19/20,0,Senegal
+5531,2/20/20,0,Senegal
+5532,2/21/20,0,Senegal
+5533,2/22/20,0,Senegal
+5534,2/23/20,0,Senegal
+5535,2/24/20,0,Senegal
+5536,2/25/20,0,Senegal
+5537,2/26/20,0,Senegal
+5538,2/27/20,0,Senegal
+5539,2/28/20,0,Senegal
+5540,2/29/20,0,Senegal
+5541,3/1/20,0,Senegal
+5542,3/2/20,1,Senegal
+5543,3/3/20,2,Senegal
+5544,1/22/20,0,US
+5545,1/23/20,0,US
+5546,1/24/20,0,US
+5547,1/25/20,0,US
+5548,1/26/20,0,US
+5549,1/27/20,0,US
+5550,1/28/20,0,US
+5551,1/29/20,0,US
+5552,1/30/20,0,US
+5553,1/31/20,0,US
+5554,2/1/20,0,US
+5555,2/2/20,0,US
+5556,2/3/20,0,US
+5557,2/4/20,0,US
+5558,2/5/20,0,US
+5559,2/6/20,0,US
+5560,2/7/20,0,US
+5561,2/8/20,0,US
+5562,2/9/20,0,US
+5563,2/10/20,0,US
+5564,2/11/20,0,US
+5565,2/12/20,0,US
+5566,2/13/20,0,US
+5567,2/14/20,0,US
+5568,2/15/20,0,US
+5569,2/16/20,0,US
+5570,2/17/20,0,US
+5571,2/18/20,0,US
+5572,2/19/20,0,US
+5573,2/20/20,0,US
+5574,2/21/20,0,US
+5575,2/22/20,0,US
+5576,2/23/20,0,US
+5577,2/24/20,0,US
+5578,2/25/20,0,US
+5579,2/26/20,0,US
+5580,2/27/20,0,US
+5581,2/28/20,0,US
+5582,2/29/20,0,US
+5583,3/1/20,0,US
+5584,3/2/20,1,US
+5585,3/3/20,2,US
+5586,1/22/20,0,US
+5587,1/23/20,0,US
+5588,1/24/20,0,US
+5589,1/25/20,0,US
+5590,1/26/20,0,US
+5591,1/27/20,0,US
+5592,1/28/20,0,US
+5593,1/29/20,0,US
+5594,1/30/20,0,US
+5595,1/31/20,0,US
+5596,2/1/20,0,US
+5597,2/2/20,0,US
+5598,2/3/20,0,US
+5599,2/4/20,0,US
+5600,2/5/20,0,US
+5601,2/6/20,0,US
+5602,2/7/20,0,US
+5603,2/8/20,0,US
+5604,2/9/20,0,US
+5605,2/10/20,0,US
+5606,2/11/20,0,US
+5607,2/12/20,0,US
+5608,2/13/20,0,US
+5609,2/14/20,0,US
+5610,2/15/20,0,US
+5611,2/16/20,0,US
+5612,2/17/20,0,US
+5613,2/18/20,0,US
+5614,2/19/20,0,US
+5615,2/20/20,0,US
+5616,2/21/20,0,US
+5617,2/22/20,0,US
+5618,2/23/20,0,US
+5619,2/24/20,0,US
+5620,2/25/20,0,US
+5621,2/26/20,0,US
+5622,2/27/20,0,US
+5623,2/28/20,0,US
+5624,2/29/20,0,US
+5625,3/1/20,0,US
+5626,3/2/20,1,US
+5627,3/3/20,2,US
+5628,1/22/20,0,US
+5629,1/23/20,0,US
+5630,1/24/20,0,US
+5631,1/25/20,0,US
+5632,1/26/20,0,US
+5633,1/27/20,0,US
+5634,1/28/20,0,US
+5635,1/29/20,0,US
+5636,1/30/20,0,US
+5637,1/31/20,0,US
+5638,2/1/20,0,US
+5639,2/2/20,0,US
+5640,2/3/20,0,US
+5641,2/4/20,0,US
+5642,2/5/20,0,US
+5643,2/6/20,0,US
+5644,2/7/20,0,US
+5645,2/8/20,0,US
+5646,2/9/20,0,US
+5647,2/10/20,0,US
+5648,2/11/20,0,US
+5649,2/12/20,0,US
+5650,2/13/20,0,US
+5651,2/14/20,0,US
+5652,2/15/20,0,US
+5653,2/16/20,0,US
+5654,2/17/20,0,US
+5655,2/18/20,0,US
+5656,2/19/20,0,US
+5657,2/20/20,0,US
+5658,2/21/20,0,US
+5659,2/22/20,0,US
+5660,2/23/20,0,US
+5661,2/24/20,0,US
+5662,2/25/20,0,US
+5663,2/26/20,0,US
+5664,2/27/20,0,US
+5665,2/28/20,0,US
+5666,2/29/20,0,US
+5667,3/1/20,0,US
+5668,3/2/20,1,US
+5669,3/3/20,1,US
+5670,1/22/20,0,US
+5671,1/23/20,0,US
+5672,1/24/20,0,US
+5673,1/25/20,0,US
+5674,1/26/20,0,US
+5675,1/27/20,0,US
+5676,1/28/20,0,US
+5677,1/29/20,0,US
+5678,1/30/20,0,US
+5679,1/31/20,0,US
+5680,2/1/20,0,US
+5681,2/2/20,0,US
+5682,2/3/20,0,US
+5683,2/4/20,0,US
+5684,2/5/20,0,US
+5685,2/6/20,0,US
+5686,2/7/20,0,US
+5687,2/8/20,0,US
+5688,2/9/20,0,US
+5689,2/10/20,0,US
+5690,2/11/20,0,US
+5691,2/12/20,0,US
+5692,2/13/20,0,US
+5693,2/14/20,0,US
+5694,2/15/20,0,US
+5695,2/16/20,0,US
+5696,2/17/20,0,US
+5697,2/18/20,0,US
+5698,2/19/20,0,US
+5699,2/20/20,0,US
+5700,2/21/20,0,US
+5701,2/22/20,0,US
+5702,2/23/20,0,US
+5703,2/24/20,0,US
+5704,2/25/20,0,US
+5705,2/26/20,0,US
+5706,2/27/20,0,US
+5707,2/28/20,0,US
+5708,2/29/20,0,US
+5709,3/1/20,0,US
+5710,3/2/20,1,US
+5711,3/3/20,1,US
+5712,1/22/20,0,US
+5713,1/23/20,0,US
+5714,1/24/20,0,US
+5715,1/25/20,0,US
+5716,1/26/20,0,US
+5717,1/27/20,0,US
+5718,1/28/20,0,US
+5719,1/29/20,0,US
+5720,1/30/20,0,US
+5721,1/31/20,0,US
+5722,2/1/20,0,US
+5723,2/2/20,0,US
+5724,2/3/20,0,US
+5725,2/4/20,0,US
+5726,2/5/20,0,US
+5727,2/6/20,0,US
+5728,2/7/20,0,US
+5729,2/8/20,0,US
+5730,2/9/20,0,US
+5731,2/10/20,0,US
+5732,2/11/20,0,US
+5733,2/12/20,0,US
+5734,2/13/20,0,US
+5735,2/14/20,0,US
+5736,2/15/20,0,US
+5737,2/16/20,0,US
+5738,2/17/20,0,US
+5739,2/18/20,0,US
+5740,2/19/20,0,US
+5741,2/20/20,0,US
+5742,2/21/20,0,US
+5743,2/22/20,0,US
+5744,2/23/20,0,US
+5745,2/24/20,0,US
+5746,2/25/20,0,US
+5747,2/26/20,0,US
+5748,2/27/20,0,US
+5749,2/28/20,0,US
+5750,2/29/20,0,US
+5751,3/1/20,0,US
+5752,3/2/20,1,US
+5753,3/3/20,2,US
+5754,1/22/20,0,US
+5755,1/23/20,0,US
+5756,1/24/20,0,US
+5757,1/25/20,0,US
+5758,1/26/20,0,US
+5759,1/27/20,0,US
+5760,1/28/20,0,US
+5761,1/29/20,0,US
+5762,1/30/20,0,US
+5763,1/31/20,0,US
+5764,2/1/20,0,US
+5765,2/2/20,0,US
+5766,2/3/20,0,US
+5767,2/4/20,0,US
+5768,2/5/20,0,US
+5769,2/6/20,0,US
+5770,2/7/20,0,US
+5771,2/8/20,0,US
+5772,2/9/20,0,US
+5773,2/10/20,0,US
+5774,2/11/20,0,US
+5775,2/12/20,0,US
+5776,2/13/20,0,US
+5777,2/14/20,0,US
+5778,2/15/20,0,US
+5779,2/16/20,0,US
+5780,2/17/20,0,US
+5781,2/18/20,0,US
+5782,2/19/20,0,US
+5783,2/20/20,0,US
+5784,2/21/20,0,US
+5785,2/22/20,0,US
+5786,2/23/20,0,US
+5787,2/24/20,0,US
+5788,2/25/20,0,US
+5789,2/26/20,0,US
+5790,2/27/20,0,US
+5791,2/28/20,0,US
+5792,2/29/20,0,US
+5793,3/1/20,0,US
+5794,3/2/20,1,US
+5795,3/3/20,1,US
+5796,1/22/20,0,US
+5797,1/23/20,0,US
+5798,1/24/20,0,US
+5799,1/25/20,0,US
+5800,1/26/20,0,US
+5801,1/27/20,0,US
+5802,1/28/20,0,US
+5803,1/29/20,0,US
+5804,1/30/20,0,US
+5805,1/31/20,0,US
+5806,2/1/20,0,US
+5807,2/2/20,0,US
+5808,2/3/20,0,US
+5809,2/4/20,0,US
+5810,2/5/20,0,US
+5811,2/6/20,0,US
+5812,2/7/20,0,US
+5813,2/8/20,0,US
+5814,2/9/20,0,US
+5815,2/10/20,0,US
+5816,2/11/20,0,US
+5817,2/12/20,0,US
+5818,2/13/20,0,US
+5819,2/14/20,0,US
+5820,2/15/20,0,US
+5821,2/16/20,0,US
+5822,2/17/20,0,US
+5823,2/18/20,0,US
+5824,2/19/20,0,US
+5825,2/20/20,0,US
+5826,2/21/20,0,US
+5827,2/22/20,0,US
+5828,2/23/20,0,US
+5829,2/24/20,0,US
+5830,2/25/20,0,US
+5831,2/26/20,0,US
+5832,2/27/20,0,US
+5833,2/28/20,0,US
+5834,2/29/20,0,US
+5835,3/1/20,0,US
+5836,3/2/20,1,US
+5837,3/3/20,1,US
+5838,1/22/20,0,US
+5839,1/23/20,0,US
+5840,1/24/20,0,US
+5841,1/25/20,0,US
+5842,1/26/20,0,US
+5843,1/27/20,0,US
+5844,1/28/20,0,US
+5845,1/29/20,0,US
+5846,1/30/20,0,US
+5847,1/31/20,0,US
+5848,2/1/20,0,US
+5849,2/2/20,0,US
+5850,2/3/20,0,US
+5851,2/4/20,0,US
+5852,2/5/20,0,US
+5853,2/6/20,0,US
+5854,2/7/20,0,US
+5855,2/8/20,0,US
+5856,2/9/20,0,US
+5857,2/10/20,0,US
+5858,2/11/20,0,US
+5859,2/12/20,0,US
+5860,2/13/20,0,US
+5861,2/14/20,0,US
+5862,2/15/20,0,US
+5863,2/16/20,0,US
+5864,2/17/20,0,US
+5865,2/18/20,0,US
+5866,2/19/20,0,US
+5867,2/20/20,0,US
+5868,2/21/20,0,US
+5869,2/22/20,0,US
+5870,2/23/20,0,US
+5871,2/24/20,0,US
+5872,2/25/20,0,US
+5873,2/26/20,0,US
+5874,2/27/20,0,US
+5875,2/28/20,0,US
+5876,2/29/20,0,US
+5877,3/1/20,0,US
+5878,3/2/20,1,US
+5879,3/3/20,1,US
+5880,1/22/20,0,US
+5881,1/23/20,0,US
+5882,1/24/20,0,US
+5883,1/25/20,0,US
+5884,1/26/20,0,US
+5885,1/27/20,0,US
+5886,1/28/20,0,US
+5887,1/29/20,0,US
+5888,1/30/20,0,US
+5889,1/31/20,0,US
+5890,2/1/20,0,US
+5891,2/2/20,0,US
+5892,2/3/20,0,US
+5893,2/4/20,0,US
+5894,2/5/20,0,US
+5895,2/6/20,0,US
+5896,2/7/20,0,US
+5897,2/8/20,0,US
+5898,2/9/20,0,US
+5899,2/10/20,0,US
+5900,2/11/20,0,US
+5901,2/12/20,0,US
+5902,2/13/20,0,US
+5903,2/14/20,0,US
+5904,2/15/20,0,US
+5905,2/16/20,0,US
+5906,2/17/20,0,US
+5907,2/18/20,0,US
+5908,2/19/20,0,US
+5909,2/20/20,0,US
+5910,2/21/20,0,US
+5911,2/22/20,0,US
+5912,2/23/20,0,US
+5913,2/24/20,0,US
+5914,2/25/20,0,US
+5915,2/26/20,0,US
+5916,2/27/20,0,US
+5917,2/28/20,0,US
+5918,2/29/20,0,US
+5919,3/1/20,0,US
+5920,3/2/20,0,US
+5921,3/3/20,2,US
+5922,1/22/20,0,US
+5923,1/23/20,0,US
+5924,1/24/20,0,US
+5925,1/25/20,0,US
+5926,1/26/20,0,US
+5927,1/27/20,0,US
+5928,1/28/20,0,US
+5929,1/29/20,0,US
+5930,1/30/20,0,US
+5931,1/31/20,0,US
+5932,2/1/20,0,US
+5933,2/2/20,0,US
+5934,2/3/20,0,US
+5935,2/4/20,0,US
+5936,2/5/20,0,US
+5937,2/6/20,0,US
+5938,2/7/20,0,US
+5939,2/8/20,0,US
+5940,2/9/20,0,US
+5941,2/10/20,0,US
+5942,2/11/20,0,US
+5943,2/12/20,0,US
+5944,2/13/20,0,US
+5945,2/14/20,0,US
+5946,2/15/20,0,US
+5947,2/16/20,0,US
+5948,2/17/20,0,US
+5949,2/18/20,0,US
+5950,2/19/20,0,US
+5951,2/20/20,0,US
+5952,2/21/20,0,US
+5953,2/22/20,0,US
+5954,2/23/20,0,US
+5955,2/24/20,0,US
+5956,2/25/20,0,US
+5957,2/26/20,0,US
+5958,2/27/20,0,US
+5959,2/28/20,0,US
+5960,2/29/20,1,US
+5961,3/1/20,1,US
+5962,3/2/20,2,US
+5963,3/3/20,2,US
+5964,1/22/20,0,Argentina
+5965,1/23/20,0,Argentina
+5966,1/24/20,0,Argentina
+5967,1/25/20,0,Argentina
+5968,1/26/20,0,Argentina
+5969,1/27/20,0,Argentina
+5970,1/28/20,0,Argentina
+5971,1/29/20,0,Argentina
+5972,1/30/20,0,Argentina
+5973,1/31/20,0,Argentina
+5974,2/1/20,0,Argentina
+5975,2/2/20,0,Argentina
+5976,2/3/20,0,Argentina
+5977,2/4/20,0,Argentina
+5978,2/5/20,0,Argentina
+5979,2/6/20,0,Argentina
+5980,2/7/20,0,Argentina
+5981,2/8/20,0,Argentina
+5982,2/9/20,0,Argentina
+5983,2/10/20,0,Argentina
+5984,2/11/20,0,Argentina
+5985,2/12/20,0,Argentina
+5986,2/13/20,0,Argentina
+5987,2/14/20,0,Argentina
+5988,2/15/20,0,Argentina
+5989,2/16/20,0,Argentina
+5990,2/17/20,0,Argentina
+5991,2/18/20,0,Argentina
+5992,2/19/20,0,Argentina
+5993,2/20/20,0,Argentina
+5994,2/21/20,0,Argentina
+5995,2/22/20,0,Argentina
+5996,2/23/20,0,Argentina
+5997,2/24/20,0,Argentina
+5998,2/25/20,0,Argentina
+5999,2/26/20,0,Argentina
+6000,2/27/20,0,Argentina
+6001,2/28/20,0,Argentina
+6002,2/29/20,0,Argentina
+6003,3/1/20,0,Argentina
+6004,3/2/20,0,Argentina
+6005,3/3/20,1,Argentina
+6006,1/22/20,0,Chile
+6007,1/23/20,0,Chile
+6008,1/24/20,0,Chile
+6009,1/25/20,0,Chile
+6010,1/26/20,0,Chile
+6011,1/27/20,0,Chile
+6012,1/28/20,0,Chile
+6013,1/29/20,0,Chile
+6014,1/30/20,0,Chile
+6015,1/31/20,0,Chile
+6016,2/1/20,0,Chile
+6017,2/2/20,0,Chile
+6018,2/3/20,0,Chile
+6019,2/4/20,0,Chile
+6020,2/5/20,0,Chile
+6021,2/6/20,0,Chile
+6022,2/7/20,0,Chile
+6023,2/8/20,0,Chile
+6024,2/9/20,0,Chile
+6025,2/10/20,0,Chile
+6026,2/11/20,0,Chile
+6027,2/12/20,0,Chile
+6028,2/13/20,0,Chile
+6029,2/14/20,0,Chile
+6030,2/15/20,0,Chile
+6031,2/16/20,0,Chile
+6032,2/17/20,0,Chile
+6033,2/18/20,0,Chile
+6034,2/19/20,0,Chile
+6035,2/20/20,0,Chile
+6036,2/21/20,0,Chile
+6037,2/22/20,0,Chile
+6038,2/23/20,0,Chile
+6039,2/24/20,0,Chile
+6040,2/25/20,0,Chile
+6041,2/26/20,0,Chile
+6042,2/27/20,0,Chile
+6043,2/28/20,0,Chile
+6044,2/29/20,0,Chile
+6045,3/1/20,0,Chile
+6046,3/2/20,0,Chile
+6047,3/3/20,1,Chile
+6048,1/22/20,0,Jordan
+6049,1/23/20,0,Jordan
+6050,1/24/20,0,Jordan
+6051,1/25/20,0,Jordan
+6052,1/26/20,0,Jordan
+6053,1/27/20,0,Jordan
+6054,1/28/20,0,Jordan
+6055,1/29/20,0,Jordan
+6056,1/30/20,0,Jordan
+6057,1/31/20,0,Jordan
+6058,2/1/20,0,Jordan
+6059,2/2/20,0,Jordan
+6060,2/3/20,0,Jordan
+6061,2/4/20,0,Jordan
+6062,2/5/20,0,Jordan
+6063,2/6/20,0,Jordan
+6064,2/7/20,0,Jordan
+6065,2/8/20,0,Jordan
+6066,2/9/20,0,Jordan
+6067,2/10/20,0,Jordan
+6068,2/11/20,0,Jordan
+6069,2/12/20,0,Jordan
+6070,2/13/20,0,Jordan
+6071,2/14/20,0,Jordan
+6072,2/15/20,0,Jordan
+6073,2/16/20,0,Jordan
+6074,2/17/20,0,Jordan
+6075,2/18/20,0,Jordan
+6076,2/19/20,0,Jordan
+6077,2/20/20,0,Jordan
+6078,2/21/20,0,Jordan
+6079,2/22/20,0,Jordan
+6080,2/23/20,0,Jordan
+6081,2/24/20,0,Jordan
+6082,2/25/20,0,Jordan
+6083,2/26/20,0,Jordan
+6084,2/27/20,0,Jordan
+6085,2/28/20,0,Jordan
+6086,2/29/20,0,Jordan
+6087,3/1/20,0,Jordan
+6088,3/2/20,0,Jordan
+6089,3/3/20,1,Jordan
+6090,1/22/20,0,US
+6091,1/23/20,0,US
+6092,1/24/20,0,US
+6093,1/25/20,0,US
+6094,1/26/20,0,US
+6095,1/27/20,0,US
+6096,1/28/20,0,US
+6097,1/29/20,0,US
+6098,1/30/20,0,US
+6099,1/31/20,0,US
+6100,2/1/20,0,US
+6101,2/2/20,0,US
+6102,2/3/20,0,US
+6103,2/4/20,0,US
+6104,2/5/20,0,US
+6105,2/6/20,0,US
+6106,2/7/20,0,US
+6107,2/8/20,0,US
+6108,2/9/20,0,US
+6109,2/10/20,0,US
+6110,2/11/20,0,US
+6111,2/12/20,0,US
+6112,2/13/20,0,US
+6113,2/14/20,0,US
+6114,2/15/20,0,US
+6115,2/16/20,0,US
+6116,2/17/20,0,US
+6117,2/18/20,0,US
+6118,2/19/20,0,US
+6119,2/20/20,0,US
+6120,2/21/20,0,US
+6121,2/22/20,0,US
+6122,2/23/20,0,US
+6123,2/24/20,0,US
+6124,2/25/20,0,US
+6125,2/26/20,0,US
+6126,2/27/20,0,US
+6127,2/28/20,0,US
+6128,2/29/20,0,US
+6129,3/1/20,0,US
+6130,3/2/20,0,US
+6131,3/3/20,1,US
+6132,1/22/20,0,US
+6133,1/23/20,0,US
+6134,1/24/20,0,US
+6135,1/25/20,0,US
+6136,1/26/20,0,US
+6137,1/27/20,0,US
+6138,1/28/20,0,US
+6139,1/29/20,0,US
+6140,1/30/20,0,US
+6141,1/31/20,0,US
+6142,2/1/20,0,US
+6143,2/2/20,0,US
+6144,2/3/20,0,US
+6145,2/4/20,0,US
+6146,2/5/20,0,US
+6147,2/6/20,0,US
+6148,2/7/20,0,US
+6149,2/8/20,0,US
+6150,2/9/20,0,US
+6151,2/10/20,0,US
+6152,2/11/20,0,US
+6153,2/12/20,0,US
+6154,2/13/20,0,US
+6155,2/14/20,0,US
+6156,2/15/20,0,US
+6157,2/16/20,0,US
+6158,2/17/20,0,US
+6159,2/18/20,0,US
+6160,2/19/20,0,US
+6161,2/20/20,0,US
+6162,2/21/20,0,US
+6163,2/22/20,0,US
+6164,2/23/20,0,US
+6165,2/24/20,0,US
+6166,2/25/20,0,US
+6167,2/26/20,0,US
+6168,2/27/20,0,US
+6169,2/28/20,0,US
+6170,2/29/20,0,US
+6171,3/1/20,0,US
+6172,3/2/20,0,US
+6173,3/3/20,1,US
+6174,1/22/20,0,US
+6175,1/23/20,0,US
+6176,1/24/20,0,US
+6177,1/25/20,0,US
+6178,1/26/20,0,US
+6179,1/27/20,0,US
+6180,1/28/20,0,US
+6181,1/29/20,0,US
+6182,1/30/20,0,US
+6183,1/31/20,0,US
+6184,2/1/20,0,US
+6185,2/2/20,0,US
+6186,2/3/20,0,US
+6187,2/4/20,0,US
+6188,2/5/20,0,US
+6189,2/6/20,0,US
+6190,2/7/20,0,US
+6191,2/8/20,0,US
+6192,2/9/20,0,US
+6193,2/10/20,0,US
+6194,2/11/20,0,US
+6195,2/12/20,0,US
+6196,2/13/20,0,US
+6197,2/14/20,0,US
+6198,2/15/20,0,US
+6199,2/16/20,0,US
+6200,2/17/20,0,US
+6201,2/18/20,0,US
+6202,2/19/20,0,US
+6203,2/20/20,0,US
+6204,2/21/20,0,US
+6205,2/22/20,0,US
+6206,2/23/20,0,US
+6207,2/24/20,0,US
+6208,2/25/20,0,US
+6209,2/26/20,0,US
+6210,2/27/20,0,US
+6211,2/28/20,0,US
+6212,2/29/20,0,US
+6213,3/1/20,0,US
+6214,3/2/20,0,US
+6215,3/3/20,1,US
+6216,1/22/20,0,US
+6217,1/23/20,0,US
+6218,1/24/20,0,US
+6219,1/25/20,0,US
+6220,1/26/20,0,US
+6221,1/27/20,0,US
+6222,1/28/20,0,US
+6223,1/29/20,0,US
+6224,1/30/20,0,US
+6225,1/31/20,0,US
+6226,2/1/20,0,US
+6227,2/2/20,0,US
+6228,2/3/20,0,US
+6229,2/4/20,0,US
+6230,2/5/20,0,US
+6231,2/6/20,0,US
+6232,2/7/20,0,US
+6233,2/8/20,0,US
+6234,2/9/20,0,US
+6235,2/10/20,0,US
+6236,2/11/20,0,US
+6237,2/12/20,0,US
+6238,2/13/20,0,US
+6239,2/14/20,0,US
+6240,2/15/20,0,US
+6241,2/16/20,0,US
+6242,2/17/20,0,US
+6243,2/18/20,0,US
+6244,2/19/20,0,US
+6245,2/20/20,0,US
+6246,2/21/20,0,US
+6247,2/22/20,0,US
+6248,2/23/20,0,US
+6249,2/24/20,0,US
+6250,2/25/20,0,US
+6251,2/26/20,0,US
+6252,2/27/20,0,US
+6253,2/28/20,0,US
+6254,2/29/20,0,US
+6255,3/1/20,0,US
+6256,3/2/20,0,US
+6257,3/3/20,1,US
+6258,1/22/20,0,US
+6259,1/23/20,0,US
+6260,1/24/20,0,US
+6261,1/25/20,0,US
+6262,1/26/20,0,US
+6263,1/27/20,0,US
+6264,1/28/20,0,US
+6265,1/29/20,0,US
+6266,1/30/20,0,US
+6267,1/31/20,0,US
+6268,2/1/20,0,US
+6269,2/2/20,0,US
+6270,2/3/20,0,US
+6271,2/4/20,0,US
+6272,2/5/20,0,US
+6273,2/6/20,0,US
+6274,2/7/20,0,US
+6275,2/8/20,0,US
+6276,2/9/20,0,US
+6277,2/10/20,0,US
+6278,2/11/20,0,US
+6279,2/12/20,0,US
+6280,2/13/20,0,US
+6281,2/14/20,0,US
+6282,2/15/20,0,US
+6283,2/16/20,0,US
+6284,2/17/20,0,US
+6285,2/18/20,0,US
+6286,2/19/20,0,US
+6287,2/20/20,0,US
+6288,2/21/20,0,US
+6289,2/22/20,0,US
+6290,2/23/20,0,US
+6291,2/24/20,0,US
+6292,2/25/20,0,US
+6293,2/26/20,0,US
+6294,2/27/20,0,US
+6295,2/28/20,0,US
+6296,2/29/20,0,US
+6297,3/1/20,0,US
+6298,3/2/20,0,US
+6299,3/3/20,1,US
+6300,1/22/20,0,Ukraine
+6301,1/23/20,0,Ukraine
+6302,1/24/20,0,Ukraine
+6303,1/25/20,0,Ukraine
+6304,1/26/20,0,Ukraine
+6305,1/27/20,0,Ukraine
+6306,1/28/20,0,Ukraine
+6307,1/29/20,0,Ukraine
+6308,1/30/20,0,Ukraine
+6309,1/31/20,0,Ukraine
+6310,2/1/20,0,Ukraine
+6311,2/2/20,0,Ukraine
+6312,2/3/20,0,Ukraine
+6313,2/4/20,0,Ukraine
+6314,2/5/20,0,Ukraine
+6315,2/6/20,0,Ukraine
+6316,2/7/20,0,Ukraine
+6317,2/8/20,0,Ukraine
+6318,2/9/20,0,Ukraine
+6319,2/10/20,0,Ukraine
+6320,2/11/20,0,Ukraine
+6321,2/12/20,0,Ukraine
+6322,2/13/20,0,Ukraine
+6323,2/14/20,0,Ukraine
+6324,2/15/20,0,Ukraine
+6325,2/16/20,0,Ukraine
+6326,2/17/20,0,Ukraine
+6327,2/18/20,0,Ukraine
+6328,2/19/20,0,Ukraine
+6329,2/20/20,0,Ukraine
+6330,2/21/20,0,Ukraine
+6331,2/22/20,0,Ukraine
+6332,2/23/20,0,Ukraine
+6333,2/24/20,0,Ukraine
+6334,2/25/20,0,Ukraine
+6335,2/26/20,0,Ukraine
+6336,2/27/20,0,Ukraine
+6337,2/28/20,0,Ukraine
+6338,2/29/20,0,Ukraine
+6339,3/1/20,0,Ukraine
+6340,3/2/20,0,Ukraine
+6341,3/3/20,1,Ukraine
